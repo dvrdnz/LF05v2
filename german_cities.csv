@@ -1,0 +1,2055 @@
+id,name,district,state,population,lat,lon,area
+1,Aachen,Aachen,Nordrhein-Westfalen,248878,50.77556,6.08361,160.85
+2,Aach,Konstanz,Baden-Württemberg,2314,47.84556,8.85167,10.69
+3,Aalen,Ostalbkreis,Baden-Württemberg,68361,48.833,10.1,146.63
+4,Abenberg,Roth,Bayern,5492,49.25,10.967,48.39
+5,Abensberg,Kelheim,Bayern,14192,48.8,11.85,60.29
+6,Achern,Ortenaukreis,Baden-Württemberg,25615,48.633,8.067,65.24
+7,Achim,Verden,Niedersachsen,32084,53.06528,9.03417,68.01
+8,Adelsheim,Neckar-Odenwald-Kreis,Baden-Württemberg,5099,49.40472,9.38917,43.84
+9,Adenau,Ahrweiler,Rheinland-Pfalz,2955,50.383,6.933,18.56
+10,Adorf,Vogtlandkreis,Sachsen,4841,50.317,12.267,42.92
+11,Ahaus,Borken,Nordrhein-Westfalen,39404,52.067,7.0,151.22
+12,Ahlen,Warendorf,Nordrhein-Westfalen,52635,51.76333,7.89111,123.14
+13,Ahrensburg,Stormarn,Schleswig-Holstein,34052,53.67472,10.24111,35.3
+14,Aichach,Aichach-Friedberg,Bayern,21488,48.45,11.13333,92.97
+15,Aichtal,Esslingen,Baden-Württemberg,9916,48.62278,9.23722,23.64
+16,Aken,Anhalt-Bitterfeld,Sachsen-Anhalt,7417,51.85,12.05,59.91
+17,Albstadt,Zollernalbkreis,Baden-Württemberg,45472,48.21194,9.02389,134.41
+18,Alfeld,Hildesheim,Niedersachsen,18478,51.98861,9.82694,72.86
+19,Allendorf,Giessen,Hessen,4034,50.67889,8.82444,22.01
+20,Allstedt,Mansfeld-Südharz,Sachsen-Anhalt,7650,51.4,11.383,149.77
+21,Alpirsbach,Freudenstadt,Baden-Württemberg,6251,48.34611,8.40389,64.55
+22,Alsdorf,Aachen,Nordrhein-Westfalen,47330,50.883,6.167,31.658
+23,Alsfeld,Vogelsbergkreis,Hessen,15941,50.75111,9.27111,129.69
+24,Alsleben,Salzlandkreis,Sachsen-Anhalt,2552,51.7,11.667,23.64
+25,Altdorf bei Nürnberg,Nürnberger Land,Bayern,15450,49.3875,11.35694,46.59
+26,Altena,Märkischer Kreis,Nordrhein-Westfalen,16527,51.3,7.66667,44.29
+27,Altenberg,Sächsische Schweiz-Osterzgebirge,Sachsen,7880,50.76444,13.75778,145.81
+28,Altenburg,Altenburger Land,Thüringen,31101,50.985,12.43333,45.6
+29,Altenkirchen,Altenkirchen,Rheinland-Pfalz,6301,50.68722,7.64556,11.0
+30,Altensteig,Calw,Baden-Württemberg,10781,48.58639,8.60472,53.21
+31,Altentreptow,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,5221,53.667,13.25,52.83
+32,Altlandsberg,Märkisch-Oderland,Brandenburg,9662,52.56667,13.73306,106.21
+33,Altötting,Altötting,Bayern,12977,48.22667,12.67833,23.43
+34,Alzenau,Aschaffenburg,Bayern,18525,50.067,9.067,59.33
+35,Alzey,Alzey-Worms,Rheinland-Pfalz,18820,49.74583,8.11528,35.21
+36,Amberg,Urban district,Bayern,42052,49.44444,11.84833,50.04
+37,Amorbach,Miltenberg,Bayern,3947,49.633,9.217,50.92
+38,Amt Creuzburg,Wartburgkreis,Thüringen,4705,51.05139,10.24472,69.73
+39,Amöneburg,Marburg-Biedenkopf,Hessen,4980,50.79778,8.92306,43.95
+40,An der Schmücke,Kyffhäuserkreis,Thüringen,5945,51.3,11.217,95.29
+41,Andernach,Mayen-Koblenz,Rheinland-Pfalz,30132,50.43972,7.40167,53.23
+42,Angermünde,Uckermark,Brandenburg,13637,53.03333,14.0,326.44
+43,Anklam,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,12288,53.85,13.683,56.57
+44,Annaberg-Buchholz,Erzgebirgskreis,Sachsen,19393,50.58,13.00222,27.7
+45,Annaburg,Wittenberg,Sachsen-Anhalt,6635,51.73278,13.04556,224.19
+46,Annweiler am Trifels,Südliche Weinstraße,Rheinland-Pfalz,7085,49.2,7.967,39.87
+47,Ansbach,Urban district,Bayern,41681,49.3,10.58333,99.92
+48,Apolda,Weimarer Land,Thüringen,22209,51.017,11.517,46.15
+49,Arendsee,Altmarkkreis Salzwedel,Sachsen-Anhalt,6748,52.8767,11.4867,269.68
+50,Arneburg,Stendal,Sachsen-Anhalt,1472,52.667,12.0,30.72
+51,ArnisArnæs,Schleswig-Flensburg,Schleswig-Holstein,280,54.63,9.93139,0.45
+52,Arnsberg,Hochsauerlandkreis,Nordrhein-Westfalen,73487,51.383,8.083,193.45
+53,Arnstadt,Ilm-Kreis,Thüringen,27072,50.83417,10.94639,105.11
+54,Arnstein,Main-Spessart,Bayern,8158,49.967,9.983,112.12
+55,Arnstein,Mansfeld-Südharz,Sachsen-Anhalt,6502,51.683,11.467,121.71
+56,Artern,Kyffhäuserkreis,Thüringen,6597,51.36667,11.3,45.05
+57,Arzberg,Wunsiedel im Fichtelgebirge,Bayern,5057,50.067,12.183,43.22
+58,Aschaffenburg,Urban district,Bayern,70858,49.96667,9.15,62.45
+59,Aschersleben,Salzlandkreis,Sachsen-Anhalt,26737,51.75,11.467,156.31
+60,Asperg,Ludwigsburg,Baden-Württemberg,13517,48.9,9.13333,5.8
+61,Attendorn,Olpe,Nordrhein-Westfalen,24330,51.117,7.9,97.86
+62,Aub,Würzburg,Bayern,1425,49.533,10.05,17.54
+63,Aue-Bad Schlema,Erzgebirgskreis,Sachsen,20084,50.6,12.683,36.43
+64,Auerbach in der Oberpfalz,Amberg-Sulzbach,Bayern,8717,49.683,11.617,70.33
+65,Auerbach,Vogtlandkreis,Sachsen,18048,50.50944,12.4,55.52
+66,Augsburg,Urban district,Bayern,295830,48.367,10.9,146.84
+67,Augustusburg,Mittelsachsen,Sachsen,4508,50.81444,13.1,23.42
+68,Aulendorf,Ravensburg,Baden-Württemberg,10177,47.95417,9.63889,52.36
+69,Auma-Weidatal,Greiz,Thüringen,3394,50.7,11.9,55.75
+70,Aurich,Aurich,Niedersachsen,42268,53.47139,7.48361,197.21
+71,Aßlar,Lahn-Dill,Hessen,13654,50.583,8.467,43.57
+72,Babenhausen,Darmstadt-Dieburg,Hessen,16927,49.96667,8.95,66.87
+73,Bacharach,Mainz-Bingen,Rheinland-Pfalz,1878,50.06667,7.76667,23.65
+74,Backnang,Rems-Murr-Kreis,Baden-Württemberg,37558,48.94639,9.43056,39.37
+75,Bad Aibling,Rosenheim,Bayern,19097,47.867,12.017,41.55
+76,Bad Arolsen,Waldeck-Frankenberg,Hessen,15571,51.367,9.017,126.32
+77,Bad Belzig,Potsdam-Mittelmark,Brandenburg,11096,52.14222,12.59556,234.82
+78,Bad Bentheim,Grafschaft Bentheim,Niedersachsen,15770,52.30306,7.15972,100.16
+79,Bad Bergzabern,Südliche Weinstraße,Rheinland-Pfalz,8271,49.1028,7.99913,10.71
+80,Bad Berka,Weimarer Land,Thüringen,7520,50.9,11.28083,55.27
+81,Bad Berleburg,Siegen-Wittgenstein,Nordrhein-Westfalen,18847,51.04972,8.4,275.33
+82,Bad Berneck i.Fichtelgebirge,Bayreuth,Bayern,4384,50.04778,11.67222,38.25
+83,Bad Bevensen,Uelzen,Niedersachsen,9237,53.07917,10.58333,48.01
+84,Bad Bibra,Burgenlandkreis,Sachsen-Anhalt,2654,51.2,11.567,49.76
+85,Bad Blankenburg,Saalfeld-Rudolstadt,Thüringen,6191,50.68333,11.26667,35.56
+86,Bad Bramstedt,Segeberg,Schleswig-Holstein,15128,53.91861,9.88444,24.14
+87,Bad Breisig,Ahrweiler,Rheinland-Pfalz,9530,50.50917,7.29639,19.94
+88,Bad Brückenau,Bad Kissingen,Bayern,6470,50.30944,9.79056,23.73
+89,Bad Buchau,Biberach,Baden-Württemberg,4347,48.06611,9.61,23.77
+90,Bad Camberg,Limburg-Weilburg,Hessen,14184,50.3,8.267,54.64
+91,Bad Doberan,Rostock,Mecklenburg-Western Pomerania,12755,54.10694,11.90528,32.74
+92,Bad Driburg,Höxter,Nordrhein-Westfalen,18902,51.733,9.017,115.07
+93,Bad Düben,Nordsachsen,Sachsen,7833,51.59194,12.58528,45.45
+94,Bad Dürkheim,Bad Dürkheim,Rheinland-Pfalz,18553,49.45944,8.16806,102.67
+95,Bad Dürrenberg,Saalekreis,Sachsen-Anhalt,11499,51.283,12.067,36.13
+96,Bad Dürrheim,Schwarzwald-Baar-Kreis,Baden-Württemberg,13414,48.017,8.533,62.09
+97,Bad Elster,Vogtlandkreis,Sachsen,3638,50.28194,12.23472,19.77
+98,Bad Ems,Rhein-Lahn-Kreis,Rheinland-Pfalz,9801,50.33806,7.71056,15.36
+99,Bad Fallingbostel,Heidekreis,Niedersachsen,12174,52.8675,9.69667,63.15
+100,Bad Frankenhausen,Kyffhäuserkreis,Thüringen,10019,51.35583,11.10111,91.07
+101,Bad Freienwalde,Märkisch-Oderland,Brandenburg,12286,52.78556,14.0325,131.73
+102,Bad Friedrichshall,Heilbronn,Baden-Württemberg,19504,49.233,9.217,24.7
+103,Bad Gandersheim,Northeim,Niedersachsen,9492,51.87194,10.02528,9.049
+104,Bad Gottleuba-Berggießhübel,Sächsische Schweiz-Osterzgebirge,Sachsen,5538,50.85833,13.95,88.75
+105,Bad Griesbach im Rottal,Passau,Bayern,8994,48.45,13.2,70.18
+106,Bad Harzburg,Goslar,Niedersachsen,21820,51.88111,10.56222,65.42
+107,Bad Herrenalb,Calw,Baden-Württemberg,8085,48.80056,8.44083,33.03
+108,Bad Hersfeld,Hersfeld-Rotenburg,Hessen,30039,50.86833,9.7075,73.82
+109,Bad Homburg v. d. Höhe,Hochtaunuskreis,Hessen,54092,50.21667,8.6,51.17
+110,Bad Honnef,Rhein-Sieg-Kreis,Nordrhein-Westfalen,25759,50.645,7.22694,48.3
+111,Bad Hönningen,Neuwied,Rheinland-Pfalz,5982,50.51778,7.30861,20.09
+112,Bad Iburg,Osnabrück,Niedersachsen,10540,52.15917,8.04722,36.44
+113,Bad Karlshafen,Kassel,Hessen,3587,51.633,9.45,14.85
+114,Bad Kissingen,Bad Kissingen,Bayern,22421,50.2,10.067,69.42
+115,Bad Kreuznach,Bad Kreuznach,Rheinland-Pfalz,51310,49.85,7.867,55.63
+116,Bad Krozingen,Breisgau-Hochschwarzwald,Baden-Württemberg,20783,47.917,7.7,35.66
+117,Bad Königshofen,Rhön-Grabfeld,Bayern,6045,50.3,10.417,69.52
+118,Bad König,Odenwaldkreis,Hessen,9835,49.75,9.017,46.73
+119,Bad Köstritz,Greiz,Thüringen,3461,50.93056,12.00972,16.85
+120,Bad Kötzting,Cham,Bayern,7381,49.17694,12.855,62.17
+121,Bad Laasphe,Siegen-Wittgenstein,Nordrhein-Westfalen,13412,50.93028,8.41667,135.76
+122,Bad Langensalza,Unstrut-Hainich-Kreis,Thüringen,17211,51.10806,10.64667,129.37
+123,Bad Lauchstädt,Saalekreis,Sachsen-Anhalt,8781,51.367,11.833,85.36
+124,Bad Lausick,Leipzig,Sachsen,8087,51.14472,12.64528,69.79
+125,Bad Lauterberg,Göttingen,Niedersachsen,10294,51.63167,10.47056,41.54
+126,Bad Liebenstein,Wartburgkreis,Thüringen,7665,50.81444,10.35417,48.81
+127,Bad Liebenwerda,Elbe-Elster,Brandenburg,9224,51.51667,13.4,138.41
+128,Bad Liebenzell,Calw,Baden-Württemberg,9629,48.77417,8.73139,33.8
+129,Bad Lippspringe,Paderborn,Nordrhein-Westfalen,16408,51.78333,8.81667,50.99
+130,Bad Lobenstein,Saale-Orla-Kreis,Thüringen,5843,50.45,11.65,48.94
+131,Bad Marienberg,Westerwaldkreis,Rheinland-Pfalz,6103,50.65194,7.95222,9.96
+132,Bad Mergentheim,Main-Tauber-Kreis,Baden-Württemberg,24034,49.5,9.76667,129.97
+133,Bad Muskau,Görlitz,Sachsen,3681,51.55,14.71667,15.35
+134,Bad Münder,Hameln-Pyrmont,Niedersachsen,17415,52.19917,9.46528,107.69
+135,Bad Münstereifel,Euskirchen,Nordrhein-Westfalen,17387,50.55306,6.76611,150.84
+136,Bad Nauheim,Wetteraukreis,Hessen,32493,50.367,8.75,32.55
+137,Bad Nenndorf,Schaumburg,Niedersachsen,11279,52.33694,9.37861,23.0
+138,Bad Neuenahr-Ahrweiler,Ahrweiler,Rheinland-Pfalz,28634,50.54472,7.11333,63.4
+139,Bad Neustadt an der Saale,Rhön-Grabfeld,Bayern,15261,50.32194,10.21611,36.79
+140,Bad Oeynhausen,Minden-Lübbecke,Nordrhein-Westfalen,48535,52.2,8.8,64.8
+141,Bad Oldesloe,Stormarn,Schleswig-Holstein,24784,53.81167,10.37417,52.6
+142,Bad Orb,Main-Kinzig-Kreis,Hessen,10295,50.217,9.35,47.78
+143,Bad Pyrmont,Hameln-Pyrmont,Niedersachsen,19162,51.98667,9.26361,61.96
+144,Bad Rappenau,Heilbronn,Baden-Württemberg,21650,49.233,9.1,73.55
+145,Bad Reichenhall,Berchtesgadener Land,Bayern,18530,47.72472,12.87694,39.44
+146,Bad Rodach,Coburg,Bayern,6375,50.333,10.783,77.65
+147,Bad Sachsa,Göttingen,Niedersachsen,7373,51.59694,10.55222,33.13
+148,Bad Salzdetfurth,Hildesheim,Niedersachsen,13255,52.06528,10.00917,67.11
+149,Bad Salzuflen,Lippe,Nordrhein-Westfalen,54166,52.0875,8.75056,100.05
+150,Bad Salzungen,Wartburgkreis,Thüringen,23177,50.81167,10.23333,152.02
+151,Bad Saulgau,Sigmaringen,Baden-Württemberg,17567,48.0175,9.50028,97.34
+152,Bad Schandau,Sächsische Schweiz-Osterzgebirge,Sachsen,3511,50.917,14.15,46.77
+153,Bad Schmiedeberg,Wittenberg,Sachsen-Anhalt,8129,51.68806,12.7375,159.99
+154,Bad Schussenried,Biberach,Baden-Württemberg,8853,48.00667,9.65861,55.02
+155,Bad Schwalbach,Rheingau-Taunus-Kreis,Hessen,11207,50.13333,8.06667,40.27
+156,Bad Schwartau,Ostholstein,Schleswig-Holstein,20240,53.91944,10.6975,18.39
+157,Bad Segeberg,Segeberg,Schleswig-Holstein,17641,53.917,10.317,18.87
+158,Bad Sobernheim,Bad Kreuznach,Rheinland-Pfalz,6468,49.78722,7.65278,54.06
+159,Bad Soden-Salmünster,Main-Kinzig-Kreis,Hessen,13566,50.267,9.367,58.62
+160,Bad Soden,Main-Taunus-Kreis,Hessen,22871,50.133,8.5,12.55
+161,Bad Sooden-Allendorf,Werra-Meißner-Kreis,Hessen,8460,51.283,9.983,73.53
+162,Bad Staffelstein,Lichtenfels,Bayern,10474,50.1,10.967,99.39
+163,Bad Sulza,Weimarer Land,Thüringen,7678,51.0875,11.62222,91.14
+164,Bad Säckingen,Waldshut,Baden-Württemberg,17510,47.55,7.95,25.34
+165,Bad Sülze,Vorpommern-Rügen,Mecklenburg-Western Pomerania,1731,54.133,12.667,26.37
+166,Bad Teinach-Zavelstein,Calw,Baden-Württemberg,3143,48.68833,8.68806,25.1
+167,Bad Tennstedt,Unstrut-Hainich-Kreis,Thüringen,2474,51.15389,10.83722,27.27
+168,Bad Tölz,Bad Tölz-Wolfratshausen,Bayern,19141,47.76028,11.55667,30.8
+169,Bad Urach,Reutlingen,Baden-Württemberg,12473,48.49306,9.39861,55.5
+170,Bad Vilbel,Wetteraukreis,Hessen,34714,50.17806,8.73611,25.65
+171,Bad Waldsee,Ravensburg,Baden-Württemberg,20103,47.92111,9.75194,108.54
+172,Bad Wildbad,Calw,Baden-Württemberg,10386,48.75028,8.55056,105.26
+173,Bad Wildungen,Waldeck-Frankenberg,Hessen,17287,51.117,9.117,120.1
+174,Bad Wilsnack,Prignitz,Brandenburg,2553,52.95,11.94972,79.21
+175,Bad Wimpfen,Heilbronn,Baden-Württemberg,7308,49.233,9.167,19.38
+176,Bad Windsheim,Neustadt a.d.Aisch-Bad Windsheim,Bayern,12195,49.5,10.417,78.26
+177,Bad Wurzach,Ravensburg,Baden-Württemberg,14782,47.90944,9.89944,182.26
+178,Bad Wörishofen,Unterallgäu,Bayern,16327,48.00583,10.59694,57.8
+179,Bad Wünnenberg,Paderborn,Nordrhein-Westfalen,12206,51.517,8.7,161.04
+180,Baden-Baden,Urban district,Baden-Württemberg,55449,48.76278,8.24083,140.18
+181,Baesweiler,Aachen,Nordrhein-Westfalen,27319,50.9,6.183,27.82
+182,Baiersdorf,Erlangen-Höchstadt,Bayern,7945,49.65,11.017,11.79
+183,Balingen,Zollernalbkreis,Baden-Württemberg,34505,48.27306,8.85056,90.34
+184,Ballenstedt,Harz,Sachsen-Anhalt,8883,51.72,11.2375,86.61
+185,Balve,Märkischer Kreis,Nordrhein-Westfalen,11217,51.33333,7.86667,74.76
+186,Bamberg,Urban districts of Germany,Bayern,76674,49.9,10.9,54.62
+187,Barby,Salzlandkreis,Sachsen-Anhalt,8226,51.967,11.867,152.61
+188,Bargteheide,Stormarn,Schleswig-Holstein,15984,53.71667,10.26667,15.83
+189,Barmstedt,Pinneberg,Schleswig-Holstein,10428,53.783,9.767,17.17
+190,Barntrup,Lippe,Nordrhein-Westfalen,8501,51.98306,9.11667,59.46
+191,Barsinghausen,Hanover,Niedersachsen,34394,52.3,9.48111,102.65
+192,Barth,Vorpommern-Rügen,Mecklenburg-Western Pomerania,8609,54.367,12.717,40.83
+193,Baruth/Mark,Teltow-Fläming,Brandenburg,4225,52.05,13.5,233.62
+194,Bassum,Diepholz,Niedersachsen,16072,52.84944,8.72667,169.0
+195,Battenberg,Waldeck-Frankenberg,Hessen,5391,51.017,8.65,64.73
+196,Baumholder,Birkenfeld,Rheinland-Pfalz,4329,49.6125,7.33472,69.47
+197,Baunach,Bamberg,Bayern,3957,49.967,10.833,30.91
+198,Baunatal,Kassel,Hessen,27915,51.25889,9.41833,38.27
+199,Bautzen,Bautzen,Sachsen,38006,51.18139,14.42417,66.62
+200,Bayreuth,Urban district,Bayern,74048,49.94806,11.57833,66.92
+201,Bebra,Hersfeld-Rotenburg,Hessen,13855,50.97111,9.79028,93.63
+202,Beckum,Warendorf,Nordrhein-Westfalen,36637,51.755,8.04028,111.46
+203,Bedburg,Rhein-Erft-Kreis,Nordrhein-Westfalen,23743,51.0,6.5625,80.21
+204,Beelitz,Potsdam-Mittelmark,Brandenburg,12818,52.233,12.967,180.08
+205,Beeskow,Oder-Spree,Brandenburg,8070,52.167,14.25,77.15
+206,Beilngries,Eichstätt,Bayern,9908,49.033,11.467,100.13
+207,Beilstein,Heilbronn,Baden-Württemberg,6224,49.033,9.317,25.25
+208,Belgern-Schildau,Nordsachsen,Sachsen,7647,51.467,13.033,158.3
+209,Bendorf,Mayen-Koblenz,Rheinland-Pfalz,16893,50.42972,7.57028,24.07
+210,Bensheim,Bergstraße,Hessen,40791,49.66667,8.61667,57.83
+211,Berching,Neumarkt in der Oberpfalz,Bayern,8864,49.1,11.433,131.18
+212,Berga,Greiz,Thüringen,3224,50.75,12.167,43.49
+213,Bergen auf Rügen,Vorpommern-Rügen,Mecklenburg-Western Pomerania,13572,54.417,13.433,51.42
+214,Bergen,Celle,Niedersachsen,13382,52.81028,9.96111,163.77
+215,Bergheim,Rhein-Erft-Kreis,Nordrhein-Westfalen,61749,50.967,6.65,96.33
+216,Bergisch Gladbach,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,111636,51.1,7.117,83.12
+217,Bergkamen,Unna,Nordrhein-Westfalen,48919,51.617,7.633,44.8
+218,Bergneustadt,Oberbergischer Kreis,Nordrhein-Westfalen,18502,51.033,7.65,37.86
+219,Berlin,,Berlin,3664088,52.52,13.405,891.7
+220,Bernau bei Berlin,Barnim,Brandenburg,40908,52.66667,13.58306,103.73
+221,Bernburg,Salzlandkreis,Sachsen-Anhalt,32257,51.8,11.733,113.45
+222,Bernkastel-Kues,Bernkastel-Wittlich,Rheinland-Pfalz,7092,49.91611,7.06944,23.66
+223,Bernsdorf,Bautzen,Sachsen,6344,51.367,14.067,59.65
+224,Bernstadt auf dem Eigen,Görlitz,Sachsen,3298,51.04583,14.82639,51.89
+225,Bersenbrück,Osnabrück,Niedersachsen,8722,52.533,7.917,42.54
+226,Besigheim,Ludwigsburg,Baden-Württemberg,12643,48.9983,9.1417,0.0
+227,Betzdorf,Altenkirchen (Westerwald),Rheinland-Pfalz,10076,50.78556,7.87278,9.57
+228,Betzenstein,Bayreuth,Bayern,2482,49.68028,11.41778,51.84
+229,Beverungen,Höxter,Nordrhein-Westfalen,13064,51.66278,9.3725,97.84
+230,Bexbach,Saarpfalz,Saarland,17565,49.34944,7.25944,31.08
+231,Biberach an der Riss,Biberach,Baden-Württemberg,33510,48.1,9.783,72.16
+232,Biedenkopf,Marburg-Biedenkopf,Hessen,13491,50.91278,8.53222,90.33
+233,Bielefeld,Urban district,Nordrhein-Westfalen,333509,52.02111,8.53472,257.8
+234,Biesenthal,Barnim,Brandenburg,6029,52.76667,13.63306,60.48
+235,Bietigheim-Bissingen,Ludwigsburg,Baden-Württemberg,43146,48.967,9.133,31.29
+236,Billerbeck,Coesfeld,Nordrhein-Westfalen,11538,51.97917,7.295,90.93
+237,Bingen am Rhein,Mainz-Bingen,Rheinland-Pfalz,25736,49.967,7.9,37.74
+238,Birkenfeld,Birkenfeld,Rheinland-Pfalz,7034,49.65,7.183,13.58
+239,Bischofsheim i.d.Rhön,Rhön-Grabfeld,Bayern,4783,50.4,10.017,67.72
+240,Bischofswerda,Bautzen,Sachsen,10788,51.1275,14.17972,46.26
+241,Bismark,Stendal,Sachsen-Anhalt,8094,52.66667,11.55,289.43
+242,Bitburg,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz,15181,49.967,6.533,47.54
+243,Bitterfeld-Wolfen,Anhalt-Bitterfeld,Sachsen-Anhalt,37568,51.617,12.317,87.55
+244,Blankenburg,Harz,Sachsen-Anhalt,19374,51.79528,10.96222,148.91
+245,Blankenhain,Weimarer Land,Thüringen,6502,50.86,11.34389,113.53
+246,Blaubeuren,Alb-Donau-Kreis,Baden-Württemberg,12434,48.41194,9.785,79.15
+247,Blaustein,Alb-Donau-Kreis,Baden-Württemberg,16303,48.41833,9.90806,55.61
+248,Bleckede,Lüneburg,Niedersachsen,9561,53.3,10.733,139.9
+249,Bleicherode,Nordhausen,Thüringen,10244,51.41667,10.56667,108.2
+250,Blieskastel,Saarpfalz,Saarland,20287,49.23306,7.25,108.27
+251,Blomberg,Lippe,Nordrhein-Westfalen,15093,51.93306,9.08306,99.1
+252,Blumberg,Schwarzwald-Baar-Kreis,Baden-Württemberg,10155,47.83917,8.53417,98.68
+253,Bobingen,Augsburg,Bayern,17628,48.267,10.817,50.45
+254,Bocholt,Borken,Nordrhein-Westfalen,71061,51.833,6.617,119.37
+255,Bochum,Urban district,Nordrhein-Westfalen,364454,51.48194,7.21583,145.4
+256,Bockenem,Hildesheim,Niedersachsen,9780,52.01167,10.13194,109.04
+257,Bodenwerder,Holzminden,Niedersachsen,5588,51.967,9.517,28.92
+258,Bogen,Straubing-Bogen,Bayern,10085,48.917,12.683,49.74
+259,Boizenburg,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,10722,53.367,10.717,47.26
+260,Bonndorf im Schwarzwald,Waldshut,Baden-Württemberg,6953,47.81944,8.34306,76.03
+261,Bonn,Urban district,Nordrhein-Westfalen,330579,50.733,7.1,141.06
+262,Bopfingen,Ostalbkreis,Baden-Württemberg,11690,48.85694,10.35222,76.98
+263,Boppard,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,15369,50.23139,7.59083,75.13
+264,Borgentreich,Höxter,Nordrhein-Westfalen,8501,51.567,9.25,138.76
+265,Borgholzhausen,Gütersloh,Nordrhein-Westfalen,8964,52.1,8.3,55.84
+266,Borken,Schwalm-Eder-Kreis,Hessen,12506,51.04583,9.26722,82.3
+267,Borken,Borken,Nordrhein-Westfalen,42650,51.833,6.867,152.6
+268,Borkum,Leer,Niedersachsen,5002,53.58806,6.66972,30.74
+269,Borna,Leipzig,Sachsen,19120,51.117,12.5,62.35
+270,Bornheim,Rhein-Sieg-Kreis,Nordrhein-Westfalen,48348,50.75917,7.005,82.72
+271,Bottrop,Urban district,Nordrhein-Westfalen,117388,51.52472,6.92278,100.7
+272,Boxberg,Main-Tauber-Kreis,Baden-Württemberg,6718,49.48139,9.64167,101.81
+273,Brackenheim,Heilbronn,Baden-Württemberg,16086,49.083,9.067,45.74
+274,Brakel,Höxter,Nordrhein-Westfalen,16125,51.717,9.183,173.74
+275,Brake,Wesermarsch,Niedersachsen,14824,53.333,8.483,38.18
+276,Bramsche,Osnabrück,Niedersachsen,31225,52.4,7.983,183.32
+277,Brand-Erbisdorf,Mittelsachsen,Sachsen,9145,50.86889,13.32194,46.24
+278,Brandenburg an der Havel,Urban district,Brandenburg,72040,52.41667,12.53333,228.8
+279,Brandis,Leipzig,Sachsen,9638,51.33472,12.60889,34.81
+280,Braubach,Rhein-Lahn-Kreis,Rheinland-Pfalz,2954,50.27472,7.64611,20.26
+281,Braunfels,Lahn-Dill-Kreis,Hessen,11007,50.517,8.383,47.29
+282,Braunlage,Goslar,Niedersachsen,5763,51.72694,10.61194,31.55
+283,Braunsbedra,Saalekreis,Sachsen-Anhalt,10426,51.283,11.9,74.34
+284,Breckerfeld,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,8912,51.267,7.467,59.0
+285,BredstedtBräist / Bredsted,Nordfriesland,Schleswig-Holstein,5633,54.62,8.96444,9.75
+286,Breisach,Breisgau-Hochschwarzwald,Baden-Württemberg,15439,48.033,7.583,54.58
+287,Bremen,,Bremen,566573,53.083,8.8,326.73
+288,Bremerhaven,,Bremen,113557,53.55,8.58333,93.82
+289,Bremervörde,Rotenburg (Wümme),Niedersachsen,18564,53.483,9.133,150.18
+290,Bretten,Karlsruhe,Baden-Württemberg,29538,49.03639,8.70611,71.12
+291,Breuberg,Odenwaldkreis,Hessen,7496,49.81722,9.035,30.76
+292,Brilon,Hochsauerlandkreis,Nordrhein-Westfalen,25336,51.39556,8.56778,228.95
+293,Brotterode-Trusetal,Schmalkalden-Meiningen,Thüringen,5987,50.8249417,10.4456306,49.69
+294,Bruchköbel,Main-Kinzig-Kreis,Hessen,20512,50.183,8.917,29.67
+295,Bruchsal,Karlsruhe,Baden-Württemberg,45364,49.133,8.6,93.02
+296,Brunsbüttel,Dithmarschen,Schleswig-Holstein,12364,53.89639,9.13861,65.24
+297,Brunswick,Urban district,Niedersachsen,248561,52.267,10.517,192.13
+298,Bräunlingen,Schwarzwald-Baar-Kreis,Baden-Württemberg,5898,47.92972,8.44806,62.1
+299,Brück,Potsdam-Mittelmark,Brandenburg,3945,52.2,12.767,85.71
+300,Brüel,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,2587,53.717,11.717,27.3
+301,Brühl,Rhein-Erft-Kreis,Nordrhein-Westfalen,43673,50.833,6.9,36.12
+302,Brüssow,Uckermark,Brandenburg,1804,53.4,14.13333,101.02
+303,Buchen,Neckar-Odenwald-Kreis,Baden-Württemberg,17773,49.52167,9.32333,138.99
+304,Buchholz in der Nordheide,Harburg,Niedersachsen,40091,53.317,9.867,74.62
+305,Buchloe,Ostallgäu,Bayern,13406,48.0375,10.725,36.16
+306,Buckow,Märkisch-Oderland,Brandenburg,1474,52.567,14.083,14.31
+307,Burg Stargard,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,5359,53.483,13.3,76.55
+308,Burgau,Günzburg,Bayern,10159,48.43222,10.40694,25.92
+309,Burgbernheim,Neustadt a.d.Aisch-Bad Windsheim,Bayern,3368,49.45,10.317,42.32
+310,Burgdorf,Hanover,Niedersachsen,30899,52.45,10.00833,112.26
+311,Burghausen,Altötting,Bayern,18795,48.167,12.833,19.85
+312,Burgkunstadt,Lichtenfels,Bayern,6399,50.117,11.25,40.59
+313,Burglengenfeld,Schwandorf,Bayern,13970,49.2,12.033,93.28
+314,Burgstädt,Mittelsachsen,Sachsen,10530,50.917,12.817,25.76
+315,Burgwedel,Hanover,Niedersachsen,20229,52.49333,9.85861,151.96
+316,Burg,Jerichower Land,Sachsen-Anhalt,22240,52.2725,11.855,164.02
+317,Burladingen,Zollernalbkreis,Baden-Württemberg,12241,48.29028,9.10944,123.33
+318,Burscheid,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,18527,51.1,7.11667,27.38
+319,Butzbach,Wetteraukreis,Hessen,26476,50.43667,8.66222,106.6
+320,Bärnau,Tirschenreuth,Bayern,3055,49.81028,12.43611,74.42
+321,Böblingen,Böblingen,Baden-Württemberg,50121,48.68556,9.01528,39.04
+322,Böhlen,Leipzig,Sachsen,6662,51.2025,12.38583,24.55
+323,Bönnigheim,Ludwigsburg,Baden-Württemberg,8190,49.041,9.095,20.14
+324,Bückeburg,Schaumburg,Niedersachsen,19351,52.26083,9.04917,68.84
+325,Büdelsdorf,Rendsburg-Eckernförde,Schleswig-Holstein,10466,54.317,9.683,6.24
+326,Büdingen,Wetteraukreis,Hessen,22808,50.29083,9.1125,122.87
+327,Bühl,Rastatt,Baden-Württemberg,28889,48.69528,8.135,73.21
+328,Bünde,Herford,Nordrhein-Westfalen,45376,52.2,8.6,59.3
+329,Büren,Paderborn,Nordrhein-Westfalen,21452,51.55,8.567,170.97
+330,Bürgel,Saale-Holzland-Kreis,Thüringen,3047,50.94139,11.75389,27.0
+331,Bürstadt,Bergstraße,Hessen,16492,49.63333,8.45,34.46
+332,Bützow,Rostock,Mecklenburg-Western Pomerania,7829,53.85,11.983,39.7
+333,Calau,Oberspreewald-Lausitz,Brandenburg,7734,51.74583,13.95083,162.59
+334,Calbe,Salzlandkreis,Sachsen-Anhalt,8299,51.90333,11.77583,56.62
+335,Calw,Calw,Baden-Württemberg,23716,48.71667,8.73333,59.88
+336,Castrop-Rauxel,Recklinghausen,Nordrhein-Westfalen,73126,51.55,7.317,51.66
+337,Celle,Celle,Niedersachsen,69399,52.62556,10.0825,176.01
+338,Cham,Cham,Bayern,17053,49.217,12.65,80.67
+339,Chemnitz,Urban districts of Germany,Sachsen,244401,50.833,12.917,220.85
+340,Clausthal-Zellerfeld,Goslar,Niedersachsen,14844,51.805,10.33556,43.71
+341,Clingen,Kyffhäuserkreis,Thüringen,1058,51.21667,10.93333,10.75
+342,Cloppenburg,Cloppenburg,Niedersachsen,35966,52.85,8.05,70.62
+343,Coburg,Urban district,Bayern,40842,50.267,10.967,48.3
+344,Cochem,Cochem-Zell,Rheinland-Pfalz,5256,50.14694,7.16667,21.21
+345,Coesfeld,Coesfeld,Nordrhein-Westfalen,36182,51.95,7.167,141.05
+346,Colditz,Leipzig,Sachsen,8374,51.12917,12.80694,83.55
+347,Cologne,Urban districts of Germany,Nordrhein-Westfalen,1083498,50.93639,6.95278,405.15
+348,Constance,Konstanz,Baden-Württemberg,84446,47.667,9.183,55.65
+349,Coswig,Meißen,Sachsen,20694,51.133,13.583,25.85
+350,Coswig,Wittenberg,Sachsen-Anhalt,11521,51.883,12.433,295.73
+351,Cottbus/Chóśebuz,Urban district,Brandenburg,98693,51.76056,14.33417,164.28
+352,Crailsheim,Schwäbisch Hall,Baden-Württemberg,34661,49.13472,10.07056,109.08
+353,Creglingen,Main-Tauber-Kreis,Baden-Württemberg,4631,49.467,10.033,117.22
+354,Creußen,Bayreuth,Bayern,4994,49.8439861,11.622675,64.89
+355,Crimmitschau,Zwickau,Sachsen,18167,50.81806,12.3875,61.04
+356,Crivitz,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,4780,53.583,11.65,75.48
+357,Cuxhaven,Cuxhaven,Niedersachsen,48326,53.86111,8.69444,161.91
+358,Daaden,Altenkirchen,Rheinland-Pfalz,4214,50.73972,7.96833,19.56
+359,"Dachau, Bavaria",Dachau,Bayern,47680,48.26028,11.43417,34.85
+360,Dahlen,Nordsachsen,Sachsen,4189,51.367,13.0,71.68
+361,Dahme,Teltow-Fläming,Brandenburg,4862,51.86667,13.43306,162.02
+362,Dahn,Südwestpfalz,Rheinland-Pfalz,4572,49.15,7.783,40.75
+363,Damme,Vechta,Niedersachsen,17250,52.52083,8.19861,104.45
+364,Dannenberg,Lüchow-Dannenberg,Niedersachsen,8117,53.083,11.083,76.31
+365,Dargun,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,4331,53.883,12.833,117.15
+366,Darmstadt,Urban district,Hessen,159174,49.87222,8.65278,122.23
+367,Dassel,Northeim,Niedersachsen,9510,51.80333,9.69028,113.02
+368,Dassow,Nordwestmecklenburg,Mecklenburg-Western Pomerania,4102,53.91056,10.97222,66.54
+369,Datteln,Recklinghausen,Nordrhein-Westfalen,34714,51.65389,7.34167,66.08
+370,Daun,Vulkaneifel,Rheinland-Pfalz,8001,50.19861,6.83194,48.97
+371,Deggendorf,Deggendorf,Bayern,33750,48.833,12.967,77.21
+372,Deidesheim,Bad Dürkheim,Rheinland-Pfalz,3738,49.4075,8.18639,26.53
+373,Delbrück,Paderborn,Nordrhein-Westfalen,32039,51.76667,8.56667,157.26
+374,Delitzsch,Nordsachsen,Sachsen,24755,51.52639,12.3425,83.57
+375,Delmenhorst,Urban district,Niedersachsen,77503,53.05056,8.63167,62.36
+376,Demmin,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,10523,53.905,13.04389,80.653
+377,Dessau-Roßlau,Urban district,Sachsen-Anhalt,79354,51.833,12.25,244.62
+378,Detmold,Lippe,Nordrhein-Westfalen,74097,51.93778,8.88333,129.39
+379,Dettelbach,Kitzingen,Bayern,7266,49.8,10.183,60.94
+380,Dieburg,Darmstadt-Dieburg,Hessen,15537,49.9,8.85,23.11
+381,Diemelstadt,Waldeck-Frankenberg,Hessen,5213,51.46,8.98,82.58
+382,Diepholz,Diepholz,Niedersachsen,17152,52.60722,8.37111,104.45
+383,Dierdorf,Neuwied,Rheinland-Pfalz,5767,50.54889,7.65944,31.9
+384,Dietenheim,Alb-Donau-Kreis,Baden-Württemberg,6798,48.21194,10.07333,18.76
+385,Dietfurt a.d. Altmühl,Neumarkt in der Oberpfalz,Bayern,6150,49.033,11.583,78.84
+386,Dietzenbach,Offenbach,Hessen,34429,50.017,8.783,21.67
+387,"Diez, Germany",Rhein-Lahn-Kreis,Rheinland-Pfalz,11072,50.37083,8.01583,12.41
+388,Dillenburg,Lahn-Dill-Kreis,Hessen,23261,50.733,8.283,83.88
+389,Dillingen an der Donau,Dillingen,Bayern,19314,48.567,10.467,75.59
+390,Dillingen,Saarlouis,Saarland,19801,49.35,6.733,22.07
+391,Dingelstädt,Eichsfeld,Thüringen,6834,51.31556,10.31944,59.39
+392,Dingolfing,Dingolfing-Landau,Bayern,20003,48.633,12.5,44.04
+393,Dinkelsbühl,Ansbach,Bayern,11882,49.07083,10.31944,75.19
+394,Dinklage,Vechta,Niedersachsen,13158,52.667,8.133,72.65
+395,Dinslaken,Wesel,Nordrhein-Westfalen,67338,51.567,6.733,47.67
+396,Dippoldiswalde,Sächsische Schweiz-Osterzgebirge,Sachsen,14180,50.89333,13.66667,104.13
+397,"Dissen, Lower Saxony",Osnabrück,Niedersachsen,10242,52.117,8.2,31.9
+398,Ditzingen,Ludwigsburg,Baden-Württemberg,24719,48.82639,9.06667,30.4
+399,Doberlug-Kirchhain,Elbe-Elster,Brandenburg,8686,51.617,13.567,148.93
+400,Dohna,Sächsische Schweiz-Osterzgebirge,Sachsen,6163,50.95472,13.8575,28.57
+401,Dommitzsch,Nordsachsen,Sachsen,2426,51.65,12.883,30.2
+402,Donaueschingen,Schwarzwald-Baar-Kreis,Baden-Württemberg,22205,47.95306,8.50333,104.63
+403,Donauwörth,Donau-Ries,Bayern,19593,48.7,10.8,77.02
+404,Donzdorf,Göppingen,Baden-Württemberg,10587,48.683,9.817,39.82
+405,Dorfen,Erding,Bayern,14790,48.267,12.15,99.6
+406,Dormagen,Rhein-Kreis Neuss,Nordrhein-Westfalen,64500,51.1,6.817,85.4
+407,Dornburg-Camburg,Saale-Holzland-Kreis,Thüringen,5315,51.05389,11.7075,30.72
+408,Dornhan,Rottweil,Baden-Württemberg,6105,48.34944,8.51222,44.93
+409,Dornstetten,Freudenstadt,Baden-Württemberg,8095,48.467,8.5,24.21
+410,Dorsten,Recklinghausen,Nordrhein-Westfalen,74515,51.66,6.96417,171.0
+411,Dortmund,Urban district,Nordrhein-Westfalen,587696,51.517,7.467,280.71
+412,Dransfeld,Göttingen,Niedersachsen,4424,51.5,9.767,28.0
+413,Drebkau,Spree-Neiße,Brandenburg,5508,51.65,14.217,142.94
+414,Dreieich,Offenbach,Hessen,41996,50.0,8.7,53.328
+415,Drensteinfurt,Warendorf,Nordrhein-Westfalen,15540,51.79444,7.73917,106.42
+416,Dresden,Urban district,Sachsen,556227,51.05,13.74,328.8
+417,Drolshagen,Olpe,Nordrhein-Westfalen,11640,51.033,7.767,67.12
+418,Duderstadt,Göttingen,Niedersachsen,20281,51.5125,10.25972,95.61
+419,Duisburg,Urban district,Nordrhein-Westfalen,495885,51.43472,6.7625,232.82
+420,Döbeln,Mittelsachsen,Sachsen,23467,51.11944,13.11278,84.55
+421,Döbern,Spree-Neiße,Brandenburg,3166,51.617,14.6,15.73
+422,Dömitz,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,2990,53.13833,11.26333,60.38
+423,Dülmen,Coesfeld,Nordrhein-Westfalen,46706,51.83083,7.27833,184.49
+424,Düren,Düren,Nordrhein-Westfalen,91272,50.8,6.483,85.02
+425,Düsseldorf,,Nordrhein-Westfalen,620523,51.233,6.783,217.41
+426,Ebeleben,Kyffhäuserkreis,Thüringen,2658,51.28333,10.73333,44.54
+427,Eberbach,Rhein-Neckar-Kreis,Baden-Württemberg,14267,49.467,8.983,81.16
+428,Ebermannstadt,Forchheim,Bayern,6951,49.767,11.167,49.97
+429,Ebern,Haßberge,Bayern,7230,50.1,10.79361,95.02
+430,Ebersbach an der Fils,Göppingen,Baden-Württemberg,15558,48.71472,9.52361,26.27
+431,Ebersbach-Neugersdorf,Görlitz,Sachsen,11679,51.0,14.6,20.42
+432,Ebersberg,Ebersberg,Bayern,12213,48.083,11.967,40.84
+433,Eberswalde,Barnim,Brandenburg,40965,52.833,13.833,58.17
+434,Eckartsberga,Burgenlandkreis,Sachsen-Anhalt,2322,51.117,11.55,35.95
+435,"Eckernförde Eckernföör, Egernførde",Rendsburg-Eckernförde,Schleswig-Holstein,21637,54.47417,9.83778,17.97
+436,Edenkoben,Südliche Weinstraße,Rheinland-Pfalz,6698,49.283,8.133,17.9
+437,Egeln,Salzlandkreis,Sachsen-Anhalt,3200,51.95,11.433,29.13
+438,Eggenfelden,Rottal-Inn,Bayern,13817,48.40389,12.76417,44.5
+439,Eggesin,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,4711,53.683,14.083,88.01
+440,Ehingen,Alb-Donau-Kreis,Baden-Württemberg,26398,48.28333,9.72361,178.4
+441,Ehrenfriedersdorf,Erzgebirgskreis,Sachsen,4638,50.64611,12.96972,15.86
+442,Eibelstadt,Würzburg,Bayern,3094,49.7238806,10.0009306,7.07
+443,Eibenstock,Erzgebirgskreis,Sachsen,7193,50.49556,12.5975,112.35
+444,Eichstätt,Eichstätt,Bayern,13343,48.89194,11.18389,47.78
+445,Eilenburg,Nordsachsen,Sachsen,15662,51.46083,12.63583,46.84
+446,Einbeck,Northeim,Niedersachsen,30449,51.817,9.867,231.31
+447,Eisenach,Wartburgkreis,Thüringen,41970,50.97611,10.32056,104.17
+448,Eisenberg,Donnersbergkreis,Rheinland-Pfalz,9335,49.56139,8.0725,18.73
+449,Eisenberg,Saale-Holzland-Kreis,Thüringen,10704,50.96667,11.9,24.85
+450,Eisenhüttenstadt,Oder-Spree,Brandenburg,23373,52.145,14.67278,63.4
+451,Eisfeld,Hildburghausen,Thüringen,7575,50.417,10.917,86.53
+452,Eisleben,Mansfeld-Südharz,Sachsen-Anhalt,22668,51.517,11.55,143.81
+453,Eislingen,Göppingen,Baden-Württemberg,21243,48.69333,9.70667,16.41
+454,Ellingen,Weißenburg-Gunzenhausen,Bayern,3960,49.017,10.967,31.25
+455,Ellrich,Nordhausen,Thüringen,5394,51.58556,10.66806,69.42
+456,Ellwangen,Ostalbkreis,Baden-Württemberg,24477,48.96111,10.13056,127.4
+457,Elmshorn,Pinneberg,Schleswig-Holstein,49948,53.75194,9.65111,21.36
+458,Elsdorf,Rhein-Erft-Kreis,Nordrhein-Westfalen,21745,50.933,6.567,66.0
+459,Elsfleth,Wesermarsch,Niedersachsen,9086,53.233,8.467,115.15
+460,Elsterberg,Vogtlandkreis,Sachsen,3828,50.6,12.167,25.1
+461,Elsterwerda,Elbe-Elster,Brandenburg,7800,51.45778,13.52389,40.55
+462,Elstra,Bautzen,Sachsen,2704,51.22083,14.13083,32.65
+463,Elterlein,Erzgebirgskreis,Sachsen,2809,50.57694,12.86722,45.87
+464,Eltmann,Haßberge,Bayern,5370,49.967,10.667,39.97
+465,Eltville,Rheingau-Taunus-Kreis,Hessen,16946,50.02556,8.11917,46.77
+466,Elzach,Emmendingen,Baden-Württemberg,7322,48.17472,8.07167,75.28
+467,Elze,Hildesheim,Niedersachsen,8975,52.117,9.733,47.71
+468,Emden,Urban district,Niedersachsen,49874,53.36694,7.20611,112.33
+469,Emmelshausen,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,4967,50.15528,7.55167,7.91
+470,Emmendingen,Emmendingen,Baden-Württemberg,28051,48.12139,7.84917,33.8
+471,Emmerich,Kleve,Nordrhein-Westfalen,30869,51.835,6.24528,80.11
+472,Emsdetten,Steinfurt,Nordrhein-Westfalen,36068,52.17278,7.53444,72.06
+473,Endingen,Emmendingen,Baden-Württemberg,10227,48.14083,7.70639,26.72
+474,Engen,Konstanz,Baden-Württemberg,10942,47.85278,8.77139,70.53
+475,Enger,Herford,Nordrhein-Westfalen,20469,52.13333,8.56667,41.21
+476,Ennepetal,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,30117,51.283,7.333,57.42
+477,Ennigerloh,Warendorf,Nordrhein-Westfalen,19554,51.83667,8.02556,125.15
+478,Eppelheim,Rhein-Neckar-Kreis,Baden-Württemberg,15276,49.4,8.633,5.7
+479,Eppingen,Heilbronn,Baden-Württemberg,22024,49.133,8.917,88.59
+480,Eppstein,Main-Taunus-Kreis,Hessen,13620,50.133,8.4,24.21
+481,Erbach,Alb-Donau-Kreis,Baden-Württemberg,13728,48.32806,9.88778,63.92
+482,Erbach,Odenwaldkreis,Hessen,13813,49.65833,8.99583,62.67
+483,Erbendorf,Tirschenreuth,Bayern,5032,49.833,12.05,67.55
+484,Erding,Erding,Bayern,36455,48.283,11.9,54.64
+485,Erftstadt,Rhein-Erft-Kreis,Nordrhein-Westfalen,50060,50.817,6.767,119.88
+486,Erfurt,Urban district,Thüringen,213692,50.98333,11.03333,269.17
+487,Erkelenz,Heinsberg,Nordrhein-Westfalen,43275,51.083,6.317,117.35
+488,Erkner,Oder-Spree,Brandenburg,11935,52.417,13.75,16.6
+489,Erkrath,Mettmann,Nordrhein-Westfalen,43878,51.22389,6.91472,26.89
+490,Erlangen,Urban district,Bayern,112385,49.583,11.017,76.95
+491,Erlenbach a.Main,Miltenberg,Bayern,10235,49.80389,9.16389,16.33
+492,Erlensee,Main-Kinzig-Kreis,Hessen,15428,50.133,8.933,18.59
+493,Erwitte,Soest,Nordrhein-Westfalen,16117,51.617,8.35,73.79
+494,Eschborn,Main-Taunus-Kreis,Hessen,21641,50.14361,8.57,12.14
+495,Eschenbach in der Oberpfalz,Neustadt a.d.Waldnaab,Bayern,4237,49.75,11.817,35.16
+496,Eschershausen,Holzminden,Niedersachsen,3461,51.917,9.65,23.87
+497,Eschwege,Werra-Meißner-Kreis,Hessen,19365,51.18806,10.05278,63.27
+498,Eschweiler,Aachen,Nordrhein-Westfalen,56172,50.817,6.283,76.559
+499,Espelkamp,Minden-Lübbecke,Nordrhein-Westfalen,24676,52.37722,8.63278,84.1
+500,Essen,Wittmund,Niedersachsen,7310,53.64694,7.61278,26.83
+501,Essen,Urban district,Nordrhein-Westfalen,582415,51.45083,7.01306,210.34
+502,Esslingen am Neckar,Esslingen,Baden-Württemberg,92722,48.73333,9.31667,46.43
+503,Ettenheim,Ortenaukreis,Baden-Württemberg,13500,48.25556,7.81194,48.9
+504,Ettlingen,Karlsruhe,Baden-Württemberg,39401,48.933,8.4,56.74
+505,Euskirchen,Euskirchen,Nordrhein-Westfalen,58466,50.65972,6.79167,139.63
+506,Eutin,Ostholstein,Schleswig-Holstein,16960,54.13778,10.61806,41.4
+507,Falkenberg/Elster,Elbe-Elster,Brandenburg,6317,51.58306,13.23222,81.8
+508,Falkensee,Havelland,Brandenburg,44236,52.55833,13.09167,43.3
+509,Falkenstein/Harz,Harz,Sachsen-Anhalt,5269,51.733,11.333,102.98
+510,Falkenstein,Vogtlandkreis,Sachsen,7888,50.467,12.367,31.06
+511,Fehmarn,Ostholstein,Schleswig-Holstein,12875,54.4454,11.1702,185.45
+512,Fellbach,Rems-Murr-Kreis,Baden-Württemberg,45430,48.80861,9.27583,27.7
+513,Felsberg,Schwalm-Eder-Kreis,Hessen,10568,51.133,9.417,83.27
+514,Feuchtwangen,Ansbach,Bayern,12543,49.167,10.317,137.4
+515,Filderstadt,Esslingen,Baden-Württemberg,45958,48.68028,9.21833,38.54
+516,Finsterwalde,Elbe-Elster,Brandenburg,15968,51.628243,13.71021,76.91
+517,Fladungen,Rhön-Grabfeld,Bayern,2203,50.52111,10.14528,46.37
+518,Flensburg,Urban district,Schleswig-Holstein,89934,54.78194,9.43667,56.38
+519,Florstadt,Wetteraukreis,Hessen,8803,50.31583,8.86306,39.6
+520,Flöha,Mittelsachsen,Sachsen,10607,50.85583,13.07139,27.61
+521,Flörsheim am Main,Main-Taunus-Kreis,Hessen,21695,50.017,8.433,22.95
+522,Forchheim,Forchheim,Bayern,32374,49.71972,11.05806,44.95
+523,Forchtenberg,Hohenlohekreis,Baden-Württemberg,5141,49.283,9.567,38.07
+524,Forst (Lausitz),Spree-Neiße,Brandenburg,17691,51.733,14.633,109.91
+525,Frankenau,Waldeck-Frankenberg,Hessen,2875,51.1,8.933,57.29
+526,Frankenberg,Waldeck-Frankenberg,Hessen,17678,51.05889,8.79667,124.87
+527,Frankenberg,Mittelsachsen,Sachsen,13784,50.91083,13.03778,65.42
+528,Frankenthal (Pfalz),urban district,Rheinland-Pfalz,48750,49.533,8.35,43.78
+529,Frankfurt (Oder),Urban district,Brandenburg,57015,52.341944,14.551667,147.61
+530,Frankfurt am Main,Urban district,Hessen,764104,50.117,8.683,248.31
+531,Franzburg,Vorpommern-Rügen,Mecklenburg-Western Pomerania,1364,54.167,12.867,15.19
+532,Frauenstein,Mittelsachsen,Sachsen,2733,50.80194,13.53806,58.83
+533,Frechen,Rhein-Erft-Kreis,Nordrhein-Westfalen,51947,50.917,6.817,45.11
+534,Freiberg am Neckar,Ludwigsburg,Baden-Württemberg,15976,48.93333,9.2,13.14
+535,Freiberg,Mittelsachsen,Sachsen,39948,50.91194,13.34278,48.05
+536,Freiburg im Breisgau,Stadtkreis,Baden-Württemberg,230940,47.983,7.85,153.07
+537,Freilassing,Berchtesgadener Land,Bayern,17289,47.83333,12.96667,14.79
+538,Freinsheim,Bad Dürkheim,Rheinland-Pfalz,4923,49.5075,8.20861,13.61
+539,Freising,Freising,Bayern,48872,48.40278,11.74889,88.45
+540,Freital,Sächsische Schweiz-Osterzgebirge,Sachsen,39405,51.01667,13.65,40.53
+541,Freren,Emsland,Niedersachsen,5115,52.467,7.533,48.81
+542,Freudenberg,Main-Tauber-Kreis,Baden-Württemberg,3738,49.75,9.333,34.78
+543,Freudenberg,Siegen-Wittgenstein,Nordrhein-Westfalen,17729,50.89972,7.86667,54.48
+544,Freudenstadt,Freudenstadt,Baden-Württemberg,23760,48.46333,8.41111,87.58
+545,Freyburg,Burgenlandkreis,Sachsen-Anhalt,4578,51.21278,11.76972,46.57
+546,Freystadt,Neumarkt in der Oberpfalz,Bayern,9118,49.2,11.317,80.53
+547,Freyung,Freyung-Grafenau,Bayern,7135,48.8,13.55,48.64
+548,Fridingen,Tuttlingen,Baden-Württemberg,3111,48.02056,8.93278,22.47
+549,Friedberg,Aichach-Friedberg,Bayern,29916,48.35,10.983,81.2
+550,Friedberg,Wetteraukreis,Hessen,29477,50.333,8.75,50.17
+551,Friedland,Oder-Spree,Brandenburg,2954,52.1,14.267,173.21
+552,Friedland,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,6403,53.65,13.533,141.73
+553,Friedrichroda,Gotha,Thüringen,7164,50.86667,10.56667,36.91
+554,Friedrichsdorf,Hochtaunuskreis,Hessen,25528,50.25556,8.63972,30.12
+555,Friedrichshafen,Bodenseekreis,Baden-Württemberg,61221,47.65,9.483,69.91
+556,FriedrichstadtFrederiksstad,Nordfriesland,Schleswig-Holstein,2666,54.367,9.067,4.03
+557,Friedrichsthal,Saarbrücken,Saarland,9999,49.32556,7.09611,9.07
+558,Friesack,Havelland,Brandenburg,2496,52.73306,12.58306,83.67
+559,Friesoythe,Cloppenburg,Niedersachsen,22512,53.02056,7.85861,247.14
+560,Fritzlar,Schwalm-Eder-Kreis,Hessen,14805,51.13333,9.28333,88.79
+561,Frohburg,Leipzig,Sachsen,12420,51.05611,12.555,145.31
+562,Fröndenberg,Unna,Nordrhein-Westfalen,20566,51.47194,7.76583,56.21
+563,Fulda,Fulda,Hessen,67980,50.55083,9.67528,104.04
+564,Furth im Wald,Cham,Bayern,8923,49.30972,12.84,67.0
+565,Furtwangen im Schwarzwald,Schwarzwald-Baar-Kreis,Baden-Württemberg,8960,48.05028,8.20917,82.57
+566,Fürstenau,Osnabrück,Niedersachsen,9520,52.517,7.667,78.62
+567,Fürstenberg,Oberhavel,Brandenburg,5782,53.18528,13.14556,212.61
+568,Fürstenfeldbruck,Fürstenfeldbruck,Bayern,36843,48.17778,11.25556,32.53
+569,Fürstenwalde/Spree,Oder-Spree,Brandenburg,31992,52.367,14.067,70.55
+570,Fürth,Urban district,Bayern,128223,49.467,11.0,63.35
+571,Füssen,Ostallgäu,Bayern,15538,47.567,10.7,43.52
+572,Gadebusch,Nordwestmecklenburg,Mecklenburg-Western Pomerania,5461,53.7,11.117,47.65
+573,Gaggenau,Rastatt,Baden-Württemberg,29932,48.80389,8.31944,65.05
+574,Gaildorf,Schwäbisch Hall,Baden-Württemberg,12147,49.0,9.767,62.56
+575,Gammertingen,Sigmaringen,Baden-Württemberg,6370,48.24944,9.2175,52.97
+576,Garbsen,Hanover,Niedersachsen,61021,52.41833,9.59806,79.31
+577,Garching bei München,Munich,Bayern,17192,48.25,11.65,28.16
+578,Gardelegen,Altmarkkreis Salzwedel,Sachsen-Anhalt,22154,52.52639,11.3925,632.43
+579,Garding,Nordfriesland,Schleswig-Holstein,2844,54.33056,8.78056,3.06
+580,Gartz,Uckermark,Brandenburg,2524,53.2,14.38333,61.69
+581,Garz,Vorpommern-Rügen,Mecklenburg-Western Pomerania,2215,54.317,13.35,65.44
+582,Gau-Algesheim,Mainz-Bingen,Rheinland-Pfalz,6873,49.95,8.017,13.99
+583,Gebesee,Sömmerda,Thüringen,2118,51.11389,10.93472,24.04
+584,Gedern,Wetteraukreis,Hessen,7259,50.42444,9.19972,75.24
+585,Geesthacht,Lauenburg,Schleswig-Holstein,31160,53.4375,10.3675,33.18
+586,Geestland,Cuxhaven,Niedersachsen,30966,53.633,8.75,356.2
+587,Gefell,Saale-Orla-Kreis,Thüringen,2465,50.43333,11.85,45.21
+588,Gefrees,Bayreuth,Bayern,4251,50.0951389,11.7398361,50.08
+589,Gehrden,Hanover,Niedersachsen,15012,52.31167,9.60028,42.97
+590,Geilenkirchen,Heinsberg,Nordrhein-Westfalen,27518,50.96528,6.11944,83.0
+591,Geisa,Wartburgkreis,Thüringen,4760,50.717,9.967,71.75
+592,Geiselhöring,Straubing-Bogen,Bayern,6912,48.82583,12.3925,99.96
+593,Geisenfeld,Pfaffenhofen an der Ilm,Bayern,11520,48.667,11.6,88.33
+594,Geisenheim,Rheingau-Taunus-Kreis,Hessen,11626,49.98444,7.96722,40.34
+595,Geisingen,Tuttlingen,Baden-Württemberg,6339,47.92222,8.64639,73.74
+596,Geislingen an der Steige,Göppingen,Baden-Württemberg,28400,48.62444,9.83056,75.83
+597,Geislingen,Zollernalbkreis,Baden-Württemberg,5875,48.2875,8.8125,31.95
+598,Geithain,Leipzig,Sachsen,6818,51.05,12.683,54.71
+599,Geldern,Kleve,Nordrhein-Westfalen,33760,51.51972,6.3325,96.91
+600,Gelnhausen,Main-Kinzig-Kreis,Hessen,23208,50.2,9.167,45.18
+601,Gelsenkirchen,Urban district,Nordrhein-Westfalen,259105,51.517,7.1,104.84
+602,Gemünden am Main,Main-Spessart,Bayern,10006,50.04972,9.70556,75.09
+603,Gemünden,Waldeck-Frankenberg,Hessen,3855,50.967,8.967,58.67
+604,Gengenbach,Ortenaukreis,Baden-Württemberg,10950,48.4,8.017,61.91
+605,Genthin,Jerichower Land,Sachsen-Anhalt,13582,52.4,12.167,230.72
+606,Georgsmarienhütte,Osnabrück,Niedersachsen,31778,52.2,8.067,55.41
+607,Gerabronn,Schwäbisch Hall,Baden-Württemberg,4297,49.24944,9.92028,40.38
+608,Gera,Urban district,Thüringen,92126,50.88056,12.08333,152.19
+609,Gerbstedt,Mansfeld-Südharz,Sachsen-Anhalt,6964,51.63306,11.61667,102.28
+610,Geretsried,Bad Tölz-Wolfratshausen,Bayern,25380,47.867,11.467,24.65
+611,Geringswalde,Mittelsachsen,Sachsen,4212,51.07639,12.90417,29.93
+612,Gerlingen,Ludwigsburg,Baden-Württemberg,19784,48.8,9.06528,17.54
+613,Germering,Fürstenfeldbruck,Bayern,40511,48.133,11.367,21.61
+614,Germersheim,Germersheim,Rheinland-Pfalz,20643,49.21667,8.36667,21.4
+615,Gernsbach,Rastatt,Baden-Württemberg,14147,48.76333,8.33417,82.09
+616,Gernsheim,Groß-Gerau,Hessen,10640,49.75,8.483,40.11
+617,Gerolstein,Vulkaneifel,Rheinland-Pfalz,7721,50.22389,6.66139,64.33
+618,Gerolzhofen,Schweinfurt,Bayern,6847,49.9,10.35,18.35
+619,Gersfeld,Fulda,Hessen,5480,50.45,9.917,89.37
+620,Gersthofen,Augsburg,Bayern,22602,48.417,10.867,33.95
+621,Gescher,Borken,Nordrhein-Westfalen,17246,51.95694,7.00556,80.78
+622,Geseke,Soest,Nordrhein-Westfalen,21422,51.65,8.517,97.48
+623,Gevelsberg,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,30733,51.317,7.333,26.27
+624,Geyer,Erzgebirgskreis,Sachsen,3385,50.62361,12.92333,18.76
+625,Giengen,Heidenheim,Baden-Württemberg,19711,48.62167,10.245,44.05
+626,Giessen,Giessen,Hessen,90131,50.58333,8.66667,72.56
+627,Gifhorn,Gifhorn,Niedersachsen,42939,52.48861,10.54639,104.86
+628,Ginsheim-Gustavsburg,Groß-Gerau,Hessen,16843,49.983,8.333,13.94
+629,Gladbeck,Recklinghausen,Nordrhein-Westfalen,75518,51.567,6.967,35.91
+630,Gladenbach,Marburg-Biedenkopf,Hessen,12285,50.76806,8.58278,72.28
+631,Glashütte,Sächsische Schweiz-Osterzgebirge,Sachsen,6730,50.85,13.78333,95.57
+632,Glauchau,Zwickau,Sachsen,21965,50.82333,12.54444,51.49
+633,Glinde,Stormarn,Schleswig-Holstein,18380,53.54056,10.21111,11.22
+634,GlücksburgLyksborg,Schleswig-Flensburg,Schleswig-Holstein,6220,54.83361,9.55,39.7
+635,Glückstadt,Steinburg,Schleswig-Holstein,10779,53.79167,9.42194,22.76
+636,Gnoien,Rostock,Mecklenburg-Western Pomerania,2898,53.967,12.717,41.08
+637,Goch,Kleve,Nordrhein-Westfalen,34531,51.68389,6.16194,115.38
+638,Goldberg,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,3392,53.567,12.067,64.85
+639,Goldkronach,Bayreuth,Bayern,3479,50.0115,11.6873139,30.68
+640,Golßen,Dahme-Spreewald,Brandenburg,2507,51.967,13.6,63.29
+641,Gommern,Jerichower Land,Sachsen-Anhalt,10484,52.067,11.833,159.96
+642,Goslar,Goslar,Niedersachsen,50184,51.90722,10.43,163.71
+643,Gotha,Gotha,Thüringen,45273,50.94889,10.71833,69.58
+644,Grabow,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,5559,53.267,11.567,72.08
+645,Grafenau,Freyung-Grafenau,Bayern,8167,48.85,13.383,63.79
+646,Grafenwöhr,Neustadt a.d.Waldnaab,Bayern,6419,49.717,11.9,216.24
+647,Grafing bei München,Ebersberg,Bayern,13805,48.05,11.967,29.57
+648,Gransee,Oberhavel,Brandenburg,5849,53.00694,13.15861,121.15
+649,Grebenau,Vogelsbergkreis,Hessen,2376,50.75,9.467,55.37
+650,Grebenstein,Kassel,Hessen,5720,51.45,9.417,49.85
+651,Greding,Roth,Bayern,7135,49.05194,11.36056,103.8
+652,Greifswald,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,59282,54.083,13.383,50.5
+653,Greiz,Greiz,Thüringen,20108,50.65472,12.19972,84.87
+654,Greußen,Kyffhäuserkreis,Thüringen,5860,51.22917,10.9475,86.82
+655,Grevenbroich,Rhein-Kreis Neuss,Nordrhein-Westfalen,63941,51.08833,6.5875,102.6
+656,Greven,Steinfurt,Nordrhein-Westfalen,37709,52.09167,7.60833,140.26
+657,Grevesmühlen,Nordwestmecklenburg,Mecklenburg-Western Pomerania,10439,53.867,11.167,52.32
+658,Griesheim,Darmstadt-Dieburg,Hessen,27703,49.86389,8.56389,21.4083
+659,Grimma,Leipzig,Sachsen,28149,51.23861,12.72528,217.38
+660,Grimmen,Vorpommern-Rügen,Mecklenburg-Western Pomerania,9369,54.11,13.04139,50.29
+661,Groitzsch,Leipzig,Sachsen,7579,51.15556,12.28056,70.06
+662,Gronau,Hildesheim,Niedersachsen,10711,52.067,9.783,88.13
+663,Gronau,Borken,Nordrhein-Westfalen,48576,52.2125,7.04167,78.63
+664,Groß-Bieberau,Darmstadt-Dieburg,Hessen,4677,49.8,8.833,18.27
+665,Groß-Gerau,Groß-Gerau,Hessen,25685,49.91917,8.485,54.47
+666,Groß-Umstadt,Darmstadt-Dieburg,Hessen,21234,49.867,8.933,86.84
+667,Großalmerode,Werra-Meißner-Kreis,Hessen,6323,51.2575,9.78444,37.62
+668,Großbottwar,Ludwigsburg,Baden-Württemberg,8507,49.00139,9.29306,25.51
+669,Großbreitenbach,Ilm-Kreis,Thüringen,6104,50.58278,11.01056,80.76
+670,Großenhain,Meissen,Sachsen,18062,51.283,13.55,96.79
+671,Großräschen,Oberspreewald-Lausitz,Brandenburg,8455,51.58306,14.0,81.29
+672,Großröhrsdorf,Bautzen,Sachsen,9659,51.14444,14.01667,40.86
+673,Großschirma,Mittelsachsen,Sachsen,5580,50.96639,13.27806,61.44
+674,"Gräfenberg, Bavaria",Forchheim,Bayern,4177,49.633,11.25,37.88
+675,Gräfenhainichen,Wittenberg,Sachsen-Anhalt,11467,51.717,12.433,158.9
+676,Gräfenthal,Saalfeld-Rudolstadt,Thüringen,1897,50.533,11.3,36.45
+677,Gröditz,Meißen,Sachsen,6932,51.41667,13.46639,28.78
+678,Gröningen,Börde,Sachsen-Anhalt,3556,51.93333,11.21667,59.67
+679,Grünberg,Gießen,Hessen,13706,50.6,8.95,89.25
+680,Grünhain-Beierfeld,Erzgebirgskreis,Sachsen,5768,50.567,12.8,22.26
+681,Grünsfeld,Main-Tauber-Kreis,Baden-Württemberg,3629,49.6,9.75,44.72
+682,Grünstadt,Bad Dürkheim,Rheinland-Pfalz,13652,49.56917,8.16806,18.09
+683,Guben,Spree-Neiße,Brandenburg,16656,51.95333,14.71667,43.75
+684,Gudensberg,Schwalm-Eder-Kreis,Hessen,9761,51.183,9.367,46.5
+685,Gummersbach,Oberbergischer Kreis,Nordrhein-Westfalen,50978,51.033,7.567,95.3
+686,Gundelfingen an der Donau,Dillingen,Bayern,7882,48.55,10.367,53.97
+687,Gundelsheim,Heilbronn,Baden-Württemberg,7475,49.283,9.167,38.45
+688,Gunzenhausen,Weißenburg-Gunzenhausen,Bayern,16665,49.11472,10.75417,82.73
+689,Göppingen,Göppingen (district),Baden-Württemberg,57974,48.7025,9.65278,59.22
+690,Görlitz,Görlitz,Sachsen,55784,51.15278,14.98722,67.22
+691,Göttingen,Göttingen,Niedersachsen,116845,51.53389,9.93556,116.89
+692,Gößnitz,Altenburger Land,Thüringen,3389,50.89028,12.43278,14.04
+693,Güglingen,Heilbronn,Baden-Württemberg,6434,49.067,9.0,16.26
+694,Günzburg,Günzburg,Bayern,20958,48.45267,10.27133,55.4
+695,Güsten,Salzlandkreis,Sachsen-Anhalt,4074,51.79722,11.61,36.16
+696,Güstrow,Rostock,Mecklenburg-Western Pomerania,28999,53.79389,12.17639,70.86
+697,Gütersloh,Gütersloh,Nordrhein-Westfalen,100664,51.9,8.383,111.99
+698,Gützkow,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,2967,53.95,13.417,57.29
+699,Haan,Mettmann,Nordrhein-Westfalen,30263,51.167,7.0,24.22
+700,Hachenburg,Westerwaldkreis,Rheinland-Pfalz,6175,50.66139,7.82028,21.43
+701,Hadamar,Limburg-Weilburg,Hessen,12626,50.45,8.05,40.99
+702,Hagenbach,Germersheim,Rheinland-Pfalz,5456,49.02056,8.24833,15.85
+703,Hagenow,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,12245,53.417,11.183,67.44
+704,Hagen,Urban district,Nordrhein-Westfalen,188687,51.367,7.483,160.4
+705,Haigerloch,Zollernalbkreis,Baden-Württemberg,10775,48.36472,8.805,76.46
+706,Haiger,Lahn-Dill-Kreis,Hessen,19258,50.74222,8.20389,106.67
+707,Hainichen,Mittelsachsen,Sachsen,8531,50.96972,13.12528,51.57
+708,Haiterbach,Calw,Baden-Württemberg,5969,48.52444,8.65028,28.92
+709,Halberstadt,Harz,Sachsen-Anhalt,39221,51.89583,11.04667,142.97
+710,Haldensleben,Börde,Sachsen-Anhalt,19133,52.283,11.417,156.15
+711,Halle (Saale),Urban district,Sachsen-Anhalt,237865,51.48278,11.96972,135.01
+712,Hallenberg,Hochsauerlandkreis,Nordrhein-Westfalen,4490,51.11167,8.62306,65.36
+713,Halle,Gütersloh,Nordrhein-Westfalen,21448,52.067,8.367,69.21
+714,Hallstadt,Bamberg,Bayern,8699,49.933,10.883,14.54
+715,Haltern am See,Recklinghausen,Nordrhein-Westfalen,37845,51.75,7.183,158.34
+716,Halver,Märkischer Kreis,Nordrhein-Westfalen,16108,51.183,7.467,77.37
+717,Hamburg,,Hamburg,1845229,53.56528,10.00139,755.22
+718,Hamelin,Hamelin-Pyrmont,Niedersachsen,57276,52.1,9.367,102.3
+719,Hammelburg,Bad Kissingen,Bayern,10906,50.117,9.9,128.89
+720,Hamminkeln,Wesel,Nordrhein-Westfalen,26962,51.73194,6.59083,164.44
+721,Hamm,Urban district,Nordrhein-Westfalen,178967,51.683,7.817,226.26
+722,Hanau,Main-Kinzig-Kreis,Hessen,97137,50.13278,8.91694,76.49
+723,Hann. Münden,Göttingen,Niedersachsen,23504,51.417,9.65,121.12
+724,Hanover,Hannover,Niedersachsen,534049,52.367,9.717,204.01
+725,Hanseatic City of Buxtehude,Stade,Niedersachsen,40026,53.47694,9.70111,76.49
+726,Hanseatic City of Korbach,Waldeck-Frankenberg,Hessen,23438,51.283,8.867,123.98
+727,Hanseatic City of Stade,Stade,Niedersachsen,47611,53.60083,9.47639,110.03
+728,Harburg,Donau-Ries,Bayern,5575,48.767,10.667,73.17
+729,Hardegsen,Northeim,Niedersachsen,7584,51.65222,9.82944,83.87
+730,"Haren, Germany",Emsland,Niedersachsen,24047,52.767,7.217,208.76
+731,Harsewinkel,Gütersloh,Nordrhein-Westfalen,25338,51.96667,8.23306,100.12
+732,Hartenstein,Zwickau,Sachsen,4503,50.66833,12.67139,36.72
+733,Hartha,Mittelsachsen,Sachsen,6891,51.0978,12.9773,54.29
+734,Harzgerode,Harz,Sachsen-Anhalt,7621,51.64222,11.14417,164.57
+735,Haselünne,Emsland,Niedersachsen,13141,52.667,7.467,159.2
+736,Haslach im Kinzigtal,Ortenaukreis,Baden-Württemberg,7152,48.27778,8.08694,18.71
+737,Hattersheim am Main,Main-Taunus-Kreis,Hessen,27747,50.067,8.467,15.82
+738,Hattingen,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,54278,51.39917,7.18583,71.4
+739,Hatzfeld,Waldeck-Frankenberg,Hessen,2939,51.0,8.55,58.51
+740,Hausach,Ortenaukreis,Baden-Württemberg,5759,48.28528,8.17972,36.07
+741,Hauzenberg,Passau,Bayern,11747,48.65,13.633,82.82
+742,Havelberg,Stendal,Sachsen-Anhalt,6436,52.825,12.07444,149.13
+743,Havelsee,Potsdam-Mittelmark,Brandenburg,3277,52.5,12.467,66.6
+744,Hayingen,Reutlingen,Baden-Württemberg,2196,48.27528,9.47806,63.31
+745,Haßfurt,Haßberge,Bayern,13593,50.017,10.5,52.77
+746,Hechingen,Zollernalbkreis,Baden-Württemberg,19126,48.35167,8.96333,66.44
+747,Hecklingen,Salzlandkreis,Sachsen-Anhalt,6877,51.85,11.517,95.34
+748,Heideck,Roth,Bayern,4653,49.117,11.117,58.64
+749,Heidelberg,Urban district,Baden-Württemberg,158741,49.417,8.717,108.83
+750,Heidenau,Sächsische Schweiz-Osterzgebirge,Sachsen,16641,50.983,13.867,11.0
+751,Heidenheim an der Brenz,Heidenheim,Baden-Württemberg,49342,48.67611,10.15444,107.1
+752,Heide,Dithmarschen,Schleswig-Holstein,21485,54.19611,9.09333,31.8938
+753,Heilbad Heiligenstadt,Eichsfeld,Thüringen,16911,51.37889,10.13861,70.88
+754,Heilbronn,Stadtkreis,Baden-Württemberg,126458,49.15,9.217,99.88
+755,Heiligenhafen,Ostholstein,Schleswig-Holstein,9186,54.37389,10.97972,18.12
+756,Heiligenhaus,Mettmann,Nordrhein-Westfalen,26301,51.31667,6.96667,27.47
+757,Heilsbronn,Ansbach,Bayern,9739,49.317,10.8,62.23
+758,Heimbach,Düren,Nordrhein-Westfalen,4312,50.63306,6.48306,64.8
+759,Heimsheim,Enzkreis,Baden-Württemberg,5320,48.80556,8.86194,14.32
+760,Heinsberg,Heinsberg,Nordrhein-Westfalen,42476,51.06306,6.09639,92.14
+761,Heitersheim,Breisgau-Hochschwarzwald,Baden-Württemberg,6437,47.87528,7.65472,11.71
+762,Heldburg,Hildburghausen,Thüringen,3374,50.283,10.733,112.75
+763,Helmbrechts,Hof,Bayern,8454,50.217,11.683,58.66
+764,Helmstedt,Helmstedt,Niedersachsen,25544,52.22806,11.01056,66.54
+765,Hemau,Regensburg,Bayern,9317,49.05194,11.78278,122.46
+766,Hemer,Märkischer Kreis,Nordrhein-Westfalen,33863,51.38333,7.76667,67.56
+767,Hemmingen,Hanover,Niedersachsen,18941,52.32361,9.72556,31.65
+768,Hemmoor,Cuxhaven,Niedersachsen,8743,53.7025,9.13944,45.08
+769,Hemsbach,Rhein-Neckar-Kreis,Baden-Württemberg,11706,49.59028,8.65639,12.86
+770,Hennef,Rhein-Sieg-Kreis,Nordrhein-Westfalen,47544,50.783,7.283,105.79
+771,Hennigsdorf,Oberhavel,Brandenburg,26559,52.63778,13.20361,31.29
+772,Heppenheim,Bergstraße,Hessen,26218,49.64306,8.63889,52.14
+773,Herbolzheim,Emmendingen,Baden-Württemberg,11146,48.22194,7.7775,35.48
+774,"Herborn, Hesse",Lahn-Dill-Kreis,Hessen,20473,50.6825,8.30611,63.82
+775,Herbrechtingen,Heidenheim,Baden-Württemberg,13051,48.62528,10.17389,58.63
+776,Herbstein,Vogelsbergkreis,Hessen,4709,50.55,9.35,79.98
+777,Herdecke,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,22653,51.4,7.433,22.4
+778,Herdorf,Altenkirchen,Rheinland-Pfalz,6559,50.7775,7.95472,18.0
+779,Herford,Herford,Nordrhein-Westfalen,66495,52.13333,8.68333,78.95
+780,Heringen,Hersfeld-Rotenburg,Hessen,7146,50.88722,10.00556,61.18
+781,Heringen,Nordhausen,Thüringen,4727,51.44722,10.88083,66.73
+782,Hermeskeil,Trier-Saarburg,Rheinland-Pfalz,6688,49.65722,6.94889,30.85
+783,Hermsdorf,Saale-Holzland-Kreis,Thüringen,8038,50.89806,11.85667,7.51
+784,Herne city,Urban district,Nordrhein-Westfalen,156940,51.55,7.21667,51.41
+785,Herrenberg,Böblingen,Baden-Württemberg,31818,48.59667,8.87083,65.71
+786,Herrieden,Ansbach,Bayern,8101,49.217,10.517,81.71
+787,Herrnhut,Görlitz,Sachsen,5787,51.01667,14.74167,73.94
+788,Hersbruck,Nürnberger Land,Bayern,12459,49.50806,11.43278,22.91
+789,Herten,Recklinghausen,Nordrhein-Westfalen,61860,51.6,7.133,37.31
+790,Herzberg am Harz,Göttingen,Niedersachsen,12799,51.6575,10.34111,71.88
+791,Herzberg,Elbe-Elster,Brandenburg,8776,51.68306,13.23306,148.48
+792,Herzogenaurach,Erlangen-Höchstadt,Bayern,23616,49.567,10.883,47.6
+793,Herzogenrath,Aachen,Nordrhein-Westfalen,46225,50.867,6.1,33.401
+794,Hessisch Lichtenau,Werra-Meißner-Kreis,Hessen,12443,51.2,9.717,105.87
+795,Hessisch Oldendorf,Hameln-Pyrmont,Niedersachsen,18190,52.167,9.25,120.39
+796,Hettingen,Sigmaringen,Baden-Württemberg,1777,48.21611,9.23139,46.07
+797,Hettstedt,Mansfeld-Südharz,Sachsen-Anhalt,13758,51.633,11.5,36.92
+798,Heubach,Ostalbkreis,Baden-Württemberg,9894,48.78806,9.93333,25.81
+799,Heusenstamm,Offenbach,Hessen,18960,50.05,8.8,19.03
+800,Hilchenbach,Siegen-Wittgenstein,Nordrhein-Westfalen,14646,50.99833,8.10944,80.88
+801,Hildburghausen,Hildburghausen,Thüringen,11674,50.41667,10.75,72.94
+802,Hilden,Mettmann,Nordrhein-Westfalen,55274,51.17139,6.93944,25.96
+803,Hildesheim,Hildesheim,Niedersachsen,101055,52.15,9.95,92.18
+804,Hillesheim,Vulkaneifel,Rheinland-Pfalz,3210,50.29306,6.675,20.62
+805,Hilpoltstein,Roth,Bayern,13841,49.183,11.183,91.42
+806,Hirschau,Amberg-Sulzbach,Bayern,5604,49.533,11.95,74.9
+807,Hirschberg,Saale-Orla-Kreis,Thüringen,2099,50.40583,11.82,24.12
+808,Hirschhorn,Bergstraße,Hessen,3410,49.45,8.9,30.86
+809,Hitzacker,Lüchow-Dannenberg,Niedersachsen,4973,53.133,11.05,58.44
+810,Hochheim am Main,Main-Taunus-Kreis,Hessen,18143,50.01667,8.35,19.43
+811,Hockenheim,Rhein-Neckar-Kreis,Baden-Württemberg,21539,49.31806,8.54722,34.84
+812,Hofgeismar,Kassel,Hessen,15243,51.483,9.4,86.39
+813,Hofheim in Unterfranken,Haßberge,Bayern,5097,50.133,10.183,56.35
+814,"Hofheim, Hesse",Main-Taunus-Kreis,Hessen,39905,50.08333,8.45,57.38
+815,Hof,Urban district,Bayern,45173,50.31667,11.91667,58.02
+816,Hohen Neuendorf,Oberhavel,Brandenburg,26380,52.667,13.283,48.06
+817,Hohenberg a.d.Eger,Wunsiedel im Fichtelgebirge,Bayern,1442,50.1,12.217,8.19
+818,Hohenleuben,Greiz,Thüringen,1388,50.717,12.05,9.52
+819,Hohenmölsen,Burgenlandkreis,Sachsen-Anhalt,9510,51.15639,12.09806,75.31
+820,Hohenstein-Ernstthal,Zwickau,Sachsen,14310,50.8,12.717,18.33
+821,Hohnstein,Sächsische Schweiz-Osterzgebirge,Sachsen,3262,50.983,14.117,64.61
+822,Hollfeld,Bayreuth,Bayern,5024,49.933,11.3,81.0
+823,Holzgerlingen,Böblingen,Baden-Württemberg,13258,48.63917,9.01083,13.39
+824,Holzminden,Holzminden,Niedersachsen,19790,51.82972,9.44833,88.25
+825,Homberg,Schwalm-Eder-Kreis,Hessen,13926,51.03306,9.4,99.99
+826,Homberg,Vogelsbergkreis,Hessen,7413,50.717,9.0,88.0
+827,Homburg,Saarpfalz,Saarland,41790,49.317,7.333,82.65
+828,Horb am Neckar,Freudenstadt,Baden-Württemberg,25092,48.44528,8.69111,119.84
+829,Horn-Bad Meinberg,Lippe,Nordrhein-Westfalen,17245,51.88333,8.96667,90.15
+830,Hornbach,Südwestpfalz,Rheinland-Pfalz,1424,49.18806,7.36917,13.32
+831,Hornberg,Ortenaukreis,Baden-Württemberg,4292,48.21333,8.23083,54.45
+832,Horstmar,Steinfurt,Nordrhein-Westfalen,6595,52.08056,7.30833,45.0
+833,Hoya,Nienburg/Weser,Niedersachsen,3884,52.8,9.133,8.5
+834,Hoyerswerda,Bautzen,Sachsen,31790,51.433,14.25,95.06
+835,Hungen,Gießen,Hessen,12642,50.467,8.9,86.75
+836,Husum,Nordfriesland,Schleswig-Holstein,23249,54.46667,9.05,25.82
+837,Höchstadt,Erlangen-Höchstadt,Bayern,13579,49.7,10.8,70.9
+838,Höchstädt an der Donau,Dillingen,Bayern,6879,48.6,10.55,37.45
+839,Höhr-Grenzhausen,Westerwaldkreis,Rheinland-Pfalz,9303,50.435,7.67111,15.87
+840,Hörstel,Steinfurt,Nordrhein-Westfalen,20335,52.29722,7.58611,107.32
+841,Höxter,Höxter,Nordrhein-Westfalen,28509,51.767,9.367,157.89
+842,Hückelhoven,Heinsberg,Nordrhein-Westfalen,40425,51.06083,6.21972,61.27
+843,Hückeswagen,Oberbergischer Kreis,Nordrhein-Westfalen,14810,51.145,7.34167,50.46
+844,Hüfingen,Schwarzwald-Baar-Kreis,Baden-Württemberg,7891,47.92611,8.49,58.53
+845,Hünfeld,Fulda,Hessen,16613,50.66667,9.76667,119.77
+846,Hürth,Rhein-Erft-Kreis,Nordrhein-Westfalen,59525,50.8775,6.87611,51.173
+847,Ibbenbüren,Steinfurt,Nordrhein-Westfalen,51526,52.27778,7.71667,108.85
+848,Ichenhausen,Günzburg,Bayern,9174,48.367,10.317,34.22
+849,Idar-Oberstein,Birkenfeld,Rheinland-Pfalz,28313,49.71139,7.31306,91.56
+850,Idstein,Rheingau-Taunus-Kreis,Hessen,25241,50.22056,8.27417,79.6
+851,Illertissen,Neu-Ulm,Bayern,17559,48.217,10.083,36.45
+852,Ilmenau,Ilm-Kreis,Thüringen,38637,50.68389,10.91944,198.69
+853,Ilsenburg,Harz,Sachsen-Anhalt,9558,51.867,10.683,62.97
+854,Ilshofen,Schwäbisch Hall,Baden-Württemberg,6787,49.17028,9.92028,54.9
+855,Immenhausen,Kassel,Hessen,7031,51.417,9.5,28.53
+856,Immenstadt,Oberallgäu,Bayern,14312,47.567,10.217,81.41
+857,Ingelfingen,Hohenlohekreis,Baden-Württemberg,5476,49.3,9.65,46.48
+858,Ingelheim am Rhein,Mainz-Bingen,Rheinland-Pfalz,35161,49.97472,8.05639,73.33
+859,Ingolstadt,Urban district,Bayern,136952,48.767,11.433,133.37
+860,Iphofen,Kitzingen,Bayern,4725,49.7,10.267,78.01
+861,Iserlohn,Märkischer Kreis,Nordrhein-Westfalen,91815,51.383,7.667,125.5
+862,Isny im Allgäu,Ravensburg,Baden-Württemberg,14321,47.69194,10.03944,85.37
+863,Isselburg,Borken,Nordrhein-Westfalen,10758,51.83306,6.46667,42.73
+864,Itzehoe,Steinburg,Schleswig-Holstein,31796,53.925,9.51639,28.03
+865,Jarmen,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,2941,53.917,13.333,30.64
+866,Jena,Urban district,Thüringen,110731,50.92722,11.58611,114.76
+867,Jerichow,Jerichower Land,Sachsen-Anhalt,6787,52.483,12.017,269.91
+868,Jessen,Wittenberg,Sachsen-Anhalt,14074,51.79167,12.95556,351.94
+869,Jever,Friesland,Niedersachsen,14562,53.57444,7.90083,42.13
+870,Joachimsthal,Barnim,Brandenburg,3414,52.96667,13.75,120.18
+871,Johanngeorgenstadt,Erzgebirgskreis,Sachsen,3879,50.43333,12.71389,29.59
+872,Jöhstadt,Erzgebirgskreis,Sachsen,2569,50.51444,13.08861,49.69
+873,Jüchen,Neuss,Nordrhein-Westfalen,23516,51.10111,6.50167,71.84
+874,Jülich,Düren,Nordrhein-Westfalen,32336,50.92222,6.35833,90.4
+875,Jüterbog,Teltow-Fläming,Brandenburg,12423,51.99333,13.07278,175.68
+876,Kaarst,Rhein-Kreis Neuss,Nordrhein-Westfalen,43615,51.217,6.617,37.48
+877,Kahla,Saale-Holzland-Kreis,Thüringen,6756,50.80083,11.5875,7.97
+878,Kaisersesch,Cochem-Zell,Rheinland-Pfalz,3172,50.23222,7.13944,8.18
+879,Kaiserslautern,Urban district,Rheinland-Pfalz,99662,49.44472,7.76889,139.74
+880,"Kalbe, Saxony-Anhalt",Altmarkkreis Salzwedel,Sachsen-Anhalt,7498,52.6333,11.4,272.51
+881,Kalkar,Kleve,Nordrhein-Westfalen,13944,51.73889,6.2925,88.2
+882,Kaltenkirchen,Segeberg,Schleswig-Holstein,22877,53.83972,9.96028,23.1
+883,Kaltennordheim,Schmalkalden-Meiningen,Thüringen,5773,50.633,10.167,94.41
+884,Kamenz,Bautzen,Sachsen,16998,51.267,14.1,98.3
+885,Kamen,Unna,Nordrhein-Westfalen,42875,51.59167,7.66528,40.93
+886,Kamp-Lintfort,Wesel,Nordrhein-Westfalen,37635,51.5,6.53333,63.16
+887,Kandel,Germersheim,Rheinland-Pfalz,8990,49.083,8.2,26.64
+888,Kandern,Lörrach,Baden-Württemberg,8287,47.717,7.667,62.27
+889,KappelnKappel,Schleswig-Flensburg,Schleswig-Holstein,8609,54.66139,9.93111,43.32
+890,Karben,Wetteraukreis,Hessen,22562,50.23222,8.76806,43.94
+891,Karlsruhe,Urban district,Baden-Württemberg,308436,49.0092097,8.4039514,173.46
+892,Karlstadt am Main,Main-Spessart,Bayern,14930,49.96028,9.77222,98.11
+893,Kassel,Urban district,Hessen,201048,51.3158,9.4979,107.0
+894,Kastellaun,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,5519,50.06944,7.44306,8.47
+895,Katzenelnbogen,Rhein-Lahn-Kreis,Rheinland-Pfalz,2169,50.26667,7.98333,9.2
+896,Kaub,Rhein-Lahn-Kreis,Rheinland-Pfalz,850,50.08806,7.76278,12.98
+897,Kaufbeuren,Urban district,Bayern,44662,47.88,10.6225,40.02
+898,Kehl,Ortenaukreis,Baden-Württemberg,36947,48.567,7.817,75.07
+899,Kelbra,Mansfeld-Südharz,Sachsen-Anhalt,3305,51.433,11.033,40.54
+900,Kelheim,Kelheim,Bayern,16744,48.917,11.867,76.76
+901,Kelkheim,Main-Taunus-Kreis,Hessen,29162,50.13778,8.44972,30.65
+902,Kellinghusen,Steinburg,Schleswig-Holstein,8144,53.95,9.717,18.81
+903,Kelsterbach,Groß-Gerau,Hessen,16983,50.06167,8.53111,15.38
+904,Kemberg,Wittenberg,Sachsen-Anhalt,9544,51.783,12.633,235.11
+905,Kemnath,Tirschenreuth,Bayern,5500,49.867,11.883,54.13
+906,Kempen,Viersen,Nordrhein-Westfalen,34537,51.36583,6.41944,68.79
+907,Kempten,Urban district,Bayern,68940,47.733,10.317,63.29
+908,Kenzingen,Emmendingen,Baden-Württemberg,10394,48.19167,7.76833,36.93
+909,Kerpen,Rhein-Erft-Kreis,Nordrhein-Westfalen,65802,50.87194,6.69611,113.94
+910,Ketzin,Havelland,Brandenburg,6595,52.46972,12.845,92.79
+911,Kevelaer,Kleve,Nordrhein-Westfalen,27955,51.58333,6.25,100.6
+912,Kiel,Urban district,Schleswig-Holstein,246601,54.32333,10.13944,118.6
+913,Kierspe,Märkischer Kreis,Nordrhein-Westfalen,16089,51.133,7.567,71.62
+914,Kirchberg an der Jagst,Schwäbisch Hall,Baden-Württemberg,4389,49.20389,9.98139,40.93
+915,Kirchberg,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,3984,49.945,7.40722,18.05
+916,Kirchberg,Zwickau,Sachsen,8166,50.62222,12.52556,39.58
+917,Kirchenlamitz,Wunsiedel im Fichtelgebirge,Bayern,3166,50.15,11.95,48.51
+918,Kirchen,Altenkirchen,Rheinland-Pfalz,8446,50.80861,7.88333,39.59
+919,Kirchhain,Marburg-Biedenkopf,Hessen,16239,50.817,8.917,90.92
+920,Kirchheim unter Teck,Esslingen,Baden-Württemberg,40774,48.64833,9.45111,40.47
+921,Kirchheimbolanden,Donnersbergkreis,Rheinland-Pfalz,7918,49.66639,8.01167,26.36
+922,Kirn,Bad Kreuznach,Rheinland-Pfalz,8241,49.78806,7.45722,16.53
+923,Kirtorf,Vogelsbergkreis,Hessen,3151,50.767,9.1,79.88
+924,Kitzingen,Kitzingen,Bayern,22141,49.733,10.167,46.99
+925,Kitzscher,Leipzig,Sachsen,5074,51.164475,12.5535,28.99
+926,Kleve,Kleve,Nordrhein-Westfalen,52359,51.79,6.14,97.79
+927,Klingenberg am Main,Miltenberg,Bayern,6234,49.783,9.183,21.14
+928,Klingenthal,Vogtlandkreis,Sachsen,8035,50.36694,12.46861,50.44
+929,Klötze,Altmarkkreis Salzwedel,Sachsen-Anhalt,9825,52.62629,11.1616,278.29
+930,Klütz,Nordwestmecklenburg,Mecklenburg-Western Pomerania,3082,53.967,11.167,44.12
+931,Knittlingen,Enzkreis,Baden-Württemberg,8068,49.02389,8.75694,26.33
+932,Koblenz,Urban district,Rheinland-Pfalz,113388,50.35972,7.59778,105.02
+933,Kolbermoor,Rosenheim,Bayern,18534,47.85,12.067,19.87
+934,Konz,Trier-Saarburg,Rheinland-Pfalz,18244,49.7,6.583,44.54
+935,Korntal-Münchingen,Ludwigsburg,Baden-Württemberg,19639,48.83056,9.12139,20.71
+936,Kornwestheim,Ludwigsburg,Baden-Württemberg,33743,48.8598,9.1852,14.64
+937,Korschenbroich,Rhein-Kreis Neuss,Nordrhein-Westfalen,33484,51.183,6.517,55.26
+938,Kraichtal,Karlsruhe,Baden-Württemberg,14686,49.12417,8.71472,80.56
+939,Krakow am See,Rostock,Mecklenburg-Western Pomerania,3412,53.65,12.267,87.07
+940,Kranichfeld,Weimarer Land,Thüringen,3340,50.85,11.2,23.08
+941,Krautheim,Hohenlohekreis,Baden-Württemberg,4640,49.383,9.633,52.91
+942,Krefeld,Urban districts of Germany,Nordrhein-Westfalen,226844,51.33333,6.56667,137.68
+943,Kremmen,Oberhavel,Brandenburg,7700,52.76667,13.03306,208.43
+944,Krempe,Steinburg,Schleswig-Holstein,2346,53.817,9.467,3.39
+945,Kreuztal,Siegen-Wittgenstein,Nordrhein-Westfalen,30965,50.967,7.967,70.97
+946,Kronach,Kronach,Bayern,16701,50.24111,11.32806,66.99
+947,Kronberg im Taunus,Hochtaunuskreis,Hessen,18242,50.183,8.5,18.62
+948,Kroppenstedt,Börde,Sachsen-Anhalt,1402,51.9413,11.30845,38.65
+949,Krumbach,Günzburg,Bayern,13568,48.25,10.367,44.75
+950,Kröpelin,Rostock,Mecklenburg-Western Pomerania,4789,54.067,11.783,67.26
+951,Kulmbach,Kulmbach,Bayern,25781,50.1,11.433,92.77
+952,Kupferberg,Kulmbach,Bayern,1067,50.117,11.567,8.28
+953,Kuppenheim,Rastatt,Baden-Württemberg,8372,48.8275,8.25444,18.08
+954,Kusel,Kusel,Rheinland-Pfalz,5566,49.53472,7.39806,14.37
+955,Kyllburg,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz,935,50.04194,6.59472,4.62
+956,Kyritz,Ostprignitz-Ruppin,Brandenburg,9281,52.95,12.4,156.09
+957,Kölleda,Sömmerda,Thüringen,6278,51.167,11.217,89.5
+958,Königs Wusterhausen,Dahme-Spreewald,Brandenburg,38111,52.29167,13.625,95.83
+959,Königsberg in Bayern,Haßberge,Bayern,3634,50.07778,10.56667,61.86
+960,Königsbrunn,Augsburg,Bayern,28075,48.26889,10.89083,18.4
+961,Königsbrück,Bautzen,Sachsen,4565,51.25,13.883,77.83
+962,Königsee,Saalfeld-Rudolstadt,Thüringen,7307,50.66139,11.09722,103.09
+963,Königslutter,Helmstedt,Niedersachsen,15790,52.25,10.817,130.58
+964,Königstein im Taunus,Hochtaunuskreis,Hessen,16608,50.183,8.467,25.1
+965,Königstein,Sächsische Schweiz-Osterzgebirge,Sachsen,2104,50.91889,14.07139,26.93
+966,Königswinter,Rhein-Sieg-Kreis,Nordrhein-Westfalen,41122,50.67361,7.19472,76.19
+967,Könnern,Salzlandkreis,Sachsen-Anhalt,8241,51.66972,11.77083,125.11
+968,Köthen,Anhalt-Bitterfeld,Sachsen-Anhalt,25244,51.75,11.91667,78.42
+969,Kühlungsborn,Rostock,Mecklenburg-Western Pomerania,7930,54.133,11.75,16.16
+970,Külsheim,Main-Tauber-Kreis,Baden-Württemberg,5219,49.66944,9.52056,81.46
+971,Künzelsau,Hohenlohekreis,Baden-Württemberg,15389,49.283,9.683,75.17
+972,Laage,Rostock,Mecklenburg-Western Pomerania,6477,53.93222,12.34667,114.78
+973,Laatzen,Hanover,Niedersachsen,41854,52.317,9.8,34.05
+974,Ladenburg,Rhein-Neckar-Kreis,Baden-Württemberg,11880,49.467,8.617,19.0
+975,Lage,Lippe,Nordrhein-Westfalen,34885,51.96667,8.8,76.04
+976,Lahnstein,Rhein-Lahn-Kreis,Rheinland-Pfalz,18030,50.30111,7.60556,36.85
+977,Lahr,Ortenau,Baden-Württemberg,47551,48.333,7.867,69.86
+978,Laichingen,Alb-Donau-Kreis,Baden-Württemberg,11951,48.48972,9.68611,69.84
+979,"Lambrecht, Rhineland-Palatinate",Bad Dürkheim,Rheinland-Pfalz,4040,49.38028,8.08611,8.32
+980,Lampertheim,Bergstraße,Hessen,32660,49.6,8.46667,72.3
+981,Landau an der Isar,Dingolfing-Landau,Bayern,13698,48.667,12.667,84.37
+982,Landau in der Pfalz,Urban district,Rheinland-Pfalz,46685,49.2,8.117,82.94
+983,Landsberg am Lech,Landsberg am Lech,Bayern,29346,48.04778,10.89889,57.89
+984,Landsberg,Saalekreis,Sachsen-Anhalt,15068,51.533,12.167,124.74
+985,Landshut,Urban district,Bayern,73065,48.53972,12.15083,65.7
+986,Landstuhl,Kaiserslautern,Rheinland-Pfalz,8350,49.41222,7.57222,15.34
+987,Langelsheim,Goslar,Niedersachsen,11245,51.93806,10.335,48.72
+988,"Langen, Hesse",Offenbach,Hessen,38524,49.983,8.667,29.12
+989,Langenau,Alb-Donau-Kreis,Baden-Württemberg,15470,48.49667,10.12,75.0
+990,Langenburg,Schwäbisch Hall,Baden-Württemberg,1882,49.25333,9.84861,31.4
+991,Langenfeld,Mettmann,Nordrhein-Westfalen,59112,51.117,6.95,41.1
+992,Langenhagen,Hanover,Niedersachsen,54684,52.43944,9.74,71.99
+993,Langenselbold,Main-Kinzig-Kreis,Hessen,14184,50.183,9.033,26.25
+994,Langenzenn,Fürth,Bayern,10652,49.49444,10.79472,46.31
+995,Lassan,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,1468,53.933,13.833,27.98
+996,Laubach,Gießen,Hessen,9604,50.533,8.99,97.01
+997,Laucha an der Unstrut,Burgenlandkreis,Sachsen-Anhalt,2796,51.22361,11.67972,31.12
+998,Lauchhammer,Oberspreewald-Lausitz,Brandenburg,14070,51.5,13.8,88.43
+999,Lauchheim,Ostalbkreis,Baden-Württemberg,4715,48.87167,10.24444,40.86
+1000,Lauda-Königshofen,Main-Tauber-Kreis,Baden-Württemberg,14473,49.56861,9.70389,94.47
+1001,Lauenburg,Lauenburg,Schleswig-Holstein,11321,53.383,10.567,9.54
+1002,Lauf an der Pegnitz,Nürnberger Land,Bayern,26434,49.51028,11.27722,59.8
+1003,Laufenburg,Waldshut,Baden-Württemberg,9018,47.56556,8.06472,23.58
+1004,Laufen,Berchtesgadener Land,Bayern,7319,47.933,12.933,35.31
+1005,Lauffen,Heilbronn,Baden-Württemberg,11838,49.08333,9.15,22.63
+1006,Lauingen,Dillingen,Bayern,11068,48.567,10.433,44.39
+1007,Laupheim,Biberach,Baden-Württemberg,22579,48.22889,9.87972,61.8
+1008,Lauscha,Sonneberg,Thüringen,3214,50.48139,11.16028,18.72
+1009,Lauta,Bautzen,Sachsen,8211,51.44806,14.09972,41.87
+1010,Lauter-Bernsbach,Erzgebirgskreis,Sachsen,8524,50.567,12.75,30.3
+1011,Lauterbach,Vogelsbergkreis,Hessen,13656,50.63778,9.39444,102.0
+1012,Lauterecken,Kusel,Rheinland-Pfalz,1978,49.64944,7.59194,8.91
+1013,Lauterstein,Göppingen,Baden-Württemberg,2583,48.71,9.86139,23.32
+1014,Lebach,Saarlouis,Saarland,18828,49.41,6.91,64.15
+1015,Lebus,Märkisch-Oderland,Brandenburg,3144,52.41667,14.53306,54.23
+1016,Leer,Leer,Niedersachsen,34958,53.23083,7.45278,70.3
+1017,Lehesten,Saalfeld-Rudolstadt,Thüringen,1643,50.47556,11.44806,35.96
+1018,Lehrte,Hanover,Niedersachsen,44154,52.367,9.967,127.0
+1019,Leichlingen,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,27885,51.117,7.017,37.33
+1020,Leimen,Rhein-Neckar-Kreis,Baden-Württemberg,26862,49.34806,8.69111,20.64
+1021,Leinefelde-Worbis,Eichsfeld,Thüringen,20018,51.38333,10.33333,110.18
+1022,Leinfelden-Echterdingen,Esslingen,Baden-Württemberg,40161,48.69278,9.14278,29.9
+1023,Leingarten,Heilbronn,Baden-Württemberg,11741,49.15,9.117,23.48
+1024,Leipheim,Günzburg,Bayern,7326,48.44889,10.22083,32.15
+1025,Leipzig,Urban districts of Germany,Sachsen,597493,51.333,12.383,297.36
+1026,Leisnig,Mittelsachsen,Sachsen,8156,51.167,12.917,78.01
+1027,Lemgo,Lippe,Nordrhein-Westfalen,40456,52.02722,8.91167,100.85
+1028,Lengenfeld,Vogtlandkreis,Sachsen,7042,50.567,12.367,46.98
+1029,Lengerich,Steinfurt,Nordrhein-Westfalen,22511,52.175,7.86667,90.71
+1030,Lennestadt,Olpe,Nordrhein-Westfalen,25140,51.12361,8.06806,135.06
+1031,Lenzen,Prignitz,Brandenburg,2075,53.09111,11.47333,95.75
+1032,Leonberg,Böblingen,Baden-Württemberg,48753,48.80139,9.01306,48.73
+1033,Leuna,Saalekreis,Sachsen-Anhalt,13906,51.317,12.017,83.41
+1034,Leun,Lahn-Dill-Kreis,Hessen,5716,50.55,8.367,28.66
+1035,Leutenberg,Saalfeld-Rudolstadt,Thüringen,2057,50.54972,11.44972,57.17
+1036,Leutershausen,Ansbach,Bayern,5624,49.283,10.417,84.11
+1037,Leutkirch im Allgäu,Ravensburg,Baden-Württemberg,23030,47.82556,10.02222,174.95
+1038,Leverkusen,Urban district,Nordrhein-Westfalen,163905,51.033,6.983,78.85
+1039,Lichtenau,Rastatt,Baden-Württemberg,5037,48.72611,8.005,27.62
+1040,Lichtenau,Paderborn,Nordrhein-Westfalen,10551,51.6,8.88333,192.17
+1041,Lichtenberg,Hof,Bayern,1029,50.38361,11.67583,9.47
+1042,Lichtenfels,Lichtenfels,Bayern,20034,50.133,11.033,122.27
+1043,Lichtenfels,Waldeck-Frankenberg,Hessen,4093,51.15,8.8,96.73
+1044,Lichtenstein,Zwickau,Sachsen,11087,50.75639,12.63167,15.48
+1045,Lich,Gießen,Hessen,13880,50.52167,8.82083,77.64
+1046,Liebenau,Kassel,Hessen,2977,51.483,9.283,48.87
+1047,Liebenwalde,Oberhavel,Brandenburg,4368,52.867,13.4,138.84
+1048,Lieberose,Dahme-Spreewald,Brandenburg,1371,51.98306,14.3,72.51
+1049,Liebstadt,Sächsische Schweiz-Osterzgebirge,Sachsen,1273,50.86472,13.85556,37.41
+1050,Limbach-Oberfrohna,Zwickau,Sachsen,23711,50.867,12.75,50.17
+1051,Limburg an der Lahn,Limburg-Weilburg,Hessen,35648,50.383,8.067,45.15
+1052,Lindau,Lindau,Bayern,25543,47.54583,9.68333,33.18
+1053,Lindenberg im Allgäu,Lindau,Bayern,11512,47.6,9.9,11.85
+1054,Lindenfels,Bergstraße,Hessen,5084,49.68333,8.78333,21.09
+1055,Linden,Gießen,Hessen,13111,50.533,8.65,22.77
+1056,Lindow,Ostprignitz-Ruppin,Brandenburg,3030,52.967,12.983,65.17
+1057,Lingen (Ems),Emsland,Niedersachsen,55232,52.52306,7.32306,176.15
+1058,Linnich,Düren,Nordrhein-Westfalen,12697,50.97889,6.26778,65.46
+1059,Linz am Rhein,Neuwied,Rheinland-Pfalz,6209,50.57028,7.28472,17.98
+1060,Lippstadt,Soest,Nordrhein-Westfalen,67793,51.667,8.35,113.3
+1061,Lohmar,Rhein-Sieg-Kreis,Nordrhein-Westfalen,30316,50.817,7.217,65.5
+1062,Lohne (Oldenburg),Vechta,Niedersachsen,27259,52.66667,8.23861,90.78
+1063,Lohr a. Main,Main-Spessart,Bayern,15016,50.0,9.583,90.44
+1064,Loitz,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,4262,53.967,13.15,89.53
+1065,Lollar,Gießen,Hessen,10399,50.64972,8.70444,21.9
+1066,Lommatzsch,Meißen,Sachsen,4807,51.2,13.3,66.47
+1067,Lorch,Ostalbkreis,Baden-Württemberg,10953,48.79833,9.68833,34.28
+1068,Lorch,Rheingau-Taunus-Kreis,Hessen,3744,50.04417,7.80333,54.0
+1069,Lorsch,Bergstraße,Hessen,13831,49.65389,8.5675,25.24
+1070,Luckau,Dahme-Spreewald,Brandenburg,9443,51.85,13.71667,206.38
+1071,Lucka,Altenburger Land,Thüringen,3606,51.095,12.33528,12.99
+1072,Luckenwalde,Teltow-Fläming,Brandenburg,20586,52.083,13.167,46.75
+1073,Ludwigsburg,Ludwigsburg,Baden-Württemberg,93358,48.8975,9.19222,43.33
+1074,Ludwigsfelde,Teltow-Fläming,Brandenburg,26936,52.29972,13.26667,109.3
+1075,Ludwigshafen am Rhein,Urban district,Rheinland-Pfalz,172557,49.48111,8.43528,77.68
+1076,Ludwigslust,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,11959,53.32444,11.49722,78.3
+1077,Ludwigsstadt,Kronach,Bayern,3342,50.48583,11.3875,58.72
+1078,Lugau,Erzgebirgskreis,Sachsen,7907,50.73833,12.74639,22.2
+1079,Lunzenau,Mittelsachsen,Sachsen,4133,50.96306,12.75306,28.06
+1080,Lychen,Uckermark,Brandenburg,3154,53.203235,13.319617,110.51
+1081,Löbau,Görlitz,Sachsen,14347,51.09444,14.66667,78.74
+1082,Löffingen,Breisgau-Hochschwarzwald,Baden-Württemberg,7649,47.88389,8.34361,88.03
+1083,Löhne,Herford,Nordrhein-Westfalen,39871,52.2,8.7,59.41
+1084,Löningen,Cloppenburg,Niedersachsen,13561,52.717,7.767,143.0
+1085,Lörrach,Lörrach,Baden-Württemberg,49295,47.617,7.667,39.43
+1086,Löwenstein,Heilbronn,Baden-Württemberg,3379,49.1,9.383,23.46
+1087,Lößnitz,Erzgebirgskreis,Sachsen,8074,50.62139,12.73167,30.54
+1088,Lübbecke,Minden-Lübbecke,Nordrhein-Westfalen,25573,52.30806,8.62306,65.0
+1089,Lübben/Lubin,Dahme-Spreewald,Brandenburg,14036,51.95,13.9,119.91
+1090,Lübbenau/Spreewald,Oberspreewald-Lausitz,Brandenburg,15969,51.867,13.967,138.78
+1091,Lübeck,Urban district,Schleswig-Holstein,215846,53.86972,10.68639,214.13
+1092,Lübtheen,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,4643,53.3,11.083,119.69
+1093,Lübz,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,6204,53.46306,12.02833,74.49
+1094,Lüchow,Lüchow-Dannenberg,Niedersachsen,9435,52.967,11.15,89.01
+1095,Lüdenscheid,Märkischer Kreis,Nordrhein-Westfalen,71911,51.217,7.633,86.73
+1096,Lüdinghausen,Coesfeld,Nordrhein-Westfalen,24810,51.767,7.433,140.31
+1097,Lügde,Lippe,Nordrhein-Westfalen,9235,51.95,9.25,88.64
+1098,Lüneburg,Lüneburg,Niedersachsen,75301,53.2525,10.41444,70.34
+1099,Lünen,Unna,Nordrhein-Westfalen,85838,51.617,7.517,59.18
+1100,Lütjenburg,Plön,Schleswig-Holstein,5305,54.29472,10.59139,6.15
+1101,Lützen,Burgenlandkreis,Sachsen-Anhalt,8458,51.25,12.133,108.28
+1102,Magdala,Weimarer Land,Thüringen,2019,50.90667,11.44611,20.53
+1103,Magdeburg,Urban district,Sachsen-Anhalt,235775,52.13333,11.61667,200.95
+1104,Mahlberg,Ortenaukreis,Baden-Württemberg,5248,48.28694,7.81139,16.59
+1105,Mainbernheim,Kitzingen,Bayern,2283,49.7,10.217,12.0
+1106,Mainburg,Kelheim,Bayern,15106,48.65,11.783,61.59
+1107,Maintal,Main-Kinzig-Kreis,Hessen,39307,50.15,8.833,32.4
+1108,Mainz,Urban district,Rheinland-Pfalz,217123,49.983,8.267,97.75
+1109,Malchin,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,7341,53.733,12.783,108.7
+1110,Malchow,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,6542,53.467,12.417,44.6
+1111,Manderscheid,Bernkastel-Wittlich,Rheinland-Pfalz,1416,50.09194,6.80917,10.06
+1112,Mannheim,Urban district,Baden-Württemberg,309721,49.48778,8.46611,144.96
+1113,Mansfeld,Mansfeld-Südharz,Sachsen-Anhalt,8517,51.59417,11.45472,143.78
+1114,Marbach am Neckar,Ludwigsburg,Baden-Württemberg,15833,48.933,9.25,18.06
+1115,Marburg,Marburg-Biedenkopf,Hessen,76401,50.81,8.77083,123.92
+1116,Marienberg,Erzgebirgskreis,Sachsen,16716,50.633,13.15,133.47
+1117,Marienmünster,Höxter,Nordrhein-Westfalen,4903,51.81667,9.18306,64.35
+1118,Markdorf,Bodenseekreis,Baden-Württemberg,14156,47.72083,9.39167,40.92
+1119,Markgröningen,Ludwigsburg,Baden-Württemberg,14902,48.90472,9.08083,28.16
+1120,Markkleeberg,Leipzig,Sachsen,24664,51.27778,12.38333,31.36
+1121,Markneukirchen,Vogtlandkreis,Sachsen,7362,50.317,12.317,69.06
+1122,Markranstädt,Leipzig,Sachsen,15824,51.30167,12.22111,58.27
+1123,Marktbreit,Kitzingen,Bayern,3973,49.66694,10.14361,20.15
+1124,Marktheidenfeld,Main-Spessart,Bayern,11243,49.85,9.6,37.54
+1125,Marktleuthen,Wunsiedel im Fichtelgebirge,Bayern,2999,50.117,12.0,35.49
+1126,Marktoberdorf,Ostallgäu,Bayern,18683,47.767,10.617,95.25
+1127,Marktredwitz,Wunsiedel im Fichtelgebirge,Bayern,17049,50.0,12.067,49.52
+1128,Marktsteft,Kitzingen,Bayern,1995,49.7,10.117,10.51
+1129,Marlow,Vorpommern-Rügen,Mecklenburg-Western Pomerania,4616,54.133,12.567,139.81
+1130,Marl,Recklinghausen,Nordrhein-Westfalen,84312,51.667,7.117,87.69
+1131,Marne,Dithmarschen,Schleswig-Holstein,5947,53.95,9.0,4.83
+1132,Marsberg,Hochsauerlandkreis,Nordrhein-Westfalen,19488,51.45,8.833,182.01
+1133,Maulbronn,Enzkreis,Baden-Württemberg,6632,49.00028,8.81083,25.44
+1134,Maxhütte-Haidhof,Schwandorf,Bayern,11817,49.2,12.1,34.71
+1135,Mayen,Mayen-Koblenz,Rheinland-Pfalz,19284,50.33333,7.21667,58.04
+1136,Mechernich,Euskirchen,Nordrhein-Westfalen,27986,50.6,6.65,136.3
+1137,Meckenheim,Rhein-Sieg-Kreis,Nordrhein-Westfalen,24741,50.633,7.017,34.92
+1138,Medebach,Hochsauerlandkreis,Nordrhein-Westfalen,7987,51.19722,8.70694,126.05
+1139,Meerane,Zwickau,Sachsen,13934,50.85194,12.46361,19.77
+1140,Meerbusch,Rhein-Kreis Neuss,Nordrhein-Westfalen,56479,51.267,6.667,64.37
+1141,Meersburg,Bodenseekreis,Baden-Württemberg,6050,47.7,9.267,12.08
+1142,Meinerzhagen,Märkischer Kreis,Nordrhein-Westfalen,20529,51.117,7.633,115.18
+1143,Meiningen,Schmalkalden-Meiningen,Thüringen,24722,50.55,10.417,105.65
+1144,Meisenheim,Bad Kreuznach,Rheinland-Pfalz,2789,49.717,7.667,10.34
+1145,Meissen,Meißen,Sachsen,28231,51.167,13.483,30.9
+1146,Meldorf,Dithmarschen,Schleswig-Holstein,7248,54.083,9.067,21.25
+1147,Melle,Osnabrück,Niedersachsen,46753,52.20444,8.33889,254.0
+1148,Mellrichstadt,Rhön-Grabfeld,Bayern,5504,50.417,10.317,55.78
+1149,Melsungen,Schwalm-Eder-Kreis,Hessen,13797,51.133,9.55,63.1
+1150,Memmingen,Urban district,Bayern,44360,47.98778,10.18111,70.17
+1151,Menden,Märkischer Kreis,Nordrhein-Westfalen,52452,51.43333,7.8,86.08
+1152,Mendig,Mayen-Koblenz,Rheinland-Pfalz,8932,50.37444,7.28083,23.78
+1153,Mengen,Sigmaringen,Baden-Württemberg,9876,48.04972,9.33,49.8
+1154,Meppen,Emsland,Niedersachsen,35457,52.69361,7.29278,188.48
+1155,Merkendorf,Ansbach,Bayern,3067,49.2,10.683,26.08
+1156,Merseburg,Saalekreis,Sachsen-Anhalt,33593,51.35444,11.99278,54.73
+1157,Merzig,Merzig-Wadern,Saarland,29700,49.45,6.617,108.79
+1158,Meschede,Hochsauerlandkreis,Nordrhein-Westfalen,29696,51.35,8.283,218.5
+1159,Mettmann,Mettmann,Nordrhein-Westfalen,38749,51.25,6.967,42.52
+1160,Metzingen,Reutlingen,Baden-Württemberg,22117,48.53667,9.28583,34.61
+1161,Meuselwitz,Altenburger Land,Thüringen,9881,51.05,12.3,56.99
+1162,Meyenburg,Prignitz,Brandenburg,2111,53.31667,12.23306,50.62
+1163,Meßkirch,Sigmaringen,Baden-Württemberg,8428,47.99278,9.1125,76.22
+1164,Meßstetten,Zollernalbkreis,Baden-Württemberg,10714,48.18056,8.9625,76.82
+1165,Michelstadt,Odenwaldkreis,Hessen,15970,49.678591,9.003859,86.97
+1166,Miesbach,Miesbach,Bayern,11466,47.783,11.833,32.35
+1167,Miltenberg,Miltenberg,Bayern,9288,49.70389,9.26444,60.18
+1168,Mindelheim,Unterallgäu,Bayern,15247,48.033,10.467,56.44
+1169,Minden,Minden-Lübbecke,Nordrhein-Westfalen,81592,52.28833,8.91667,101.08
+1170,Mirow,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,3883,53.267,12.8,156.37
+1171,Mittenwalde,Dahme-Spreewald,Brandenburg,9428,52.267,13.533,98.48
+1172,Mitterteich,Tirschenreuth,Bayern,6495,49.933,12.233,39.35
+1173,Mittweida,Mittelsachsen,Sachsen,14356,50.98556,12.98111,41.24
+1174,Moers,Wesel,Nordrhein-Westfalen,103487,51.45917,6.61972,67.68
+1175,Monheim am Rhein,Mettmann,Nordrhein-Westfalen,41279,51.1,6.9,23.1
+1176,Monheim,Donau-Ries,Bayern,5200,48.833,10.833,69.35
+1177,Monschau,Aachen,Nordrhein-Westfalen,11686,50.56,6.25639,94.62
+1178,Montabaur,Westerwaldkreis,Rheinland-Pfalz,14213,50.4375,7.82583,33.61
+1179,Moosburg an der Isar,Freising,Bayern,18893,48.467,11.933,43.86
+1180,Moringen,Northeim,Niedersachsen,6941,51.7,9.867,82.25
+1181,Mosbach,Neckar-Odenwald-Kreis,Baden-Württemberg,23425,49.35222,9.14667,62.23
+1182,Munderkingen,Alb-Donau-Kreis,Baden-Württemberg,5430,48.23528,9.64389,13.08
+1183,Munich,Urban district,Bayern,1488202,48.133,11.567,310.71
+1184,Munster,Heidekreis,Niedersachsen,15134,52.98861,10.09111,193.42
+1185,Murrhardt,Rems-Murr-Kreis,Baden-Württemberg,14026,48.98,9.58139,71.13
+1186,Märkisch Buchholz,Dahme-Spreewald,Brandenburg,836,52.1,13.75,24.65
+1187,Möckern,Jerichower Land,Sachsen-Anhalt,12935,52.14056,11.9525,530.19
+1188,Möckmühl,Heilbronn,Baden-Württemberg,8216,49.317,9.35,49.61
+1189,Mölln,Lauenburg,Schleswig-Holstein,19282,53.62694,10.68472,25.05
+1190,Mönchengladbach,Urban districts of Germany,Nordrhein-Westfalen,259665,51.2,6.43333,170.43
+1191,Mörfelden-Walldorf,Groß-Gerau,Hessen,34799,50.0,8.583,44.16
+1192,Mössingen,Tübingen,Baden-Württemberg,20494,48.40639,9.0575,50.05
+1193,Mücheln,Saalekreis,Sachsen-Anhalt,8541,51.3,11.8,98.6
+1194,Mügeln,Nordsachsen,Sachsen,5855,51.23333,13.05,54.95
+1195,Mühlacker,Enzkreis,Baden-Württemberg,26093,48.95,8.83944,54.32
+1196,Mühlberg,Elbe-Elster,Brandenburg,3630,51.43306,13.21667,88.55
+1197,Mühldorf am Inn,Mühldorf am Inn,Bayern,20962,48.24167,12.525,29.42
+1198,Mühlhausen,Unstrut-Hainich-Kreis,Thüringen,35799,51.217,10.45,130.7
+1199,Mühlheim am Main,Offenbach,Hessen,28534,50.117,8.917,20.67
+1200,Mühlheim an der Donau,Tuttlingen,Baden-Württemberg,3604,48.03056,8.88583,21.73
+1201,Mülheim an der Ruhr,Urban districts of Germany,Nordrhein-Westfalen,170921,51.4275,6.8825,91.26
+1202,Mülheim-Kärlich,Mayen-Koblenz,Rheinland-Pfalz,11185,50.38694,7.49528,16.31
+1203,Müllheim,Breisgau-Hochschwarzwald,Baden-Württemberg,19119,47.8,7.633,57.91
+1204,Müllrose,Oder-Spree,Brandenburg,4632,52.25,14.417,68.54
+1205,Münchberg,Hof,Bayern,10136,50.2,11.767,68.78
+1206,Müncheberg,Märkisch-Oderland,Brandenburg,7003,52.50361,14.13972,151.93
+1207,Münchenbernsdorf,Greiz,Thüringen,2929,50.81667,11.93333,15.43
+1208,Münnerstadt,Bad Kissingen,Bayern,7523,50.25,10.167,93.11
+1209,Münsingen,Reutlingen,Baden-Württemberg,14480,48.41278,9.49528,116.05
+1210,Münstermaifeld,Mayen-Koblenz,Rheinland-Pfalz,3445,50.2475,7.36306,27.78
+1211,Münster,Urban district,Nordrhein-Westfalen,316403,51.9625,7.62556,302.89
+1212,Münzenberg,Wetteraukreis,Hessen,5835,50.45333,8.77611,31.63
+1213,Nabburg,Schwandorf,Bayern,6173,49.45,12.167,62.39
+1214,Nagold,Calw,Baden-Württemberg,22672,48.55194,8.72556,63.09
+1215,Naila,Hof,Bayern,7590,50.317,11.683,37.05
+1216,Nassau,Rhein-Lahn-Kreis,Rheinland-Pfalz,4559,50.31583,7.80222,17.51
+1217,Nastätten,Rhein-Lahn-Kreis,Rheinland-Pfalz,4265,50.19944,7.85833,13.02
+1218,Nauen,Havelland,Brandenburg,18540,52.6,12.88306,266.78
+1219,Naumburg,Kassel,Hessen,5003,51.25,9.167,66.29
+1220,Naumburg,Burgenlandkreis,Sachsen-Anhalt,32053,51.15,11.817,129.88
+1221,Naunhof,Leipzig,Sachsen,8721,51.27778,12.58833,39.49
+1222,Nebra,Burgenlandkreis,Sachsen-Anhalt,3044,51.283,11.567,25.42
+1223,Neckarbischofsheim,Rhein-Neckar-Kreis,Baden-Württemberg,4072,49.2925,8.96056,26.41
+1224,Neckargemünd,Rhein-Neckar-Kreis,Baden-Württemberg,13349,49.39389,8.7975,26.15
+1225,Neckarsteinach,Bergstraße,Hessen,3854,49.4,8.83333,17.22
+1226,Neckarsulm,Heilbronn,Baden-Württemberg,26324,49.191694,9.224556,24.94
+1227,Neresheim,Ostalbkreis,Baden-Württemberg,7991,48.75417,10.33444,118.52
+1228,Netphen,Siegen-Wittgenstein,Nordrhein-Westfalen,23033,50.91472,8.1,137.39
+1229,Nettetal,Viersen,Nordrhein-Westfalen,42438,51.317,6.283,84.0
+1230,Netzschkau,Vogtlandkreis,Sachsen,3770,50.617,12.25,12.51
+1231,Neu-Anspach,Hochtaunuskreis,Hessen,14619,50.29306,8.50889,36.14
+1232,Neu-Isenburg,Offenbach,Hessen,38204,50.05,8.7,24.29
+1233,Neu-Ulm,Neu-Ulm,Bayern,58841,48.383,10.0,80.5
+1234,Neubrandenburg,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,63372,53.55694,13.26111,85.65
+1235,Neubukow,Rostock,Mecklenburg-Western Pomerania,3937,54.017,11.667,24.99
+1236,Neubulach,Calw,Baden-Württemberg,5731,48.66111,8.69667,24.69
+1237,Neuburg a.d. Donau,Neuburg-Schrobenhausen,Bayern,29662,48.733,11.183,81.32
+1238,Neudenau,Heilbronn,Baden-Württemberg,5302,49.283,9.267,32.93
+1239,Neuenburg am Rhein,Breisgau-Hochschwarzwald,Baden-Württemberg,12339,47.81472,7.56194,44.12
+1240,Neuenbürg,Enzkreis,Baden-Württemberg,8308,48.84611,8.58889,28.17
+1241,Neuenhaus,Grafschaft Bentheim,Niedersachsen,10228,52.5,6.96667,31.31
+1242,Neuenrade,Märkischer Kreis,Nordrhein-Westfalen,11772,51.28389,7.78,54.12
+1243,Neuenstadt am Kocher,Heilbronn,Baden-Württemberg,10214,49.233,9.333,41.18
+1244,Neuenstein,Hohenlohekreis,Baden-Württemberg,6621,49.2,9.583,47.84
+1245,Neuerburg,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz,1512,50.01056,6.29583,10.23
+1246,Neuffen,Esslingen,Baden-Württemberg,6247,48.55444,9.37556,17.45
+1247,Neuhaus am Rennweg,Sonneberg,Thüringen,8808,50.517,11.15,108.22
+1248,Neukalen,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,1747,53.817,12.783,46.84
+1249,Neukirchen-Vluyn,Wesel,Nordrhein-Westfalen,27532,51.44167,6.55833,43.48
+1250,Neukirchen,Schwalm-Eder-Kreis,Hessen,6894,50.867,9.333,66.26
+1251,Neukloster,Nordwestmecklenburg,Mecklenburg-Western Pomerania,4020,53.867,11.683,27.49
+1252,Neumarkt in der Oberpfalz,Neumarkt in der Oberpfalz,Bayern,40243,49.283,11.467,79.03
+1253,Neumarkt-Sankt Veit,Mühldorf am Inn,Bayern,6295,48.367,12.5,61.06
+1254,Neumark,Weimarer Land,Thüringen,477,51.08,11.24778,8.64
+1255,Neumünster,Urban district,Schleswig-Holstein,79905,54.07139,9.99,71.57
+1256,Neunburg vorm Wald,Schwandorf,Bayern,8345,49.333,12.383,110.16
+1257,Neunkirchen,Neunkirchen,Saarland,46037,49.35,7.167,75.08
+1258,Neuruppin,Ostprignitz-Ruppin,Brandenburg,30764,52.93306,12.8,303.32
+1259,Neusalza-Spremberg,Görlitz,Sachsen,3264,51.03889,14.52944,23.89
+1260,Neuss,Rhein-Kreis Neuss,Nordrhein-Westfalen,153109,51.2,6.7,99.48
+1261,Neustadt a.d.Donau,Kelheim,Bayern,14493,48.8,11.767,93.56
+1262,Neustadt a.d.Waldnaab,Neustadt a.d.Waldnaab,Bayern,5723,49.73082,12.1707,9.93
+1263,Neustadt am Kulm,Neustadt a.d.Waldnaab,Bayern,1129,49.817,11.817,20.3
+1264,Neustadt am Rübenberge,Hanover,Niedersachsen,44586,52.5,9.467,357.0
+1265,Neustadt an der Aisch,Neustadt (Aisch)-Bad Windsheim,Bayern,13224,49.59667,10.60889,0.0
+1266,Neustadt an der Orla,Saale-Orla-Kreis,Thüringen,9095,50.733,11.75,86.08
+1267,Neustadt an der Weinstraße,Urban district,Rheinland-Pfalz,53306,49.35,8.15,117.1
+1268,Neustadt b.Coburg,Coburg,Bayern,14995,50.32889,11.12111,61.9
+1269,Neustadt in Holstein,Ostholstein,Schleswig-Holstein,15154,54.10722,10.81583,19.74
+1270,Neustadt in Sachsen,Sächsische Schweiz-Osterzgebirge,Sachsen,11962,51.02389,14.21667,83.05
+1271,Neustadt-Glewe,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,6997,53.367,11.583,93.91
+1272,Neustadt,Ostprignitz-Ruppin,Brandenburg,3395,52.86667,12.43306,75.43
+1273,Neustadt,Marburg-Biedenkopf,Hessen,9947,50.85,9.117,56.88
+1274,Neustrelitz,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,20151,53.36472,13.06361,138.15
+1275,Neusäß,Augsburg,Bayern,22482,48.4,10.833,25.14
+1276,Neutraubling,Regensburg,Bayern,14018,48.99361,12.19528,12.0
+1277,Neuwied,Neuwied,Rheinland-Pfalz,64860,50.42861,7.46139,86.5
+1278,Neuötting,Altötting,Bayern,8852,48.217,12.683,36.6
+1279,Niddatal,Wetteraukreis,Hessen,9917,50.29833,8.81389,40.21
+1280,Nidda,Wetteraukreis,Hessen,17314,50.41278,9.00917,118.34
+1281,Nidderau,Main-Kinzig-Kreis,Hessen,20556,50.25,8.9,46.73
+1282,Nideggen,Düren,Nordrhein-Westfalen,10155,50.7,6.483,65.04
+1283,NiebüllNaibel / Nibøl,Nordfriesland,Schleswig-Holstein,10089,54.7881,8.8296,30.63
+1284,Niedenstein,Schwalm-Eder-Kreis,Hessen,5392,51.233,9.317,30.61
+1285,Nieder-Olm,Mainz-Bingen,Rheinland-Pfalz,4527,49.90833,8.20278,17.09
+1286,Niederkassel,Rhein-Sieg-Kreis,Nordrhein-Westfalen,38512,50.817,7.033,35.79
+1287,Niedernhall,Hohenlohekreis,Baden-Württemberg,4073,49.3,9.617,17.71
+1288,Niederstetten,Main-Tauber-Kreis,Baden-Württemberg,4800,49.40083,9.91806,104.06
+1289,Niederstotzingen,Heidenheim,Baden-Württemberg,4721,48.54111,10.23306,29.8
+1290,Nieheim,Höxter,Nordrhein-Westfalen,6026,51.79972,9.10972,79.79
+1291,Niemegk,Potsdam-Mittelmark,Brandenburg,2005,52.08306,12.69972,44.81
+1292,Nienburg,Nienburg,Niedersachsen,31443,52.64111,9.20694,64.45
+1293,Nienburg,Salzlandkreis,Sachsen-Anhalt,6104,51.817,11.75,79.1
+1294,Nierstein,Mainz-Bingen,Rheinland-Pfalz,8441,49.86944,8.3375,19.34
+1295,Niesky,Görlitz,Sachsen,9198,51.3,14.817,53.61
+1296,Nittenau,Schwandorf,Bayern,9053,49.2,12.267,93.15
+1297,Nordenham,Wesermarsch,Niedersachsen,26102,53.5,8.467,87.32
+1298,Norden,Aurich,Niedersachsen,24767,53.59667,7.20556,106.33
+1299,Norderney,Aurich,Niedersachsen,6032,53.70722,7.14694,26.3
+1300,Norderstedt,Kreis Segeberg,Schleswig-Holstein,79155,53.70639,10.01028,58.1
+1301,"Nordhausen, Thuringia",Nordhausen,Thüringen,40969,51.505,10.79111,110.86
+1302,Nordhorn,Grafschaft Bentheim,Niedersachsen,53839,52.43194,7.06778,149.64
+1303,Northeim,Northeim,Niedersachsen,29092,51.70667,10.00111,145.67
+1304,Nortorf,Rendsburg-Eckernförde,Schleswig-Holstein,6912,54.167,9.867,12.77
+1305,Nossen,Meissen,Sachsen,10510,51.05,13.3,122.61
+1306,Nottertal-Heilinger Höhen,Unstrut-Hainich-Kreis,Thüringen,5742,51.24694,10.65639,75.95
+1307,Nuremberg,Urban district,Bayern,515543,49.45389,11.0775,186.46
+1308,Nördlingen,Donau-Ries,Bayern,20674,48.85111,10.48833,68.1
+1309,Nürtingen,Esslingen,Baden-Württemberg,41154,48.633,9.333,46.9
+1310,Ober-Ramstadt,Darmstadt-Dieburg,Hessen,15127,49.833,8.75,41.88
+1311,Oberasbach,Fürth,Bayern,17737,49.42194,10.95833,12.11
+1312,Oberharz am Brocken,Harz,Sachsen-Anhalt,10062,51.717,10.817,271.52
+1313,Oberhausen,Urban districts of Germany,Nordrhein-Westfalen,209566,51.49667,6.87056,77.04
+1314,Oberhof,Schmalkalden-Meiningen,Thüringen,1626,50.70528,10.72583,23.47
+1315,Oberkirch,Ortenaukreis,Baden-Württemberg,19944,48.533,8.083,69.13
+1316,Oberkochen,Ostalbkreis,Baden-Württemberg,7870,48.78389,10.10528,23.57
+1317,Oberlungwitz,Zwickau,Sachsen,5851,50.783,12.717,14.67
+1318,Obermoschel,Donnersbergkreis,Rheinland-Pfalz,1056,49.72694,7.77278,10.15
+1319,Obernburg a.Main,Miltenberg,Bayern,8696,49.84,9.14139,24.83
+1320,Oberndorf am Neckar,Rottweil,Baden-Württemberg,14246,48.29139,8.5725,55.93
+1321,Obernkirchen,Schaumburg,Niedersachsen,9240,52.26639,9.11778,32.55
+1322,Oberriexingen,Ludwigsburg,Baden-Württemberg,3298,48.92556,9.02806,8.17
+1323,Obertshausen,Offenbach,Hessen,24977,50.067,8.833,13.62
+1324,Oberursel (Taunus),Hochtaunuskreis,Hessen,46678,50.2032194,8.576925,45.31
+1325,Oberviechtach,Schwandorf,Bayern,5019,49.45,12.417,62.41
+1326,Oberwesel,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,2804,50.11111,7.72139,18.11
+1327,Oberwiesenthal,Erzgebirgskreis,Sachsen,2055,50.41917,12.97083,39.98
+1328,Oberzent,Odenwaldkreis,Hessen,10153,49.567,8.967,165.59
+1329,Ochsenfurt,Würzburg,Bayern,11248,49.65,10.067,63.55
+1330,Ochsenhausen,Biberach,Baden-Württemberg,8935,48.07222,9.94806,59.96
+1331,Ochtrup,Steinfurt,Nordrhein-Westfalen,19673,52.20556,7.19028,105.54
+1332,Oderberg,Barnim,Brandenburg,2134,52.86667,14.05,35.31
+1333,Oebisfelde-Weferlingen,Börde,Sachsen-Anhalt,13555,52.433,10.983,249.22
+1334,Oederan,Mittelsachsen,Sachsen,7876,50.86167,13.16722,77.35
+1335,Oelde,Warendorf,Nordrhein-Westfalen,29133,51.833,8.15,102.63
+1336,Oelsnitz,Vogtlandkreis,Sachsen,10045,50.41667,12.16667,53.67
+1337,Oelsnitz,Erzgebirgskreis,Sachsen,10983,50.72222,12.69861,26.28
+1338,Oer-Erkenschwick,Recklinghausen,Nordrhein-Westfalen,31532,51.64222,7.25083,38.8
+1339,Oerlinghausen,Lippe,Nordrhein-Westfalen,17065,51.96667,8.66667,32.69
+1340,Oestrich-Winkel,Rheingau-Taunus-Kreis,Hessen,11873,50.0,8.0,59.53
+1341,Oettingen in Bayern,Donau-Ries,Bayern,5205,48.95,10.583,34.21
+1342,Offenbach am Main,Urban district,Hessen,130892,50.1,8.8,44.9
+1343,Offenburg,Ortenaukreis,Baden-Württemberg,60388,48.467,7.933,78.38
+1344,Ohrdruf,Gotha,Thüringen,9652,50.82806,10.73278,113.41
+1345,Olbernhau,Erzgebirgskreis,Sachsen,10694,50.667,13.333,125.36
+1346,Olching,Fürstenfeldbruck,Bayern,27930,48.2,11.317,29.91
+1347,Oldenburg in Holstein,Ostholstein,Schleswig-Holstein,9851,54.3,10.88333,39.67
+1348,Oldenburg,Urban district,Niedersachsen,169605,53.14389,8.21389,102.96
+1349,Olfen,Coesfeld,Nordrhein-Westfalen,13014,51.717,7.383,52.43
+1350,Olpe,Olpe,Nordrhein-Westfalen,24593,51.017,7.833,85.6
+1351,Olsberg,Hochsauerlandkreis,Nordrhein-Westfalen,21452,51.35,8.483,117.97
+1352,Oppenau,Ortenaukreis,Baden-Württemberg,4796,48.47361,8.15944,73.04
+1353,Oppenheim,Mainz-Bingen,Rheinland-Pfalz,7582,49.85556,8.36028,7.09
+1354,Oranienbaum-Wörlitz,Wittenberg,Sachsen-Anhalt,8206,51.79917,12.40694,115.16
+1355,Oranienburg,Oberhavel,Brandenburg,45492,52.75444,13.23694,162.37
+1356,Orlamünde,Saale-Holzland-Kreis,Thüringen,1087,50.77528,11.53139,7.58
+1357,Ornbau,Ansbach,Bayern,1653,49.17778,10.65556,15.16
+1358,Ortenberg,Wetteraukreis,Hessen,8973,50.35583,9.05528,54.7
+1359,Ortrand,Oberspreewald-Lausitz,Brandenburg,2033,51.36667,13.78306,7.34
+1360,Oschatz,Nordsachsen,Sachsen,13917,51.30028,13.10722,55.31
+1361,Oschersleben,Börde,Sachsen-Anhalt,19396,52.017,11.25,188.92
+1362,Osnabrück,Urban district,Niedersachsen,164223,52.283,8.05,119.8
+1363,Osterburg,Stendal,Sachsen-Anhalt,9617,52.783,11.767,229.74
+1364,Osterburken,Neckar-Odenwald-Kreis,Baden-Württemberg,6549,49.43083,9.42611,47.32
+1365,Osterfeld,Burgenlandkreis,Sachsen-Anhalt,2436,51.07667,11.93306,27.61
+1366,Osterhofen,Deggendorf,Bayern,11816,48.7,13.017,111.19
+1367,Osterholz-Scharmbeck,Osterholz,Niedersachsen,30366,53.217,8.8,147.0
+1368,Osterode am Harz,Göttingen,Niedersachsen,21392,51.72861,10.25222,102.46
+1369,Osterwieck,Harz,Sachsen-Anhalt,11016,51.967,10.717,212.67
+1370,Ostfildern,Esslingen,Baden-Württemberg,39431,48.733,9.25,22.81
+1371,Ostheim,Rhön-Grabfeld,Bayern,3290,50.467,10.217,40.73
+1372,Osthofen,Alzey-Worms,Rheinland-Pfalz,9569,49.70778,8.32889,27.11
+1373,Ostritz,Görlitz,Sachsen,2215,51.01472,14.93222,23.39
+1374,Otterberg,Kaiserslautern,Rheinland-Pfalz,5309,49.50444,7.77111,32.09
+1375,Otterndorf,Cuxhaven,Niedersachsen,7449,53.8,8.9,33.54
+1376,Ottweiler,Neunkirchen,Saarland,14352,49.367,7.167,45.51
+1377,Overath,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,27124,50.95,7.3,68.8
+1378,Owen,Esslingen,Baden-Württemberg,3382,48.58833,9.45139,9.7
+1379,Paderborn,Paderborn,Nordrhein-Westfalen,151864,51.71806,8.75417,179.38
+1380,Papenburg,Emsland,Niedersachsen,37551,53.067,7.4,118.36
+1381,Pappenheim,Weißenburg-Gunzenhausen,Bayern,3924,48.93472,10.97444,64.32
+1382,Parchim,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,17622,53.417,11.833,124.49
+1383,Parsberg,Neumarkt in der Oberpfalz,Bayern,7272,49.15,11.717,57.0
+1384,Pasewalk,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,9948,53.5,14.0,54.99
+1385,Passau,Urban district,Bayern,52415,48.56667,13.46667,69.58
+1386,Pattensen,Hanover,Niedersachsen,14625,52.267,9.767,67.0
+1387,Pausa-Mühltroff,Vogtlandkreis,Sachsen,4845,50.567,11.967,64.13
+1388,Pegau,Leipzig,Sachsen,6504,51.16667,12.25,48.61
+1389,Pegnitz,Bayreuth,Bayern,13271,49.75639,11.545,100.03
+1390,Peine,Peine,Niedersachsen,50249,52.32028,10.23361,119.51
+1391,Peitz,Spree-Neiße,Brandenburg,4372,51.86667,14.41667,13.38
+1392,Penig,Mittelsachsen,Sachsen,8624,50.93361,12.70583,63.31
+1393,Penkun,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,1765,53.283,14.25,78.64
+1394,Penzberg,Weilheim-Schongau,Bayern,16510,47.75,11.383,25.73
+1395,Penzlin,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,4175,53.505,13.08306,115.47
+1396,Perleberg,Prignitz,Brandenburg,12035,53.06667,11.86667,137.82
+1397,Petershagen,Minden-Lübbecke,Nordrhein-Westfalen,25045,52.383,8.967,212.0
+1398,Pfaffenhofen a.d.Ilm,Pfaffenhofen a.d.Ilm,Bayern,26272,48.533,11.517,92.39
+1399,Pfarrkirchen,Rottal-Inn,Bayern,13005,48.417,12.917,52.33
+1400,Pforzheim,Stadtkreis,Baden-Württemberg,126016,48.895,8.705,98.03
+1401,Pfreimd,Schwandorf,Bayern,5301,49.5,12.183,51.43
+1402,Pfullendorf,Sigmaringen,Baden-Württemberg,13472,47.92417,9.25667,90.56
+1403,Pfullingen,Reutlingen,Baden-Württemberg,18778,48.46556,9.22611,30.12
+1404,Pfungstadt,Darmstadt-Dieburg,Hessen,25029,49.80556,8.60444,42.53
+1405,Philippsburg,Karlsruhe,Baden-Württemberg,13723,49.23333,8.45,50.56
+1406,Pinneberg,Pinneberg,Schleswig-Holstein,43503,53.633,9.8,21.54
+1407,Pirmasens,Urban district,Rheinland-Pfalz,40176,49.2,7.6,61.37
+1408,Pirna,Sächsische Schweiz-Osterzgebirge,Sachsen,38284,50.96222,13.94028,53.02
+1409,Plattling,Deggendorf,Bayern,12948,48.767,12.867,35.9
+1410,Plau am See,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,6055,53.45806,12.2625,115.99
+1411,Plauen,Vogtlandkreis,Sachsen,64014,50.483,12.117,102.11
+1412,Plaue,Ilm-Kreis,Thüringen,2007,50.77944,10.89889,22.69
+1413,Plettenberg,Märkischer Kreis,Nordrhein-Westfalen,24978,51.217,7.883,96.29
+1414,Pleystein,Neustadt a.d.Waldnaab,Bayern,2327,49.65,12.417,36.1
+1415,Plochingen,Esslingen,Baden-Württemberg,14490,48.71167,9.41639,10.65
+1416,Plön,Plön,Schleswig-Holstein,8987,54.16222,10.42139,36.73
+1417,Pockau-Lengefeld,Erzgebirgskreis,Sachsen,7472,50.717,13.183,83.57
+1418,Pocking,Passau,Bayern,16186,48.4,13.317,68.82
+1419,Pohlheim,Gießen,Hessen,18049,50.517,8.7,38.0
+1420,Polch,Mayen-Koblenz,Rheinland-Pfalz,6866,50.30111,7.31667,28.7
+1421,Porta Westfalica,Minden-Lübbecke,Nordrhein-Westfalen,35734,52.21667,8.93333,105.0
+1422,Potsdam,Urban district,Brandenburg,182112,52.4,13.067,187.28
+1423,Pottenstein,Bayreuth,Bayern,5183,49.77222,11.41139,73.24
+1424,Preetz,Plön,Schleswig-Holstein,15958,54.23667,10.28222,14.4
+1425,Premnitz,Havelland,Brandenburg,8368,52.53306,12.33306,45.42
+1426,Prenzlau,Uckermark,Brandenburg,18849,53.317,13.867,142.18
+1427,Pressath,Neustadt a.d.Waldnaab,Bayern,4263,49.767,11.917,66.31
+1428,Preußisch Oldendorf,Minden-Lübbecke,Nordrhein-Westfalen,12236,52.28333,8.5,68.78
+1429,Prichsenstadt,Kitzingen,Bayern,3057,49.817,10.333,48.87
+1430,Pritzwalk,Prignitz,Brandenburg,11870,53.14972,12.18306,165.57
+1431,Prüm,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz,5529,50.20806,6.42444,22.86
+1432,Puchheim,Fürstenfeldbruck,Bayern,21235,48.15,11.35,12.23
+1433,Pulheim,Rhein-Erft-Kreis,Nordrhein-Westfalen,54636,51.0,6.8,72.14
+1434,Pulsnitz,Bautzen,Sachsen,7433,51.18167,14.01306,26.72
+1435,Putbus,Vorpommern-Rügen,Mecklenburg-Western Pomerania,4487,54.333,13.483,66.6
+1436,Putlitz,Prignitz,Brandenburg,2654,53.25,12.05,118.49
+1437,Pößneck,Saale-Orla-Kreis,Thüringen,11697,50.7,11.6,24.45
+1438,Püttlingen,Saarbrücken,Saarland,18318,49.283,6.883,23.94
+1439,Quakenbrück,Osnabrück,Niedersachsen,13546,52.67722,7.9575,17.95
+1440,Quedlinburg,Harz,Sachsen-Anhalt,23604,51.79167,11.14722,120.42
+1441,Querfurt,Saalekreis,Sachsen-Anhalt,10454,51.383,11.6,155.23
+1442,Quickborn,Pinneberg,Schleswig-Holstein,21659,53.73333,9.89722,43.16
+1443,Rabenau,Sächsische Schweiz-Osterzgebirge,Sachsen,4400,50.967,13.633,30.72
+1444,Radeberg,Bautzen,Sachsen,18597,51.117,13.917,30.0
+1445,Radebeul,Meißen,Sachsen,33843,51.1,13.65,26.06
+1446,Radeburg,Meißen,Sachsen,7268,51.2125,13.72556,54.0
+1447,Radevormwald,Oberbergischer Kreis,Nordrhein-Westfalen,21963,51.2,7.35,53.77
+1448,Radolfzell,Konstanz,Baden-Württemberg,31530,47.73333,8.96667,58.58
+1449,Raguhn-Jeßnitz,Anhalt-Bitterfeld,Sachsen-Anhalt,8931,51.667,12.067,97.09
+1450,Rahden,Minden-Lübbecke,Nordrhein-Westfalen,15404,52.417,8.617,137.6
+1451,Rain,Donau-Ries,Bayern,9002,48.683,10.917,77.13
+1452,Ramstein-Miesenbach,Kaiserslautern,Rheinland-Pfalz,7981,49.44611,7.55472,43.03
+1453,Ranis,Saale-Orla-Kreis,Thüringen,1657,50.66389,11.56806,10.55
+1454,Ransbach-Baumbach,Westerwaldkreis,Rheinland-Pfalz,7860,50.46611,7.72528,12.14
+1455,Rastatt,Rastatt,Baden-Württemberg,50165,48.85,8.2,59.02
+1456,Rastenberg,Sömmerda,Thüringen,2493,51.17611,11.41917,35.42
+1457,Rathenow,Havelland,Brandenburg,24179,52.6,12.333,105.68
+1458,Ratingen,Mettmann,Nordrhein-Westfalen,86899,51.3,6.85,88.72
+1459,Ratzeburg,Herzogtum Lauenburg,Schleswig-Holstein,14517,53.7,10.75,30.29
+1460,Rauenberg,Rhein-Neckar-Kreis,Baden-Württemberg,8752,49.26778,8.70361,11.12
+1461,Raunheim,Groß-Gerau,Hessen,16096,50.017,8.45,13.01
+1462,Rauschenberg,Marburg-Biedenkopf,Hessen,4410,50.86667,8.91667,67.33
+1463,Ravensburg,Ravensburg,Baden-Württemberg,50776,47.78306,9.61139,92.04
+1464,Ravenstein,Neckar-Odenwald-Kreis,Baden-Württemberg,2938,49.40111,9.50778,55.97
+1465,Recklinghausen,Recklinghausen,Nordrhein-Westfalen,110705,51.585,7.16194,66.4
+1466,Rees,Kleve,Nordrhein-Westfalen,21030,51.76667,6.4,109.66
+1467,Regensburg,Urban district,Bayern,152270,49.017,12.083,80.76
+1468,Regen,Regen,Bayern,10888,48.967,13.133,65.15
+1469,Regis-Breitingen,Leipzig,Sachsen,3821,51.083,12.45,26.35
+1470,Rehau,Hof,Bayern,9319,50.25,12.017,80.34
+1471,Rehburg-Loccum,Nienburg,Niedersachsen,10179,52.45083,9.20778,99.99
+1472,Rehna,Nordwestmecklenburg,Mecklenburg-Western Pomerania,3592,53.767,11.033,44.29
+1473,Reichelsheim,Wetteraukreis,Hessen,6826,50.35694,8.8725,27.6
+1474,Reichenbach im Vogtland,Vogtlandkreis,Sachsen,20198,50.617,12.3,34.46
+1475,Reichenbach,Görlitz,Sachsen,4915,51.14167,14.8,62.59
+1476,Reinbek,Stormarn,Schleswig-Holstein,28250,53.50889,10.24833,31.23
+1477,Reinfeld,Stormarn,Schleswig-Holstein,9042,53.83333,10.48333,17.36
+1478,Reinheim,Darmstadt-Dieburg,Hessen,16426,49.82694,8.83083,27.7
+1479,Remagen,Ahrweiler,Rheinland-Pfalz,17156,50.57861,7.23056,33.16
+1480,Remscheid,Urban districts of Germany,Nordrhein-Westfalen,111516,51.18333,7.2,74.6
+1481,Remseck,Ludwigsburg,Baden-Württemberg,26508,48.86889,9.27639,22.82
+1482,Renchen,Ortenaukreis,Baden-Württemberg,7387,48.58583,8.01056,32.08
+1483,Rendsburg,Rendsburg-Eckernförde,Schleswig-Holstein,28705,54.3,9.66667,23.72
+1484,Rennerod,Westerwaldkreis,Rheinland-Pfalz,4374,50.60972,8.06889,18.14
+1485,Renningen,Böblingen,Baden-Württemberg,18535,48.76611,8.93472,31.13
+1486,Rerik,Rostock,Mecklenburg-Western Pomerania,2169,54.1,11.617,33.45
+1487,Rethem,Heidekreis,Niedersachsen,2297,52.78472,9.37806,33.76
+1488,Reutlingen,Reutlingen,Baden-Württemberg,116031,48.483,9.217,87.06
+1489,Rheda-Wiedenbrück,Gütersloh,Nordrhein-Westfalen,48672,51.84167,8.3,86.66
+1490,Rhede,Borken,Nordrhein-Westfalen,19319,51.83333,6.70056,78.65
+1491,Rheinau,Ortenaukreis,Baden-Württemberg,11322,48.66778,7.93472,73.51
+1492,Rheinbach,Rhein-Sieg-Kreis,Nordrhein-Westfalen,26949,50.633,6.95,69.74
+1493,Rheinberg,Wesel,Nordrhein-Westfalen,30933,51.54667,6.60056,75.15
+1494,Rheinböllen,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,4103,50.0,7.667,16.33
+1495,Rheine,Steinfurt,Nordrhein-Westfalen,76123,52.283,7.433,145.0
+1496,Rheinfelden,Lörrach,Baden-Württemberg,32919,47.56111,7.79167,62.84
+1497,Rheinsberg,Ostprignitz-Ruppin,Brandenburg,7948,53.09833,12.89583,324.83
+1498,Rheinstetten,Karlsruhe,Baden-Württemberg,20178,48.96056,8.28972,32.31
+1499,Rhens,Mayen-Koblenz,Rheinland-Pfalz,2982,50.2804889,7.618111,16.3
+1500,Rhinow,Havelland,Brandenburg,1596,52.75,12.33306,31.51
+1501,Ribnitz-Damgarten,Vorpommern-Rügen,Mecklenburg-Western Pomerania,15269,54.25,12.46667,122.2
+1502,Richtenberg,Vorpommern-Rügen,Mecklenburg-Western Pomerania,1331,54.2,12.867,15.63
+1503,Riedenburg,Kelheim,Bayern,6119,48.967,11.683,100.45
+1504,Riedlingen,Biberach,Baden-Württemberg,10670,48.15528,9.47278,64.97
+1505,Riedstadt,Groß-Gerau,Hessen,24004,49.83722,8.50444,73.76
+1506,Rieneck,Main-Spessart,Bayern,1914,50.1,9.633,26.2
+1507,Riesa,Meißen,Sachsen,29256,51.30806,13.29389,58.91
+1508,Rietberg,Gütersloh,Nordrhein-Westfalen,29432,51.8,8.433,110.37
+1509,Rinteln,Schaumburg,Niedersachsen,25487,52.19056,9.08139,109.0
+1510,Rochlitz,Mittelsachsen,Sachsen,5658,51.04806,12.79861,23.71
+1511,Rockenhausen,Donnersbergkreis,Rheinland-Pfalz,5373,49.6285861,7.8205111,36.83
+1512,Rodalben,Südwestpfalz,Rheinland-Pfalz,6681,49.233,7.65,15.69
+1513,Rodenberg,Schaumburg,Niedersachsen,6568,52.317,9.35,15.6
+1514,Rodewisch,Vogtlandkreis,Sachsen,6361,50.517,12.417,26.88
+1515,Rodgau,Offenbach,Hessen,46005,50.017,8.883,65.04
+1516,Roding,Cham,Bayern,12296,49.2,12.517,113.8
+1517,Romrod,Vogelsbergkreis,Hessen,2676,50.717,9.217,54.43
+1518,Ronneburg,Greiz,Thüringen,4953,50.86361,12.18083,19.18
+1519,Ronnenberg,Hanover,Niedersachsen,24403,52.31944,9.65556,37.78
+1520,Rosbach vor der Höhe,Wetteraukreis,Hessen,12863,50.29861,8.70056,45.33
+1521,Rosenfeld,Zollernalbkreis,Baden-Württemberg,6383,48.28639,8.72417,51.11
+1522,Rosenheim,urban district,Bayern,63591,47.85,12.13333,37.22
+1523,Rosenthal,Waldeck-Frankenberg,Hessen,2158,50.967,8.867,51.54
+1524,Rostock,Urban district,Mecklenburg-Western Pomerania,209061,54.08333,12.13333,181.44
+1525,Rotenburg a. d.  Fulda,Hersfeld-Rotenburg,Hessen,13959,50.99611,9.72778,79.84
+1526,Rotenburg an der Wümme,Rotenburg (Wümme),Niedersachsen,22072,53.10694,9.39694,98.81
+1527,Rothenburg ob der Tauber,Ansbach,Bayern,11273,49.383,10.183,41.68
+1528,Rothenburg,Görlitz,Sachsen,4405,51.33333,14.96667,72.28
+1529,Rothenfels,Main-Spessart,Bayern,1001,49.883,9.583,12.07
+1530,Roth,Roth,Bayern,25232,49.24611,11.09111,96.25
+1531,Rottenburg a.d.Laaber,Landshut,Bayern,8455,48.70194,12.02722,90.15
+1532,Rottenburg am Neckar,Tübingen,Baden-Württemberg,43756,48.47722,8.93444,142.26
+1533,Rottweil,Rottweil,Baden-Württemberg,24975,48.16806,8.62472,71.76
+1534,Roßleben-Wiehe,Kyffhäuserkreis,Thüringen,7344,51.3,11.433,73.04
+1535,Roßwein,Mittelsachsen,Sachsen,7410,51.067,13.183,43.94
+1536,Rudolstadt,Saalfeld-Rudolstadt,Thüringen,24672,50.71694,11.3275,135.17
+1537,Ruhland,Oberspreewald-Lausitz,Brandenburg,3739,51.46667,13.86667,37.12
+1538,Ruhla,Wartburgkreis,Thüringen,5406,50.89194,10.36667,38.51
+1539,Runkel,Limburg-Weilburg,Hessen,9351,50.40528,8.155,43.69
+1540,Rutesheim,Böblingen,Baden-Württemberg,10875,48.80972,8.945,16.24
+1541,Röbel,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,4999,53.37611,12.60611,30.17
+1542,Rödental,Coburg,Bayern,13082,50.283,11.067,49.96
+1543,Rödermark,Offenbach,Hessen,28344,49.96667,8.81667,29.99
+1544,Römhild,Hildburghausen,Thüringen,6747,50.383,10.55,122.46
+1545,Rösrath,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,28759,50.9,7.183,38.81
+1546,Rötha,Leipzig,Sachsen,6200,51.19722,12.41722,46.03
+1547,Röthenbach an der Pegnitz,Nürnberger Land,Bayern,12370,49.48472,11.2475,14.27
+1548,Röttingen,Würzburg,Bayern,1652,49.5,9.967,27.19
+1549,Rötz,Cham,Bayern,3357,49.35,12.517,66.68
+1550,Rüdesheim,Rheingau-Taunus-Kreis,Hessen,9970,49.98333,7.93056,51.0
+1551,Rüsselsheim am Main,Groß-Gerau,Hessen,65972,50.0,8.433,58.3
+1552,Rüthen,Soest,Nordrhein-Westfalen,10565,51.49333,8.48333,158.09
+1553,Saalburg-Ebersdorf,Saale-Orla-Kreis,Thüringen,3292,50.49167,11.7,71.87
+1554,Saalfeld,Saalfeld-Rudolstadt,Thüringen,29071,50.65,11.367,145.56
+1555,Saarbrücken,Saarbrücken,Saarland,179349,49.233,7.0,167.07
+1556,Saarburg,Trier-Saarburg,Rheinland-Pfalz,7489,49.617,6.55,20.63
+1557,Saarlouis,Saarlouis,Saarland,34409,49.31667,6.75,43.27
+1558,Sachsenhagen,Schaumburg,Niedersachsen,1980,52.4,9.267,15.53
+1559,Sachsenheim,Ludwigsburg,Baden-Württemberg,19120,48.96,9.06472,57.92
+1560,Salzgitter,Urban districts of Germany,Niedersachsen,103866,52.15,10.33333,223.92
+1561,Salzkotten,Paderborn,Nordrhein-Westfalen,25013,51.67083,8.60472,109.4
+1562,Salzwedel,Altmarkkreis Salzwedel,Sachsen-Anhalt,23306,52.85,11.15,304.53
+1563,Sandau,Stendal,Sachsen-Anhalt,828,52.78333,12.05,18.58
+1564,Sandersdorf-Brehna,Anhalt-Bitterfeld,Sachsen-Anhalt,14364,51.617,12.233,81.71
+1565,Sangerhausen,Mansfeld-Südharz,Sachsen-Anhalt,25703,51.46667,11.3,207.64
+1566,Sankt Augustin,Rhein-Sieg-Kreis,Nordrhein-Westfalen,55590,50.77,7.18667,34.22
+1567,Sankt Blasien,Waldshut,Baden-Württemberg,3982,47.76194,8.12833,54.36
+1568,Sankt Georgen im Schwarzwald,Schwarzwald-Baar-Kreis,Baden-Württemberg,13035,48.12472,8.33083,59.85
+1569,Sankt Goarshausen,Rhein-Lahn-Kreis,Rheinland-Pfalz,1268,50.15472,7.71528,7.0
+1570,Sankt Goar,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,2768,50.15,7.717,22.93
+1571,Sankt Ingbert,Saarpfalz-Kreis,Saarland,35213,49.3,7.117,49.95
+1572,Sankt Wendel,Sankt Wendel,Saarland,25438,49.467,7.167,113.54
+1573,Sarstedt,Hildesheim,Niedersachsen,19392,52.23944,9.86056,42.94
+1574,Sassenberg,Warendorf,Nordrhein-Westfalen,14215,51.98972,8.04083,78.08
+1575,Sassnitz,Vorpommern-Rügen,Mecklenburg-Western Pomerania,9191,54.51639,13.64111,46.45
+1576,"Sayda, Saxony",Mittelsachsen,Sachsen,1713,50.717,13.417,35.17
+1577,Schalkau,Sonneberg,Thüringen,3278,50.39444,11.00861,44.03
+1578,Schauenstein,Hof,Bayern,1897,50.267,11.767,26.66
+1579,Scheer,Sigmaringen,Baden-Württemberg,2472,48.07361,9.29333,18.72
+1580,Scheibenberg,Erzgebirgskreis,Sachsen,2054,50.54083,12.9125,9.01
+1581,Scheinfeld,Neustadt a.d.Aisch-Bad Windsheim,Bayern,4700,49.667,10.467,45.12
+1582,Schelklingen,Alb-Donau-Kreis,Baden-Württemberg,6870,48.37556,9.7325,75.24
+1583,Schenefeld,Pinneberg,Schleswig-Holstein,19368,53.60278,9.82333,9.99
+1584,Scheßlitz,Bamberg,Bayern,7232,49.975,11.03333,94.88
+1585,Schieder-Schwalenberg,Lippe,Nordrhein-Westfalen,8355,51.88306,9.18306,60.04
+1586,Schifferstadt,Rhein-Pfalz-Kreis,Rheinland-Pfalz,20432,49.383,8.367,28.04
+1587,Schillingsfürst,Ansbach,Bayern,2823,49.267,10.267,27.52
+1588,Schiltach,Rottweil,Baden-Württemberg,3801,48.29056,8.34472,34.22
+1589,Schirgiswalde-Kirschau,Bautzen,Sachsen,6142,51.1,14.433,24.3
+1590,Schkeuditz,Nordsachsen,Sachsen,18287,51.4,12.21667,79.36
+1591,Schkölen,Saale-Holzland-Kreis,Thüringen,2593,51.03333,11.81667,53.3
+1592,Schleiden,Euskirchen,Nordrhein-Westfalen,13191,50.53306,6.46667,122.09
+1593,Schleiz,Saale-Orla-Kreis,Thüringen,8832,50.58333,11.81667,108.22
+1594,Schleswig,Schleswig-Flensburg,Schleswig-Holstein,25322,54.51806,9.57028,24.3
+1595,Schlettau,Erzgebirgskreis,Sachsen,2345,50.55861,12.95111,21.17
+1596,Schleusingen,Hildburghausen,Thüringen,10801,50.51667,10.75,125.56
+1597,Schlieben,Elbe-Elster,Brandenburg,2420,51.71667,13.38306,78.22
+1598,Schlitz,Vogelsbergkreis,Hessen,9666,50.667,9.567,142.09
+1599,Schloß Holte-Stukenbrock,Gütersloh,Nordrhein-Westfalen,26943,51.883,8.617,67.42
+1600,Schlüchtern,Main-Kinzig-Kreis,Hessen,15847,50.35,9.517,113.3
+1601,Schlüsselfeld,Bamberg,Bayern,5965,49.767,10.617,70.22
+1602,Schmalkalden,Schmalkalden-Meiningen,Thüringen,19553,50.717,10.45,105.35
+1603,Schmallenberg,Hochsauerlandkreis,Nordrhein-Westfalen,24806,51.148983,8.284539,303.0
+1604,Schmölln,Altenburger Land,Thüringen,13604,50.895,12.35639,94.72
+1605,Schnackenburg,Lüchow-Dannenberg,Niedersachsen,531,53.03667,11.56806,23.7
+1606,Schnaittenbach,Amberg-Sulzbach,Bayern,4183,49.533,12.017,62.55
+1607,Schneeberg,Erzgebirgskreis,Sachsen,13790,50.59417,12.64556,23.35
+1608,Schneverdingen,Heidekreis,Niedersachsen,18881,53.11667,9.8,234.58
+1609,Schongau,Weilheim-Schongau,Bayern,12350,47.817,10.9,21.35
+1610,Schopfheim,Lörrach,Baden-Württemberg,19763,47.65,7.817,68.01
+1611,Schorndorf,Rems-Murr-Kreis,Baden-Württemberg,39785,48.8,9.533,56.86
+1612,Schortens,Friesland,Niedersachsen,20483,53.533,7.95,68.67
+1613,Schotten,Vogelsbergkreis,Hessen,10045,50.5,9.117,133.56
+1614,Schramberg,Rottweil,Baden-Württemberg,21059,48.22694,8.38417,80.7
+1615,Schraplau,Saalekreis,Sachsen-Anhalt,1077,51.43639,11.665,7.05
+1616,Schriesheim,Rhein-Neckar-Kreis,Baden-Württemberg,14921,49.47361,8.65917,31.64
+1617,Schrobenhausen,Neuburg-Schrobenhausen,Bayern,17381,48.533,11.267,75.31
+1618,Schrozberg,Schwäbisch Hall,Baden-Württemberg,5797,49.34444,9.98056,105.21
+1619,Schwaan,Rostock,Mecklenburg-Western Pomerania,5017,53.93889,12.10694,38.28
+1620,Schwabach,Urban district,Bayern,41056,49.32917,11.02083,40.71
+1621,Schwabmünchen,Augsburg,Bayern,14335,48.17889,10.755,55.52
+1622,Schwaigern,Heilbronn,Baden-Württemberg,11481,49.133,9.05,49.5
+1623,Schwalbach am Taunus,Main-Taunus-Kreis,Hessen,15372,50.15,8.533,6.47
+1624,Schwalmstadt,Schwalm-Eder-Kreis,Hessen,18091,50.933,9.217,84.74
+1625,Schwandorf,Schwandorf,Bayern,29020,49.32833,12.11,123.76
+1626,Schwanebeck,Harz,Sachsen-Anhalt,2426,51.9675,11.12083,32.61
+1627,Schwarzatal,Saalfeld-Rudolstadt,Thüringen,3504,50.583,11.15,25.99
+1628,Schwarzenbach a.Wald,Hof,Bayern,4351,50.28333,11.62083,36.5
+1629,Schwarzenbach a.d.Saale,Hof,Bayern,6865,50.22083,11.93333,55.1
+1630,Schwarzenbek,Herzogtum Lauenburg,Schleswig-Holstein,16560,53.50417,10.47917,11.56
+1631,Schwarzenberg,Erzgebirgskreis,Sachsen,16168,50.54528,12.77917,46.25
+1632,Schwarzenborn,Schwalm-Eder-Kreis,Hessen,1200,50.917,9.433,26.9
+1633,Schwarzheide,Oberspreewald-Lausitz,Brandenburg,5568,51.48306,13.86667,33.23
+1634,Schwedt,Uckermark,Brandenburg,30189,53.05,14.267,252.19
+1635,Schweich,Trier-Saarburg,Rheinland-Pfalz,7866,49.82,6.75222,31.08
+1636,Schweinfurt,Urban district,Bayern,53319,50.05,10.23333,35.71
+1637,Schwelm,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,28590,51.267,7.267,20.5
+1638,Schwentinental,Plön,Schleswig-Holstein,13769,54.267,10.217,17.81
+1639,Schwerin,Urban district,Mecklenburg-Western Pomerania,95609,53.63333,11.41667,130.46
+1640,Schwerte,Unna,Nordrhein-Westfalen,46124,51.44583,7.56528,56.2
+1641,Schwetzingen,Rhein-Neckar-Kreis,Baden-Württemberg,21577,49.383,8.567,21.62
+1642,Schwäbisch Gmünd,Ostalbkreis,Baden-Württemberg,61216,48.8,9.8,113.78
+1643,Schwäbisch Hall,Schwäbisch Hall,Baden-Württemberg,40679,49.11222,9.7375,104.23
+1644,Schömberg,Zollernalbkreis,Baden-Württemberg,4754,48.21139,8.76167,23.27
+1645,Schönau im Schwarzwald,Lörrach,Baden-Württemberg,2425,47.78667,7.89417,14.7
+1646,Schönau,Rhein-Neckar-Kreis,Baden-Württemberg,4427,49.43556,8.80917,22.49
+1647,Schönberg,Nordwestmecklenburg,Mecklenburg-Western Pomerania,4699,53.85,10.917,52.18
+1648,Schönebeck,Salzlandkreis,Sachsen-Anhalt,30387,52.017,11.75,85.77
+1649,Schöneck,Vogtlandkreis,Sachsen,3114,50.367,12.317,55.06
+1650,Schönewalde,Elbe-Elster,Brandenburg,3056,51.8125,13.22278,155.13
+1651,Schöningen,Helmstedt,Niedersachsen,11214,52.133,10.95,35.36
+1652,Schönsee,Schwandorf,Bayern,2387,49.517,12.55,50.27
+1653,Schönwald,Wunsiedel im Fichtelgebirge,Bayern,3215,50.2,12.083,19.18
+1654,Schöppenstedt,Wolfenbüttel,Niedersachsen,5484,52.13306,10.77833,39.65
+1655,Schüttorf,Grafschaft Bentheim,Niedersachsen,12937,52.317,7.217,19.43
+1656,Sebnitz,Sächsische Schweiz-Osterzgebirge,Sachsen,9365,50.967,14.283,88.09
+1657,Seehausen,Stendal,Sachsen-Anhalt,4817,52.867,11.75,106.99
+1658,Seeland,Salzlandkreis,Sachsen-Anhalt,7796,51.8,11.333,78.79
+1659,Seelow,Märkisch-Oderland,Brandenburg,5394,52.51667,14.38306,25.28
+1660,Seelze,Hanover,Niedersachsen,34260,52.39611,9.59806,54.0
+1661,Seesen,Goslar,Niedersachsen,19111,51.89306,10.17833,102.13
+1662,Sehnde,Hanover,Niedersachsen,23554,52.31611,9.96417,103.44
+1663,Seifhennersdorf,Görlitz,Sachsen,3622,50.933,14.617,19.13
+1664,Selbitz,Hof,Bayern,4275,50.317,11.75,27.7
+1665,Selb,Wunsiedel im Fichtelgebirge,Bayern,14708,50.167,12.133,62.37
+1666,Seligenstadt,Offenbach,Hessen,21226,50.033,8.967,30.85
+1667,Selm,Unna,Nordrhein-Westfalen,25802,51.683,7.483,60.34
+1668,Selters,Westerwaldkreis,Rheinland-Pfalz,2819,50.53222,7.75722,8.71
+1669,Sendenhorst,Warendorf,Nordrhein-Westfalen,13289,51.84389,7.82778,96.66
+1670,Senden,Neu-Ulm,Bayern,22587,48.317,10.067,25.17
+1671,Senftenberg,Oberspreewald-Lausitz,Brandenburg,23371,51.517,14.017,127.56
+1672,Seßlach,Coburg,Bayern,3949,50.167,10.833,72.51
+1673,Siegburg,Rhein-Sieg-Kreis,Nordrhein-Westfalen,41669,50.80139,7.20444,23.47
+1674,Siegen,Siegen-Wittgenstein,Nordrhein-Westfalen,101943,50.883,8.017,114.67
+1675,Sigmaringen,Sigmaringen,Baden-Württemberg,16916,48.08667,9.21639,92.85
+1676,Simbach am Inn,Rottal-Inn,Bayern,10055,48.267,13.017,47.33
+1677,Simmern,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,7860,49.98333,7.51667,11.96
+1678,Sindelfingen,Böblingen,Baden-Württemberg,64595,48.71333,9.00278,50.85
+1679,Singen,Konstanz,Baden-Württemberg,48033,47.76278,8.84,61.75
+1680,Sinsheim,Rhein-Neckar-Kreis,Baden-Württemberg,35433,49.25,8.883,127.01
+1681,Sinzig,Ahrweiler,Rheinland-Pfalz,17642,50.54528,7.25194,41.02
+1682,Soest,Soest,Nordrhein-Westfalen,47206,51.57111,8.10917,85.81
+1683,Solingen,Urban district,Nordrhein-Westfalen,159193,51.16667,7.08333,89.45
+1684,Solms,Lahn-Dill-Kreis,Hessen,13641,50.53972,8.40722,34.05
+1685,Soltau,Heidekreis,Niedersachsen,21292,52.983,9.833,203.25
+1686,Sondershausen,Kyffhäuserkreis,Thüringen,21034,51.367,10.867,114.36
+1687,Sonneberg,Sonneberg,Thüringen,23229,50.35,11.167,84.69
+1688,Sonnewalde,Elbe-Elster,Brandenburg,3154,51.68306,13.65,118.54
+1689,Sonthofen,Oberallgäu,Bayern,21517,47.51583,10.28111,20.982
+1690,Sontra,Werra-Meißner-Kreis,Hessen,7693,51.067,9.933,111.29
+1691,Spaichingen,Tuttlingen,Baden-Württemberg,13187,48.07583,8.73778,18.5
+1692,Spalt,Roth,Bayern,5087,49.17389,10.9275,55.8
+1693,Spangenberg,Schwalm-Eder-Kreis,Hessen,6039,51.117,9.667,97.7
+1694,Speicher,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz,3624,49.93722,6.63806,15.37
+1695,Spenge,Herford,Nordrhein-Westfalen,14419,52.13306,8.48306,40.244
+1696,Speyer,Urban district,Rheinland-Pfalz,50741,49.31944,8.43111,42.58
+1697,Spremberg,Spree-Neiße,Brandenburg,21749,51.57167,14.37944,202.31
+1698,Springe,Hannover,Niedersachsen,29084,52.217,9.55,159.78
+1699,Sprockhövel,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,24702,51.367,7.25,47.78
+1700,Stadt Tegernsee,Miesbach,Bayern,3652,47.7,11.767,22.77
+1701,Stadt Wehlen,Sächsische Schweiz-Osterzgebirge,Sachsen,1565,50.95694,14.03222,10.81
+1702,Stadtallendorf,Marburg-Biedenkopf,Hessen,21263,50.833,9.017,78.29
+1703,Stadtbergen,Augsburg,Bayern,15222,48.367,10.85,11.5
+1704,Stadthagen,Schaumburg,Niedersachsen,22347,52.32472,9.20694,60.27
+1705,Stadtilm,Ilm-Kreis,Thüringen,8428,50.775,11.08083,120.26
+1706,Stadtlohn,Borken,Nordrhein-Westfalen,20290,51.9925,6.915,79.06
+1707,Stadtoldendorf,Holzminden,Niedersachsen,5636,51.883,9.617,24.86
+1708,Stadtprozelten,Miltenberg,Bayern,1536,49.783,9.417,10.84
+1709,Stadtroda,Saale-Holzland-Kreis,Thüringen,6590,50.85,11.73333,24.07
+1710,Stadtsteinach,Kulmbach,Bayern,3113,50.167,11.5,39.65
+1711,Starnberg,Starnberg,Bayern,23511,47.99722,11.34056,61.77
+1712,Staufen im Breisgau,Breisgau-Hochschwarzwald,Baden-Württemberg,8182,47.88139,7.73139,23.26
+1713,Staufenberg,Gießen,Hessen,8448,50.667,8.717,28.13
+1714,Stavenhagen,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,5721,53.7,12.9,40.84
+1715,Staßfurt,Salzlandkreis,Sachsen-Anhalt,24618,51.867,11.567,146.53
+1716,Steinach,Sonneberg,Thüringen,3762,50.43333,11.16667,26.35
+1717,Steinau an der Straße,Main-Kinzig-Kreis,Hessen,10192,50.317,9.467,104.88
+1718,Steinbach-Hallenberg,Schmalkalden-Meiningen,Thüringen,9479,50.70056,10.56667,76.72
+1719,Steinbach,Hochtaunuskreis,Hessen,10678,50.167,8.567,4.4
+1720,Steinfurt,Steinfurt,Nordrhein-Westfalen,34431,52.1475,7.34417,111.42
+1721,Steinheim an der Murr,Ludwigsburg,Baden-Württemberg,12122,48.96667,9.28333,23.19
+1722,Steinheim,Höxter,Nordrhein-Westfalen,12617,51.86583,9.09444,75.68
+1723,Stein,Fürth,Bayern,14346,49.417,11.017,19.52
+1724,Stendal,Stendal,Sachsen-Anhalt,38778,52.6,11.85,268.02
+1725,Sternberg,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,4120,53.7,11.817,67.67
+1726,Stockach,Konstanz,Baden-Württemberg,17116,47.85139,9.01139,69.75
+1727,Stolberg,Aachen,Nordrhein-Westfalen,56377,50.767,6.233,98.52
+1728,Stollberg,Erzgebirgskreis,Sachsen,11235,50.70833,12.77833,38.82
+1729,Stolpen,Sächsische Schweiz-Osterzgebirge,Sachsen,5564,51.04889,14.08278,60.85
+1730,Storkow,Oder-Spree,Brandenburg,9352,52.25,13.933,179.96
+1731,Straelen,Kleve,Nordrhein-Westfalen,16248,51.45,6.26667,74.0
+1732,Stralsund,Vorpommern-Rügen,Mecklenburg-Western Pomerania,59205,54.30917,13.08194,54.07
+1733,Strasburg,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,4553,53.5,13.75,86.84
+1734,Straubing,Urban district,Bayern,47612,48.883,12.567,67.58
+1735,Strausberg,Märkisch-Oderland,Brandenburg,26939,52.58333,13.88333,67.86
+1736,Strehla,Meißen,Sachsen,3688,51.3525,13.22583,30.07
+1737,Stromberg,Bad Kreuznach,Rheinland-Pfalz,3381,49.94694,7.77944,9.02
+1738,Stutensee,Karlsruhe,Baden-Württemberg,24897,49.06472,8.47167,45.67
+1739,Stuttgart,Stadtkreis,Baden-Württemberg,630305,48.782,9.184,207.33
+1740,Stößen,Burgenlandkreis,Sachsen-Anhalt,912,51.10972,11.93306,7.29
+1741,Stühlingen,Waldshut,Baden-Württemberg,5385,47.74528,8.44583,93.2
+1742,Suhl,Urban district,Thüringen,36395,50.61056,10.69306,141.62
+1743,Sulingen,Diepholz,Niedersachsen,12886,52.667,8.8,110.61
+1744,Sulz am Neckar,Rottweil,Baden-Württemberg,12458,48.36278,8.63167,87.6
+1745,Sulzbach-Rosenberg,Amberg-Sulzbach,Bayern,19252,49.5,11.75,53.19
+1746,Sulzbach,Saarbrücken,Saarland,16343,49.283,7.067,16.12
+1747,Sulzburg,Breisgau-Hochschwarzwald,Baden-Württemberg,2732,47.84028,7.70917,22.73
+1748,Sundern,Hochsauerlandkreis,Nordrhein-Westfalen,27554,51.317,8.0,192.86
+1749,Syke,Diepholz,Niedersachsen,24261,52.91306,8.82694,127.93
+1750,Sömmerda,Sömmerda,Thüringen,18886,51.16167,11.11694,87.6
+1751,Südliches Anhalt,Anhalt-Bitterfeld,Sachsen-Anhalt,13227,51.667,12.067,191.6
+1752,Süßen,Göppingen,Baden-Württemberg,10155,48.67972,9.7575,12.78
+1753,Tambach-Dietharz,Gotha,Thüringen,4381,50.78972,10.61667,41.54
+1754,Tangerhütte,Stendal,Sachsen-Anhalt,10612,52.433,11.8,294.73
+1755,Tangermünde,Stendal,Sachsen-Anhalt,10299,52.54083,11.96889,89.87
+1756,Tann (Rhön),Fulda,Hessen,4382,50.65,10.017,60.45
+1757,Tanna,Saale-Orla-Kreis,Thüringen,3507,50.49444,11.86111,87.18
+1758,Tauberbischofsheim,Main-Tauber-Kreis,Baden-Württemberg,13234,49.6225,9.66278,69.31
+1759,Taucha,Nordsachsen,Sachsen,15709,51.38,12.49361,33.7
+1760,Taunusstein,Rheingau-Taunus-Kreis,Hessen,30068,50.133,8.15,67.03
+1761,Tecklenburg,Steinfurt,Nordrhein-Westfalen,9138,52.21944,7.8125,70.37
+1762,Telgte,Warendorf,Nordrhein-Westfalen,19841,51.98194,7.78556,90.6
+1763,Teltow,Potsdam-Mittelmark,Brandenburg,27097,52.40222,13.27056,21.54
+1764,Templin,Uckermark,Brandenburg,15636,53.11667,13.5,377.01
+1765,Tengen,Konstanz,Baden-Württemberg,4690,47.81444,8.65917,61.98
+1766,Tessin,Rostock,Mecklenburg-Western Pomerania,3997,54.017,12.467,24.52
+1767,Teterow,Rostock,Mecklenburg-Western Pomerania,8334,53.767,12.567,47.17
+1768,Tettnang,Bodenseekreis,Baden-Württemberg,19589,47.67083,9.5875,71.22
+1769,Teublitz,Schwandorf,Bayern,7683,49.22083,12.08528,38.25
+1770,Teuchern,Burgenlandkreis,Sachsen-Anhalt,8014,51.117,12.017,81.84
+1771,Teupitz,Dahme-Spreewald,Brandenburg,1885,52.13611,13.61056,48.0
+1772,Teuschnitz,Kronach,Bayern,1957,50.39583,11.38056,34.26
+1773,Thale,Harz,Sachsen-Anhalt,17148,51.75,11.05,137.62
+1774,Thalheim,Erzgebirgskreis,Sachsen,5968,50.7025,12.85167,10.92
+1775,Thannhausen,Günzburg,Bayern,6351,48.267,10.467,20.02
+1776,Tharandt,Sächsische Schweiz-Osterzgebirge,Sachsen,5416,50.98333,13.58083,71.22
+1777,Themar,Hildburghausen,Thüringen,2771,50.50417,10.61583,20.19
+1778,Thum,Erzgebirgskreis,Sachsen,5056,50.67111,12.95139,18.89
+1779,Tirschenreuth,Tirschenreuth,Bayern,8623,49.883,12.333,66.54
+1780,Titisee-Neustadt,Breisgau-Hochschwarzwald,Baden-Württemberg,12216,47.91222,8.21472,89.66
+1781,Tittmoning,Traunstein,Bayern,5825,48.06306,12.76694,72.04
+1782,Todtnau,Lörrach,Baden-Württemberg,4823,47.833,7.95,69.6
+1783,Torgau,Nordsachsen,Sachsen,19768,51.56028,13.00556,102.53
+1784,Torgelow,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,8972,53.617,14.0,72.22
+1785,Tornesch,Pinneberg,Schleswig-Holstein,14131,53.7,9.717,20.62
+1786,Traben-Trarbach,Bernkastel-Wittlich,Rheinland-Pfalz,5554,49.95111,7.11667,31.35
+1787,Traunreut,Traunstein,Bayern,20951,47.967,12.583,45.05
+1788,Traunstein,Traunstein,Bayern,20530,47.867,12.633,48.53
+1789,Trebbin,Teltow-Fläming,Brandenburg,9728,52.21667,13.19972,125.66
+1790,Trebsen,Leipzig,Sachsen,3795,51.28306,12.75,35.03
+1791,Treffurt,Wartburgkreis,Thüringen,5936,51.13667,10.2375,72.46
+1792,Trendelburg,Kassel,Hessen,4866,51.583,9.417,69.35
+1793,Treuchtlingen,Weißenburg-Gunzenhausen,Bayern,13099,48.95528,10.90944,103.0
+1794,Treuenbrietzen,Potsdam-Mittelmark,Brandenburg,7423,52.09722,12.87111,211.33
+1795,Treuen,Vogtlandkreis,Sachsen,7790,50.5425,12.30222,43.74
+1796,Triberg im Schwarzwald,Schwarzwald-Baar-Kreis,Baden-Württemberg,4656,48.13083,8.23167,33.32
+1797,Tribsees,Vorpommern-Rügen,Mecklenburg-Western Pomerania,2598,54.083,12.75,54.75
+1798,Trier,Urban district,Rheinland-Pfalz,110674,49.75667,6.64139,117.06
+1799,Triptis,Saale-Orla-Kreis,Thüringen,3597,50.733,11.85,32.96
+1800,Trochtelfingen,Reutlingen,Baden-Württemberg,6330,48.30806,9.24444,79.14
+1801,Troisdorf,Rhein-Sieg-Kreis,Nordrhein-Westfalen,74994,50.81611,7.15556,62.17
+1802,Trossingen,Tuttlingen,Baden-Württemberg,17023,48.07556,8.63611,24.2
+1803,Trostberg,Traunstein,Bayern,11273,48.017,12.55,51.36
+1804,Tuttlingen,Tuttlingen,Baden-Württemberg,36507,47.985,8.82333,90.48
+1805,Twistringen,Diepholz,Niedersachsen,12423,52.8,8.65,114.22
+1806,Töging am Inn,Altötting,Bayern,9249,48.25,12.567,13.66
+1807,Tönisvorst,Viersen,Nordrhein-Westfalen,29249,51.32083,6.49306,44.33
+1808,TönningTønning / Taning,Nordfriesland,Schleswig-Holstein,4952,54.31722,8.94278,44.41
+1809,Tübingen,Tübingen,Baden-Württemberg,91077,48.52,9.05556,108.12
+1810,Uebigau-Wahrenbrück,Elbe-Elster,Brandenburg,5233,51.55,13.35,134.91
+1811,Ueckermünde,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,8472,53.73889,14.04444,84.64
+1812,Uelzen,Uelzen,Niedersachsen,33685,52.96472,10.56583,135.84
+1813,Uetersen,Pinneberg,Schleswig-Holstein,18595,53.68722,9.66917,11.43
+1814,Uffenheim,Neustadt a.d.Aisch-Bad Windsheim,Bayern,6564,49.517,10.25,59.47
+1815,Uhingen,Göppingen,Baden-Württemberg,14479,48.70583,9.59194,24.79
+1816,Ulmen,Cochem-Zell,Rheinland-Pfalz,3377,50.2086889,6.9795889,28.62
+1817,Ulm,Stadtkreis,Baden-Württemberg,126405,48.4,9.983,118.69
+1818,Ulrichstein,Vogelsbergkreis,Hessen,2908,50.583,9.2,65.61
+1819,Ummerstadt,Hildburghausen,Thüringen,468,50.25833,10.82778,15.7
+1820,Unkel,Neuwied,Rheinland-Pfalz,4971,50.60083,7.215,8.16
+1821,Unna,Unna,Nordrhein-Westfalen,58816,51.53472,7.68889,88.52
+1822,Unterschleißheim,Munich,Bayern,28824,48.28333,11.56667,14.93
+1823,Usedom,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,1747,53.867,13.917,38.54
+1824,Usingen,Hochtaunuskreis,Hessen,14722,50.33444,8.5375,55.83
+1825,Uslar,Northeim,Niedersachsen,14068,51.65972,9.63583,113.4
+1826,Vacha,Wartburgkreis,Thüringen,5055,50.82889,10.02139,44.41
+1827,Vaihingen an der Enz,Ludwigsburg,Baden-Württemberg,29307,48.93278,8.95639,73.41
+1828,Vallendar,Mayen-Koblenz,Rheinland-Pfalz,8764,50.3971361,7.6220222,13.22
+1829,Varel,Friesland,Niedersachsen,23984,53.39694,8.13611,113.53
+1830,Vechta,Vechta,Niedersachsen,32894,52.73056,8.28861,87.8
+1831,Velbert,Mettmann,Nordrhein-Westfalen,81564,51.333,7.05,74.9
+1832,Velburg,Neumarkt in der Oberpfalz,Bayern,5350,49.23278,11.67194,175.65
+1833,Velden,Nürnberger Land,Bayern,1813,49.617,11.517,21.32
+1834,Velen,Borken,Nordrhein-Westfalen,13112,51.89389,6.98972,70.52
+1835,Vellberg,Schwäbisch Hall,Baden-Württemberg,4557,49.08778,9.88167,31.89
+1836,Vellmar,Kassel,Hessen,18224,51.35,9.467,13.97
+1837,Velten,Oberhavel,Brandenburg,12296,52.683,13.183,23.39
+1838,Verden an der Aller,Verden,Niedersachsen,27636,52.92333,9.235,71.59
+1839,Veringenstadt,Sigmaringen,Baden-Württemberg,2123,48.17833,9.21194,31.24
+1840,Verl,Gütersloh,Nordrhein-Westfalen,25382,51.88306,8.51667,71.36
+1841,Versmold,Gütersloh,Nordrhein-Westfalen,21697,52.04361,8.15,84.81
+1842,Vetschau,Oberspreewald-Lausitz,Brandenburg,7862,51.78306,14.06667,110.22
+1843,Viechtach,Regen,Bayern,8446,49.07917,12.88472,62.48
+1844,Viernheim,Bergstraße,Hessen,34281,49.54167,8.57861,48.41
+1845,Viersen,Viersen,Nordrhein-Westfalen,77376,51.25611,6.39722,91.07
+1846,Villingen-Schwenningen,Schwarzwald-Baar-Kreis,Baden-Württemberg,85686,48.06028,8.45861,165.47
+1847,Vilsbiburg,Landshut,Bayern,12231,48.45,12.35,68.85
+1848,Vilseck,Amberg-Sulzbach,Bayern,6387,49.6,11.8,64.71
+1849,Vilshofen an der Donau,Passau,Bayern,16950,48.63306,13.18306,86.36
+1850,Visselhövede,Rotenburg (Wümme),Niedersachsen,9579,52.967,9.583,158.85
+1851,Vlotho,Herford,Nordrhein-Westfalen,18384,52.16667,8.84972,76.92
+1852,Voerde,Wesel,Nordrhein-Westfalen,36047,51.6,6.68333,53.49
+1853,Vogtsburg,Breisgau-Hochschwarzwald,Baden-Württemberg,6121,48.08917,7.63167,37.4
+1854,Vohburg a.d.Donau,Pfaffenhofen an der Ilm,Bayern,8541,48.767,11.617,45.19
+1855,Vohenstrauß,Neustadt a.d.Waldnaab,Bayern,7518,49.617,12.333,74.07
+1856,Volkach,Kitzingen,Bayern,8796,49.867,10.217,60.19
+1857,Volkmarsen,Waldeck-Frankenberg,Hessen,6704,51.383,9.117,67.47
+1858,Vreden,Borken,Nordrhein-Westfalen,22676,52.03306,6.83306,135.53
+1859,Vöhrenbach,Schwarzwald-Baar-Kreis,Baden-Württemberg,3783,48.04556,8.30417,70.47
+1860,Vöhringen,Neu-Ulm,Bayern,13780,48.283,10.083,23.63
+1861,Völklingen,Saarbrücken,Saarland,39412,49.25,6.833,67.06
+1862,Wachenheim,Bad Dürkheim,Rheinland-Pfalz,4585,49.44111,8.18,24.97
+1863,Wadern,Merzig-Wadern,Saarland,15667,49.517,6.867,111.17
+1864,Waghäusel,Karlsruhe,Baden-Württemberg,21079,49.25,8.517,42.84
+1865,Wahlstedt,Segeberg,Schleswig-Holstein,9839,53.95,10.217,15.74
+1866,Waiblingen,Rems-Murr-Kreis,Baden-Württemberg,55526,48.83028,9.31694,42.76
+1867,Waibstadt,Rhein-Neckar-Kreis,Baden-Württemberg,5644,49.2975,8.92,25.57
+1868,Waischenfeld,Bayreuth,Bayern,3055,49.85,11.333,55.65
+1869,Waldbröl,Oberbergischer Kreis,Nordrhein-Westfalen,19599,50.87889,7.615,63.02
+1870,Waldeck,Waldeck-Frankenberg,Hessen,6743,51.2,9.067,115.73
+1871,Waldenbuch,Böblingen,Baden-Württemberg,8748,48.63722,9.13167,22.7
+1872,Waldenburg,Hohenlohekreis,Baden-Württemberg,3025,49.183,9.633,31.55
+1873,Waldenburg,Zwickau,Sachsen,4059,50.87583,12.59972,25.07
+1874,Waldershof,Tirschenreuth,Bayern,4256,49.967,12.067,60.4
+1875,Waldheim,Mittelsachsen,Sachsen,8845,51.067,13.017,41.62
+1876,Waldkappel,Werra-Meißner-Kreis,Hessen,4228,51.15,9.883,96.48
+1877,Waldkirchen,Freyung-Grafenau,Bayern,10732,48.7304778,13.601139,80.06
+1878,Waldkirch,Emmendingen,Baden-Württemberg,21801,48.1,7.967,48.47
+1879,Waldkraiburg,Mühldorf am Inn,Bayern,23604,48.217,12.4,21.53
+1880,Waldmohr,Kusel,Rheinland-Pfalz,5111,49.39528,7.34111,13.07
+1881,Waldmünchen,Cham,Bayern,6615,49.367,12.7,101.16
+1882,Waldsassen,Tirschenreuth,Bayern,6626,50.0,12.3,66.54
+1883,Waldshut-Tiengen,Waldshut,Baden-Württemberg,24067,47.62306,8.21444,77.98
+1884,Walldorf,Rhein-Neckar-Kreis,Baden-Württemberg,15545,49.3,8.65,19.91
+1885,Walldürn,Neckar-Odenwald-Kreis,Baden-Württemberg,11601,49.58306,9.36806,105.88
+1886,Wallenfels,Kronach,Bayern,2589,50.2675,11.47333,45.6
+1887,Walsrode,Heidekreis,Niedersachsen,30220,52.867,9.583,334.8
+1888,Waltershausen,Gotha,Thüringen,12712,50.8975,10.55583,71.2
+1889,Waltrop,Recklinghausen,Nordrhein-Westfalen,29472,51.617,7.383,46.98
+1890,Wanfried,Werra-Meißner-Kreis,Hessen,4190,51.183,10.167,46.9
+1891,Wangen im Allgäu,Ravensburg,Baden-Württemberg,26927,47.68583,9.83417,101.28
+1892,Wanzleben-Börde,Börde,Sachsen-Anhalt,13716,52.067,11.433,188.07
+1893,Warburg,Höxter,Nordrhein-Westfalen,22928,51.5,9.16972,168.71
+1894,Warendorf,Warendorf,Nordrhein-Westfalen,37173,51.95389,7.99333,176.75
+1895,Waren,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,21147,53.517,12.683,158.39
+1896,Warin,Nordwestmecklenburg,Mecklenburg-Western Pomerania,3239,53.783,11.683,44.26
+1897,Warstein,Soest,Nordrhein-Westfalen,24520,51.45,8.35,157.91
+1898,Wassenberg,Heinsberg,Nordrhein-Westfalen,18830,51.1,6.15,42.41
+1899,Wasserburg am Inn,Rosenheim,Bayern,12662,48.0617,12.2333,18.8
+1900,Wassertrüdingen,Ansbach,Bayern,6063,49.033,10.6,53.58
+1901,Wasungen,Schmalkalden-Meiningen,Thüringen,5450,50.66667,10.36667,89.09
+1902,Wedel,Pinneberg,Schleswig-Holstein,33935,53.583,9.7,33.82
+1903,Weener,Leer,Niedersachsen,15822,53.16917,7.35639,81.24
+1904,Wegberg,Heinsberg,Nordrhein-Westfalen,28130,51.14167,6.27917,84.0
+1905,Wegeleben,Harz,Sachsen-Anhalt,2474,51.867,11.167,51.76
+1906,Wehr,Waldshut,Baden-Württemberg,13140,47.62972,7.90444,35.66
+1907,Weida,Greiz,Thüringen,8318,50.775,12.05694,36.48
+1908,Weiden in der Oberpfalz,Urban district,Bayern,42535,49.667,12.15,68.5
+1909,Weikersheim,Main-Tauber-Kreis,Baden-Württemberg,7439,49.48167,9.89917,80.92
+1910,"Weil am Rhein, Germany",Lörrach,Baden-Württemberg,30009,47.59472,7.61083,19.47
+1911,Weil der Stadt,Böblingen,Baden-Württemberg,19107,48.75083,8.87056,43.17
+1912,Weilburg,Limburg-Weilburg,Hessen,12955,50.483,8.25,57.45
+1913,Weilheim an der Teck,Esslingen,Baden-Württemberg,10351,48.615,9.53861,26.51
+1914,Weilheim in Oberbayern,Weilheim-Schongau,Bayern,22727,47.833,11.15,55.44
+1915,Weimar,Urban district,Thüringen,65098,50.98333,11.31667,84.48
+1916,Weingarten,Ravensburg,Baden-Württemberg,25158,47.80917,9.64444,12.17
+1917,Weinheim,Rhein-Neckar-Kreis,Baden-Württemberg,45335,49.55,8.667,58.11
+1918,Weinsberg,Heilbronn,Baden-Württemberg,12446,49.151806,9.285694,22.22
+1919,Weinstadt,Rems-Murr-Kreis,Baden-Württemberg,26916,48.81111,9.36556,31.71
+1920,Weismain,Lichtenfels,Bayern,4727,50.067,11.217,90.14
+1921,Weiterstadt,Darmstadt-Dieburg,Hessen,26064,49.9,8.6,34.4
+1922,Weißenberg,Bautzen,Sachsen,3067,51.19694,14.65944,50.92
+1923,Weißenburg in Bayern,Weißenburg-Gunzenhausen,Bayern,18578,49.03056,10.97194,97.55
+1924,Weißenfels,Burgenlandkreis,Sachsen-Anhalt,39958,51.2,11.967,113.51
+1925,Weißenhorn,Neu-Ulm,Bayern,13699,48.3,10.167,53.69
+1926,Weißensee,Sömmerda,Thüringen,3634,51.18333,11.06667,55.33
+1927,Weißenstadt,Wunsiedel im Fichtelgebirge,Bayern,3095,50.10083,11.88472,42.23
+1928,Weißenthurm,Mayen-Koblenz,Rheinland-Pfalz,9191,50.41444,7.46056,3.99
+1929,Weißwasser,Görlitz,Sachsen,15640,51.5,14.633,63.6
+1930,Welzheim,Rems-Murr-Kreis,Baden-Württemberg,11160,48.87472,9.63444,37.99
+1931,Welzow,Spree-Neiße,Brandenburg,3317,51.56667,14.18306,23.91
+1932,Wemding,Donau-Ries,Bayern,5817,48.867,10.717,31.69
+1933,Wendlingen,Esslingen,Baden-Württemberg,16173,48.67472,9.38167,12.15
+1934,Werben,Stendal,Sachsen-Anhalt,1017,52.867,11.967,53.39
+1935,Werdau,Zwickau,Sachsen,20471,50.733,12.383,65.6
+1936,Werder (Havel),Potsdam-Mittelmark,Brandenburg,26662,52.37806,12.935,115.99
+1937,Werdohl,Märkischer Kreis,Nordrhein-Westfalen,17660,51.267,7.767,33.35
+1938,Werlte,Emsland,Niedersachsen,10308,52.85,7.683,63.75
+1939,Werl,Soest,Nordrhein-Westfalen,30702,51.55,7.92,76.24
+1940,Wermelskirchen,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,34597,51.15,7.217,74.66
+1941,Wernau,Esslingen,Baden-Württemberg,12275,48.68861,9.42222,10.9
+1942,Werneuchen,Barnim,Brandenburg,9226,52.63306,13.73306,116.34
+1943,Werne,Unna,Nordrhein-Westfalen,29588,51.667,7.617,76.08
+1944,Wernigerode,Harz,Sachsen-Anhalt,32181,51.835,10.78528,170.03
+1945,Werra-Suhl-Tal,Wartburgkreis,Thüringen,6347,50.933,10.067,77.67
+1946,Wertheim,Main-Tauber-Kreis,Baden-Württemberg,22879,49.75889,9.5175,138.63
+1947,Werther (Westf.),Gütersloh,Nordrhein-Westfalen,11091,52.075,8.4125,35.31
+1948,Wertingen,Dillingen,Bayern,9356,48.533,10.667,51.8
+1949,Wesel,Wesel,Nordrhein-Westfalen,60329,51.65861,6.61778,122.617
+1950,Wesenberg,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,3057,53.267,12.967,89.43
+1951,Wesselburen,Dithmarschen,Schleswig-Holstein,3470,54.217,8.917,5.14
+1952,Wesseling,Rhein-Erft-Kreis,Nordrhein-Westfalen,36731,50.817,6.967,23.4
+1953,Westerburg,Westerwaldkreis,Rheinland-Pfalz,5739,50.56389,7.9725,18.48
+1954,Westerstede,Ammerland,Niedersachsen,23232,53.25,7.917,179.0
+1955,Wetter (Hessen),Marburg-Biedenkopf,Hessen,8841,50.88333,8.71667,104.56
+1956,Wetter,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,27269,51.38806,7.395,31.47
+1957,Wettin-Löbejün,Saalekreis,Sachsen-Anhalt,9821,51.633,11.9,126.94
+1958,Wetzlar,Lahn-Dill-Kreis,Hessen,53188,50.567,8.5,75.67
+1959,Widdern,Heilbronn,Baden-Württemberg,1854,49.317,9.417,25.23
+1960,Wiehl,Oberbergischer Kreis,Nordrhein-Westfalen,25199,50.95,7.533,53.27
+1961,Wiesbaden,Urban district,Hessen,278609,50.0825,8.24,203.9
+1962,Wiesensteig,Göppingen,Baden-Württemberg,2034,48.56167,9.62528,23.4
+1963,Wiesloch,Rhein-Neckar-Kreis,Baden-Württemberg,26605,49.29417,8.69833,30.262
+1964,Wiesmoor,Aurich,Niedersachsen,13339,53.4,7.733,82.99
+1965,Wildau,Dahme-Spreewald,Brandenburg,10633,52.317,13.633,9.09
+1966,Wildberg,Calw,Baden-Württemberg,10183,48.62389,8.74722,56.68
+1967,Wildenfels,Zwickau,Sachsen,3565,50.6575,12.58278,20.57
+1968,Wildeshausen,Oldenburg,Niedersachsen,20454,52.9,8.433,89.47
+1969,Wilhelmshaven,Urban district,Niedersachsen,75189,53.51667,8.13333,106.91
+1970,Wilkau-Haßlau,Zwickau,Sachsen,9531,50.667,12.517,12.7
+1971,Willebadessen,Höxter,Nordrhein-Westfalen,8154,51.63306,9.03306,128.13
+1972,Willich,Viersen,Nordrhein-Westfalen,50283,51.26306,6.54917,67.77
+1973,Wilsdruff,Sächsische Schweiz-Osterzgebirge,Sachsen,14444,51.05222,13.53833,81.69
+1974,Wilster,Steinburg,Schleswig-Holstein,4301,53.9225,9.37444,2.71
+1975,Wilthen,Bautzen,Sachsen,4786,51.1,14.4,17.06
+1976,Windischeschenbach,Neustadt a.d.Waldnaab,Bayern,4923,49.8,12.167,36.38
+1977,Windsbach,Ansbach,Bayern,6151,49.25,10.817,68.17
+1978,Winnenden,Rems-Murr-Kreis,Baden-Württemberg,28334,48.87639,9.39778,28.05
+1979,Winsen,Harburg,Niedersachsen,35332,53.367,10.217,109.55
+1980,Winterberg,Hochsauerlandkreis,Nordrhein-Westfalen,12442,51.2,8.517,147.86
+1981,Wipperfürth,Oberbergischer Kreis,Nordrhein-Westfalen,20875,51.11667,7.4,118.16
+1982,Wirges,Westerwaldkreis,Rheinland-Pfalz,5474,50.47417,7.79528,10.13
+1983,Wismar,Nordwestmecklenburg,Mecklenburg-Western Pomerania,42824,53.9,11.467,41.36
+1984,Wissen,Altenkirchen (Westerwald),Rheinland-Pfalz,8253,50.7825,7.735,34.88
+1985,Wittenberge,Prignitz,Brandenburg,16862,53.0,11.75,50.44
+1986,Wittenberg,Wittenberg,Sachsen-Anhalt,45425,51.8671,12.6484,240.32
+1987,Wittenburg,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,6303,53.5,11.067,80.0
+1988,Witten,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,95876,51.43333,7.33333,72.4
+1989,Wittichenau,Bautzen,Sachsen,5723,51.383,14.25,62.24
+1990,Wittingen,Gifhorn,Niedersachsen,11357,52.717,10.733,225.08
+1991,Wittlich,Bernkastel-Wittlich,Rheinland-Pfalz,19222,49.98694,6.88972,49.64
+1992,Wittmund,Wittmund,Niedersachsen,20405,53.575,7.78083,210.0
+1993,Wittstock,Ostprignitz-Ruppin,Brandenburg,14007,53.16361,12.48556,417.2
+1994,"Witzenhausen, Germany",Werra-Meißner-Kreis,Hessen,15003,51.34222,9.85778,126.69
+1995,Woldegk,Mecklenburgische Seenplatte,Mecklenburg-Western Pomerania,4308,53.45944,13.58278,164.14
+1996,Wolfach,Ortenaukreis,Baden-Württemberg,5760,48.3,8.217,67.99
+1997,Wolfenbüttel,Wolfenbüttel,Niedersachsen,52121,52.16222,10.53694,78.46
+1998,Wolfhagen,Kassel,Hessen,13074,51.317,9.167,111.95
+1999,Wolframs-Eschenbach,Ansbach,Bayern,3119,49.233,10.733,25.47
+2000,Wolfratshausen,Bad Tölz-Wolfratshausen,Bayern,19091,47.91333,11.42778,9.13
+2001,Wolfsburg,Urban district,Niedersachsen,123840,52.42306,10.78722,204.02
+2002,Wolfstein,Kusel,Rheinland-Pfalz,1888,49.58417,7.60611,13.75
+2003,Wolgast,Vorpommern-Greifswald,Mecklenburg-Western Pomerania,11840,54.05,13.767,61.53
+2004,Wolkenstein,Erzgebirgskreis,Sachsen,3886,50.65444,13.07472,30.51
+2005,Wolmirstedt,Börde,Sachsen-Anhalt,11376,52.25194,11.62972,54.28
+2006,Worms,Urban district,Rheinland-Pfalz,83459,49.63194,8.36528,108.73
+2007,Wriezen,Märkisch-Oderland,Brandenburg,7125,52.71667,14.13306,94.54
+2008,Wunsiedel,Wunsiedel im Fichtelgebirge,Bayern,9155,50.017,12.017,54.91
+2009,Wunstorf,Hanover,Niedersachsen,41480,52.4275,9.42944,126.6
+2010,Wuppertal,Urban district,Nordrhein-Westfalen,355004,51.26667,7.18333,168.41
+2011,Wurzbach,Saale-Orla-Kreis,Thüringen,3036,50.46389,11.53667,72.31
+2012,Wurzen,Leipzig,Sachsen,16211,51.367,12.717,68.54
+2013,Wustrow,Lüchow-Dannenberg,Niedersachsen,2790,52.92194,11.12167,29.9
+2014,Wyk auf Föhra Wik / Vyk,Nordfriesland,Schleswig-Holstein,4280,54.7,8.567,8.0
+2015,Wächtersbach,Main-Kinzig-Kreis,Hessen,12719,50.26667,9.3,50.79
+2016,Wörrstadt,Alzey-Worms,Rheinland-Pfalz,8012,49.84306,8.11556,16.75
+2017,Wörth am Main,Miltenberg,Bayern,4772,49.79639,9.1575,15.89
+2018,Wörth am Rhein,Germersheim,Rheinland-Pfalz,18217,49.05167,8.26028,131.64
+2019,Wörth an der Donau,Regensburg,Bayern,4896,49.00083,12.40111,52.34
+2020,Wülfrath,Mettmann,Nordrhein-Westfalen,21003,51.28333,7.03333,32.23
+2021,Würselen,Aachen,Nordrhein-Westfalen,38496,50.817,6.133,34.385
+2022,Würzburg,Urban district,Bayern,126954,49.783,9.933,87.63
+2023,Xanten,Wesel,Nordrhein-Westfalen,21521,51.66222,6.45389,72.39
+2024,Zahna-Elster,Wittenberg,Sachsen-Anhalt,9184,51.79917,12.40694,148.49
+2025,Zarrentin am Schaalsee,Ludwigslust-Parchim,Mecklenburg-Western Pomerania,5369,53.533,10.917,91.89
+2026,Zehdenick,Oberhavel,Brandenburg,13307,52.983,13.333,221.52
+2027,Zeil am Main,Haßberge,Bayern,5617,50.017,10.6,35.74
+2028,Zeitz,Burgenlandkreis,Sachsen-Anhalt,27187,51.04778,12.13833,87.15
+2029,Zell am Harmersbach,Ortenaukreis,Baden-Württemberg,8066,48.34667,8.06389,36.43
+2030,Zell im Wiesental,Lörrach,Baden-Württemberg,6296,47.70694,7.85139,36.13
+2031,Zella-Mehlis,Schmalkalden-Meiningen,Thüringen,12630,50.65972,10.66694,52.99
+2032,Zell,Cochem-Zell,Rheinland-Pfalz,4064,50.02639,7.18361,44.98
+2033,Zerbst,Anhalt-Bitterfeld,Sachsen-Anhalt,21294,51.96806,12.08444,467.65
+2034,Zeulenroda-Triebes,Greiz,Thüringen,16194,50.64861,11.98056,134.72
+2035,Zeven,Rotenburg,Niedersachsen,13876,53.3,9.28333,73.9
+2036,Ziegenrück,Saale-Orla-Kreis,Thüringen,640,50.61667,11.65,8.24
+2037,Zierenberg,Kassel,Hessen,6547,51.317,9.167,86.53
+2038,Ziesar,Potsdam-Mittelmark,Brandenburg,2503,52.26667,12.28306,67.46
+2039,Zirndorf,Fürth,Bayern,25748,49.45,10.95,28.78
+2040,Zittau,Görlitz,Sachsen,24738,50.89611,14.80722,66.74
+2041,Zossen,Teltow-Fläming,Brandenburg,20182,52.21667,13.44972,179.57
+2042,Zschopau,Erzgebirgskreis,Sachsen,9024,50.75,13.067,22.88
+2043,Zweibrücken,Urban district,Rheinland-Pfalz,34001,49.25,7.367,70.99
+2044,Zwenkau,Leipzig,Sachsen,9273,51.2175,12.32417,46.21
+2045,Zwickau,Zwickau,Sachsen,87516,50.717,12.5,102.54
+2046,Zwiesel,Regen,Bayern,9179,49.017,13.233,41.14
+2047,Zwingenberg,Bergstraße,Hessen,7291,49.71667,8.61667,5.66
+2048,Zwönitz,Erzgebirgskreis,Sachsen,11861,50.61667,12.8,64.18
+2049,Zörbig,Anhalt-Bitterfeld,Sachsen-Anhalt,9123,51.61667,12.11667,113.26
+2050,Zülpich,Euskirchen,Nordrhein-Westfalen,20440,50.7,6.65,101.0
+2051,Öhringen,Hohenlohekreis,Baden-Württemberg,24925,49.2,9.5,67.79
+2052,Östringen,Karlsruhe,Baden-Württemberg,13038,49.21944,8.71083,53.23
+2053,Übach-Palenberg,Heinsberg,Nordrhein-Westfalen,23906,50.91972,6.11944,26.11
+2054,Überlingen,Bodenseekreis,Baden-Württemberg,22713,47.76667,9.15833,58.67
